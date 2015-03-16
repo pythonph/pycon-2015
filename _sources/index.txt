@@ -14,7 +14,7 @@ students and IT educators in a 2-day event where they can collaborate and
 learn from each other.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    theme
    date-and-venue
