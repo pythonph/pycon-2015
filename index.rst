@@ -19,6 +19,7 @@ startup founders, corporate IT decision makers, students and IT educators in a
    date-and-venue
    speakers
    volunteers
+   coc
    past-pycons
 
 Sponsors
