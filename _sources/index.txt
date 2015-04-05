@@ -8,10 +8,9 @@ The main goal of this conference is to provide a venue where the Python
 programming language and surrounding technologies can be explored, discussed and
 exercised.
 
-At the same time an underlying interest would be to gather software engineers,
-programming enthusiasts, startup founders, corporate IT decision makers,
-students and IT educators in a 2-day event where they can collaborate and
-learn from each other.
+We have an interest to gather software engineers, programming enthusiasts, 
+startup founders, corporate IT decision makers, students and IT educators in a 
+2-day event where we can collaborate and learn with each other.
 
 .. toctree::
    :maxdepth: 3
@@ -20,6 +19,7 @@ learn from each other.
    date-and-venue
    speakers
    volunteers
+   coc
    past-pycons
 
 Sponsors
