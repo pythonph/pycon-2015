@@ -29,29 +29,29 @@ Sponsors
 
 Plantinum
 ^^^^^^^^^
-Python Software Foundation
+.. pending: Python Software Foundation
 
-.. image:: _static/images/psf.png
-  :target: http://www.python.org/psf/
+.. pending: .. image:: _static/images/psf.png
+.. pending:   :target: http://www.python.org/psf/
    
-The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language. We manage the open source licensing for Python version 2.1 and later and own and protect the trademarks associated with Python. We also run the North American `PyCon <http://us.pycon.org/>`_ conference annually, support other Python conferences around the world, and fund Python related development with our `grants program <http://www.python.org/psf/grants/>`_ and by funding special projects.    
+.. pending: The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language. We manage the open source licensing for Python version 2.1 and later and own and protect the trademarks associated with Python. We also run the North American `PyCon <http://us.pycon.org/>`_ conference annually, support other Python conferences around the world, and fund Python related development with our `grants program <http://www.python.org/psf/grants/>`_ and by funding special projects.    
 
-SmartDevNet
+.. pending: SmartDevNet
 
-.. image:: _static/images/smart-devnet.png
-  :target: http://www1.smart.com.ph/developer/
+.. pending: .. image:: _static/images/smart-devnet.png
+.. pending:   :target: http://www1.smart.com.ph/developer/
 
-The SMART Developer Network (also known as SMART DevNet) is SMART Communications' developer community program, targeted at developers on desktop and mobile platforms interested in using SMART's technology platforms such as network tools and APIs. We promote general awareness of mobile apps development and "technopreneurship" thorough related groups like the IdeaSpace Foundation. We also strive to be a catalyst for fostering a vibrant developer community in the Philippines by organizing our own developer events as well as sponsoring other developer groups' events and meetups. 
+.. pending: The SMART Developer Network (also known as SMART DevNet) is SMART Communications' developer community program, targeted at developers on desktop and mobile platforms interested in using SMART's technology platforms such as network tools and APIs. We promote general awareness of mobile apps development and "technopreneurship" thorough related groups like the IdeaSpace Foundation. We also strive to be a catalyst for fostering a vibrant developer community in the Philippines by organizing our own developer events as well as sponsoring other developer groups' events and meetups. 
 
 Silver
 ^^^^^^
 
-Github
+.. pending: Github
 
-.. image:: _static/images/github.svg
-  :target: https://github.com/
+.. pending: .. image:: _static/images/github.svg
+.. pending:   :target: https://github.com/
    
-GitHub is the best way to build software together. GitHub provides tools for easier collaboration and code sharing from any device. Start collaborating today — open source project hosting is free!    
+.. pending: GitHub is the best way to build software together. GitHub provides tools for easier collaboration and code sharing from any device. Start collaborating today — open source project hosting is free!    
 
 Gold
 ^^^^
@@ -63,58 +63,58 @@ Django Software Foundation
 
 The Django Software Foundation is a US-based non-profit organisation with the mission to promote, support, and advance the `Django Web framework <https://www.djangoproject.com/>`_. The DSF sponsors sprints, meetups, gatherings and community events, and protects the intellectual property of the Django project. 
 
-Concentrix
+.. pending: Concentrix
 
-.. image:: _static/images/concentrix.png
-  :target: http://concentrix.com/
+.. pending: .. image:: _static/images/concentrix.png
+.. pending:   :target: http://concentrix.com/
    
-Concentrix offers many exciting employment opportunities that will take you as far as your ambition and desire can go. We specialize in technical support and new technology-related project initiatives, and we are expanding our call center service capabilities.    
+.. pending: Concentrix offers many exciting employment opportunities that will take you as far as your ambition and desire can go. We specialize in technical support and new technology-related project initiatives, and we are expanding our call center service capabilities.    
 
-Bronze
-^^^^^^
+.. pending: Bronze
+.. pending: ^^^^^^
 
-Infoshift
+.. pending: Infoshift
 
-.. image:: _static/images/infoshift.png
-  :target: http://www.infoshiftinc.com/
+.. pending: .. image:: _static/images/infoshift.png
+.. pending:   :target: http://www.infoshiftinc.com/
    
-Collabspot
+.. pending: Collabspot
 
-.. image:: _static/images/collabspot.svg
-  :target: http://www.collabspot.com/
+.. pending: .. image:: _static/images/collabspot.svg
+.. pending:   :target: http://www.collabspot.com/
    
-Eastvantage
+.. pending: Eastvantage
 
-.. image:: _static/images/eastvantage.png
-  :target: http://www.eastvantage.com/
+.. pending: .. image:: _static/images/eastvantage.png
+.. pending:   :target: http://www.eastvantage.com/
 
-engageSpark
+.. pending: engageSpark
 
-.. image:: _static/images/engagespark.png
-  :target: http://www.engagespark.com/
+.. pending: .. image:: _static/images/engagespark.png
+.. pending:   :target: http://www.engagespark.com/
 
-Ingenuity
+.. pending: Ingenuity
 
-.. image:: _static/images/ingenuity.svg
-  :target: http://ingenuity.ph/
+.. pending: .. image:: _static/images/ingenuity.svg
+.. pending:   :target: http://ingenuity.ph/
    
-Marketing Sponsor
-^^^^^^^^^^^^^^^^^
+.. pending: Marketing Sponsor
+.. pending: ^^^^^^^^^^^^^^^^^
 
-Save22
+.. pending: Save22
 
-.. image:: _static/images/save22.png
-  :target: http://www.save22.com/
+.. pending: .. image:: _static/images/save22.png
+.. pending:   :target: http://www.save22.com/
    
-Digital Ocean
+.. pending: Digital Ocean
 
-.. image:: _static/images/digital-ocean.svg
-  :target: https://www.digitalocean.com/
+.. pending: .. image:: _static/images/digital-ocean.svg
+.. pending:   :target: https://www.digitalocean.com/
    
-Two Scoops Press
+.. pending: Two Scoops Press
 
-.. image:: _static/images/twoscoopspress.png
-  :target: http://twoscoopspress.com/
+.. pending: .. image:: _static/images/twoscoopspress.png
+.. pending:   :target: http://twoscoopspress.com/
 
 .. Co-organizer
 .. ^^^^^^^^^^^^
@@ -126,7 +126,9 @@ Two Scoops Press
 
 .. pending: Oracle
 .. pending: Coins.ph
-.. pending: Titanium
+
+Titanium
+
 .. pending: Ideaspace
 .. pending: Google
 .. pending: Globe
