@@ -30,6 +30,8 @@ Speakers
  - Zakatell Kanda
  - Ronald Cheung
 
+The original PyCon 2014 website can be found `here <http://pycon-2014.python.ph/>`_.
+
 2012
 ----
 
