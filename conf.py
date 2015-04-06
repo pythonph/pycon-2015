@@ -17,6 +17,10 @@ import os
 
 import alabaster
 
+# Redefine supported_image_types for the HTML builder
+from sphinx.builders.html import StandaloneHTMLBuilder
+StandaloneHTMLBuilder.supported_image_types = ['image/png', 'image/svg', 'image/gif', 'image/jpeg']
+
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
