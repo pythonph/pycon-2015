@@ -43,16 +43,6 @@ Plantinum
 
 .. pending: The SMART Developer Network (also known as SMART DevNet) is SMART Communications' developer community program, targeted at developers on desktop and mobile platforms interested in using SMART's technology platforms such as network tools and APIs. We promote general awareness of mobile apps development and "technopreneurship" thorough related groups like the IdeaSpace Foundation. We also strive to be a catalyst for fostering a vibrant developer community in the Philippines by organizing our own developer events as well as sponsoring other developer groups' events and meetups. 
 
-Silver
-^^^^^^
-
-.. pending: Github
-
-.. pending: .. image:: _static/images/github.svg
-.. pending:   :target: https://github.com/
-   
-.. pending: GitHub is the best way to build software together. GitHub provides tools for easier collaboration and code sharing from any device. Start collaborating today — open source project hosting is free!    
-
 Gold
 ^^^^
 
@@ -69,6 +59,16 @@ The Django Software Foundation is a US-based non-profit organisation with the mi
 .. pending:   :target: http://concentrix.com/
    
 .. pending: Concentrix offers many exciting employment opportunities that will take you as far as your ambition and desire can go. We specialize in technical support and new technology-related project initiatives, and we are expanding our call center service capabilities.    
+
+Silver
+^^^^^^
+
+.. pending: Github
+
+.. pending: .. image:: _static/images/github.svg
+.. pending:   :target: https://github.com/
+   
+.. pending: GitHub is the best way to build software together. GitHub provides tools for easier collaboration and code sharing from any device. Start collaborating today — open source project hosting is free!    
 
 .. pending: Bronze
 .. pending: ^^^^^^
