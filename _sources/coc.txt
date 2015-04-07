@@ -42,5 +42,8 @@ duration of the conference. We value your attendance.
 .. [Local emergency and non-emergency medical]
 .. [Local taxi company]
 
+
 We expect participants to follow these rules at all conference venues and conference-related social
 events.
+
+This Code of Conduct is based on PyCon US 2015 CoC: https://us.pycon.org/2015/about/code-of-conduct
