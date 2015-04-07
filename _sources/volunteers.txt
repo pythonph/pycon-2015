@@ -15,4 +15,4 @@ volunteer is hard work but they will be rewarded with:
  - Special and limited-run PyCon Ph 2015 Volunteer T-shirt
  - PyCon Ph 2015 volunteer's certificate
 
-`Click here to become a volunteer. <http://link.python.ph/1MoYWwP>`_
+`Become a volunteer. <http://link.python.ph/1MoYWwP>`_
