@@ -1,7 +1,7 @@
 Date and Venue
 ==============
 
-PyCon Ph 2015 will be hosted at `Ateneo de Manila University <http://www.admu.edu.ph/>`_'s Leong Hall Auditorium on **July 4-5, 2015**.
+PyCon PH 2015 will be hosted at `Ateneo de Manila University <http://www.admu.edu.ph/>`_'s Leong Hall Auditorium on **July 4-5, 2015**.
 
 The venue address is:
 

@@ -1,9 +1,9 @@
 Code of Conduct
 ===============
 
-PyCon Ph is a community conference intended for networking and collaboration in the developer community.
+PyCon PH is a community conference intended for networking and collaboration in the developer community.
 
-We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by Python.Ph or not.
+We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events, whether officially sponsored by Python.PH or not.
 
 To make clear what is expected, all delegates/attendees, speakers, exhibitors, organizers and volunteers at any PyCon event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
@@ -14,9 +14,9 @@ Harassment includes offensive verbal comments related to gender, gender identity
 sexual orientation, disability, physical appearance, body size, race, religion, status, sexual
 images in public spaces, deliberate intimidation, stalking, following, harassing photography or
 recording, sustained disruption of talks or other events, inappropriate physical contact, and
-unwelcome sexual attention. 
+unwelcome sexual attention.
 
-**Participants who are asked to stop any harassing behavior are 
+**Participants who are asked to stop any harassing behavior are
 expected to comply immediately.**
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you. Excessive swearing and offensive jokes are not appropriate for PyCon.
@@ -37,17 +37,17 @@ duration of the conference. We value your attendance.
 
 .. list-table::
    :header-rows: 0
-   
+
    * - Python.PH, Inc.
      - | security@python.ph
-       | +632 
-       | *Look for *
+       | +632
+       | *Look for*
    * - Ateneo College of Computer Studies
-     - 
+     -
    * - Ateneo Security and Safety Office
-     - 
+     -
    * - Ateneo Health Services Office (Clinic)
-     - 
+     -
 
 .. [Local law enforcement]
 .. [Local sexual assault hot line]
