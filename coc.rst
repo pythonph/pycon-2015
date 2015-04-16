@@ -38,16 +38,17 @@ duration of the conference. We value your attendance.
 .. list-table::
    :header-rows: 0
 
-   * - Python.PH, Inc.
+   * - **Python.PH, Inc.**
      - | security@python.ph
-       | +632
-       | *Look for*
-   * - Ateneo College of Computer Studies
-     -
-   * - Ateneo Security and Safety Office
-     -
-   * - Ateneo Health Services Office (Clinic)
-     -
+       .. | +632
+       .. | *Look for*
+   * - **Ateneo Department of Information Systems and Computer Science (DISCS)**
+     - | 02 426 6071 telefax
+   * - **Ateneo Security and Safety Office**
+     - | 02 426 60-01 loc. 4111
+   * - | **Ateneo Health Services**
+       | Health Alternative for Total Human Development Institute (HealthDev)
+     - 02 426 5999 loc 4635
 
 .. [Local law enforcement]
 .. [Local sexual assault hot line]

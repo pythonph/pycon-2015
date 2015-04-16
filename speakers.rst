@@ -121,5 +121,5 @@ Workshop Submission
 If you would like to run a workshop, you can `submit your proposal here <https://docs.google.com/forms/d/1bBQ49sRS5tKwvO4Dmn9KZeczzdORQgwRdFlPw_K0Fck/viewform>`_.
 We will then contact you for a practice session so we can evaluate your material.
 
-The deadline for submission of workshop proposals will be on May 1, 2015.
+The deadline for submission of workshop proposals will be on May 1.
 
