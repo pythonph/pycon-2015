@@ -13,7 +13,7 @@ Important dates
 * April 13 - May 15: Call for speakers and workshop proposals
 
   * May 1: Workshop proposal submission deadline
-  
+
   * May 15: Speaker proposal submission deadline
 
 * May 14: Workshop selection - We will coordinate a practice session on this date.
@@ -65,7 +65,7 @@ participants.
 Learning experience
 """""""""""""""""""
 
-It is not everyday that you will have a chance to speak to over 200 people from 
+It is not everyday that you will have a chance to speak to over 200 people from
 all around the Philippines and the world. You will make mistakes, be pressured, your audience will react, and you will learn something new and
 become a better speaker.
 
@@ -82,16 +82,24 @@ Speaker Presentation submission
 Our theme this year is *"Work and Play with Python"*. Your presentation must be
 structured around that.
 
-If you would like to give a presentation, you can `submit your proposal here <https://docs.google.com/forms/d/1SVFXq6yH4uzkeZ4510CL13Oa5q3KKQpC4sXflu2S_5c/viewform>`_
-
 The deadline for submission of presentations will be on May 15.
+
+.. raw:: html
+
+  <p>
+    <a href="https://docs.google.com/forms/d/1SVFXq6yH4uzkeZ4510CL13Oa5q3KKQpC4sXflu2S_5c/viewform">
+      <button class="big-button">
+        Submit your presentation proposal
+      </button>
+    </a>
+  </p>
 
 Workshops
 ^^^^^^^^^
 
 We feature workshops during PyCon and previously had two: Beginner Python and Django (both lasted 4 hours).
 
-This year, we would like to have three workshops: Practical Python, 
+This year, we would like to have three workshops: Practical Python,
 Advanced Python, and Sprints. Do you have the knowledge and expertise to
 run these?
 
@@ -118,8 +126,15 @@ workshop with a feeling of accomplishment.
 Workshop Submission
 """""""""""""""""""
 
-If you would like to run a workshop, you can `submit your proposal here <https://docs.google.com/forms/d/1bBQ49sRS5tKwvO4Dmn9KZeczzdORQgwRdFlPw_K0Fck/viewform>`_.
-We will then contact you for a practice session so we can evaluate your material.
-
+We will contact you for a practice session so we can evaluate your material.
 The deadline for submission of workshop proposals will be on May 1.
 
+.. raw:: html
+
+  <p>
+    <a href="https://docs.google.com/forms/d/1bBQ49sRS5tKwvO4Dmn9KZeczzdORQgwRdFlPw_K0Fck/viewform">
+      <button class="big-button">
+        Submit your workshop proposal
+      </button>
+    </a>
+  </p>

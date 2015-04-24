@@ -2,3 +2,14 @@ div.body h1 {
   text-transform: uppercase;
   font-weight: bold;
 }
+
+button {
+  cursor: pointer;
+}
+
+.big-button {
+  line-height: 2;
+  padding: 0 1em;
+  font-size: 1.2em;
+}
+

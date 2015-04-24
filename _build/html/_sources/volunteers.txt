@@ -15,7 +15,15 @@ volunteer is hard work but they will be rewarded with:
  - Special and limited-run PyCon PH 2015 Volunteer T-shirt
  - PyCon PH 2015 volunteer's certificate
 
-`Become a volunteer. <http://link.python.ph/1MoYWwP>`_
+.. raw:: html
+
+  <p>
+    <a href="http://link.python.ph/1MoYWwP">
+      <button class="big-button">
+        Become a volunteer
+      </button>
+    </a>
+  </p>
 
 Committees
 ----------
