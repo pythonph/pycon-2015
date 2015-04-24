@@ -58,4 +58,12 @@ Sponsorship Packages
 | X promo items per giveaway bag                                                                     | 3         | 3        | 1        |
 +----------------------------------------------------------------------------------------------------+-----------+----------+----------+
 
-`Become a sponsor. <http://link.python.ph/1CROI0F>`_
+.. raw:: html
+
+  <p>
+    <a href="http://link.python.ph/1CROI0F">
+      <button class="big-button">
+        Become a sponsor
+      </button>
+    </a>
+  </p>
