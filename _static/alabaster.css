@@ -282,7 +282,7 @@ p.admonition-title:after {
     content: ":";
 }
 
-pre, tt, code {
+pre, tt {
     font-family: 'Consolas', 'Menlo', 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono', monospace;
     font-size: 0.9em;
 }
@@ -290,11 +290,11 @@ pre, tt, code {
 img.screenshot {
 }
 
-tt.descname, tt.descclassname, code.descname, code.descclassname {
+tt.descname, tt.descclassname {
     font-size: 0.95em;
 }
 
-tt.descname, code.descname {
+tt.descname {
     padding-right: 0.08em;
 }
 
@@ -389,13 +389,13 @@ dl dl pre {
     padding-left: 90px;
 }
 
-tt, code {
+tt {
     background-color: #ecf0f3;
     color: #222;
     /* padding: 1px 2px; */
 }
 
-tt.xref, code.xref, a tt {
+tt.xref, a tt {
     background-color: #FBFBFB;
     border-bottom: 1px solid white;
 }
@@ -420,7 +420,7 @@ a.footnote-reference:hover {
     border-bottom: 1px solid #6D4100;
 }
 
-a:hover tt, a:hover code {
+a:hover tt {
     background: #EEE;
 }
 
@@ -583,9 +583,5 @@ div#changelog > div.section > ul > li > p:only-child {
 
 /* Hide fugly table cell borders in ..bibliography:: directive output */
 table.docutils.citation, table.docutils.citation td, table.docutils.citation th {
-  border: none;
-  /* Below needed in some edge cases; if not applied, bottom shadows appear */
-  -moz-box-shadow: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  border:none;
 }
