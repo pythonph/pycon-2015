@@ -25,6 +25,37 @@ startup founders, corporate IT decision makers, students and IT educators in a
 Sponsors
 --------
 
+Gold Sponsors
+^^^^
+
+Django Software Foundation
+
+.. image:: _static/images/django.png
+  :target: https://www.djangoproject.com/foundation/
+
+The Django Software Foundation is a US-based non-profit organisation with the mission to promote, support, and advance the `Django Web framework <https://www.djangoproject.com/>`_. The DSF sponsors sprints, meetups, gatherings and community events, and protects the intellectual property of the Django project. 
+
+APPone
+
+.. image:: _static/images/appone.png
+  :target: http://www.appone.eu
+
+APPone Corp. was established especialy for the programming of the APPone ERP System for the fashion industry. A subsidiary of the German SACO Software and Consulting GmbH.
+
+Marketing Partners
+^^^^
+
+JetBrains PyCharm
+
+.. image:: _static/images/pycharm.png
+  :target: https://www.jetbrains.com/pycharm/
+
+JetBrains PyCharm — Python IDE with complete set of tools for productive
+development with Python programming language. In addition, the IDE
+provides high-class capabilities for professional Web development with Django
+framework.
+
+
 We're still looking for sponsors!
 
 .. raw:: html
