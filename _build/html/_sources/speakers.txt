@@ -1,7 +1,7 @@
 Speakers
 ========
 
-Call for Speaker and Workshop proposals
+Call for Speaker proposals
 ---------------------------------------
 
 Python.PH is looking for speakers for PyCon Philippines 2015 which will be held
@@ -10,13 +10,9 @@ at Ateneo Manila on July 4-5.
 Important dates
 ^^^^^^^^^^^^^^^
 
-* April 13 - May 15: Call for speakers and workshop proposals
+* April 13 - May 15: Call for speakers proposals
 
-  * May 1: Workshop proposal submission deadline
-
-  * May 15: Speaker proposal submission deadline
-
-* May 14: Workshop selection - We will coordinate a practice session on this date.
+* May 15: Speaker proposal submission deadline
 
 * May 29: Speaker selection - We will contact those chosen on this date.
 
@@ -76,6 +72,19 @@ As a speaker, you will be invited to dinner with other speakers, the PyCon
 volunteers, organizer, and sponsors. This will be great time to chill, network, meet
 new friends, and most important of all: *eat... for free!*
 
+Suggested Topics
+^^^^^^^^^^^^^^^^
+
+Suitable topics for PyCon presentations include, but are not limited to:
+
+* Open Source Projects in Python
+* Workflow with Python
+* Python in Business
+* Practical Big Data
+* Challenges facing Open Source Communities
+* Python CMS Frameworks (Mezzanine, Django CMS, Wagtail, etc.)
+
+
 Speaker Presentation submission
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -93,48 +102,4 @@ The deadline for submission of presentations will be on May 15.
       </button>
     </a>
   </p>
-
-Workshops
-^^^^^^^^^
-
-We feature workshops during PyCon and previously had two: Beginner Python and Django (both lasted 4 hours).
-
-This year, we would like to have three workshops: Practical Python,
-Advanced Python, and Sprints. Do you have the knowledge and expertise to
-run these?
-
-Practical Python
-""""""""""""""""
-
-The objective of this workshop is to train the participants in using Python
-in a practical manner. The trainer should be able to encourage participants
-to use Python more often.
-
-Expert Python
-""""""""""""""""
-
-The objective of this workshop is to push the participant's knowledge into
-expert territory. No time is used in discussing the basics.
-
-Sprints
-""""""""""""""""
-
-The objective of this workshop is to make something useful. Whether this is
-to add to documentation or to fix bugs, participants should come out of this
-workshop with a feeling of accomplishment.
-
-Workshop Submission
-"""""""""""""""""""
-
-We will contact you for a practice session so we can evaluate your material.
-The deadline for submission of workshop proposals will be on May 1.
-
-.. raw:: html
-
-  <p>
-    <a href="https://docs.google.com/forms/d/1bBQ49sRS5tKwvO4Dmn9KZeczzdORQgwRdFlPw_K0Fck/viewform">
-      <button class="big-button">
-        Submit your workshop proposal
-      </button>
-    </a>
-  </p>
+  
