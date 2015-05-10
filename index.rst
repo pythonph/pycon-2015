@@ -25,6 +25,16 @@ startup founders, corporate IT decision makers, students and IT educators in a
 Sponsors
 --------
 
+Platinum Sponsors
+^^^^
+
+Python Software Foundation
+
+.. image:: _static/images/psf.png
+  :target: https://www.python.org/psf/
+
+The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language. We manage the open source licensing for Python version 2.1 and later and own and protect the trademarks associated with Python. We also run the North American PyCon conference annually, support other Python conferences around the world, and fund Python related development with our grants program and by funding special projects.
+
 Gold Sponsors
 ^^^^
 
