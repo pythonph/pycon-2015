@@ -25,7 +25,7 @@ Design
 - You can use the PythonPH logo as long as you maintain the silhouette
   - SVG: https://drive.google.com/file/d/0BwrPbVd2f3w8NGVuTFJDZm1SODQ/view?usp=sharing
   - AI: https://drive.google.com/file/d/0BwrPbVd2f3w8ZU5lcHl5eWgtTHM/view?usp=sharing
-- We will exclude entries that are offensive or unrelated.
+- We will exclude entries that are offensive or unrelated
 
 Voting
 ------
