@@ -12,11 +12,20 @@ Submission
 
 Submit entries by sending an email to shirt-design@python.ph
 
-Subject should be your complete name. Your design file should
-be an attachment. Max file size is 10mb. File format should be
-in PNG, PSD, SVG or AI.
+- Subject should be your complete name
+- Your design file should be an attachment
+- Max file size is 10mb
+- File format should be in PNG, PSD, SVG or AI
 
-We will exclude entries that are offensive or unrelated.
+Design
+------
+
+- Theme is "Work and Play with Python"
+- Design can only be 1-2 colors
+- You can use the PythonPH logo as long as you maintain the silhouette
+  SVG: https://drive.google.com/file/d/0BwrPbVd2f3w8NGVuTFJDZm1SODQ/view?usp=sharing
+  AI: https://drive.google.com/file/d/0BwrPbVd2f3w8ZU5lcHl5eWgtTHM/view?usp=sharing
+- We will exclude entries that are offensive or unrelated.
 
 Voting
 ------
