@@ -29,6 +29,14 @@ Design
 
 - We will exclude entries that are offensive or unrelated
 
+Ownership
+---------
+
+Upon submission, design becomes a property of Python.PH, Inc.
+We're doing this to allow us to sell shirts without
+any legal impediments. We won't say we made it ourselves.
+You'll still be credited for your work.
+
 Voting
 ------
 
@@ -39,11 +47,3 @@ will need to sign up to Trello. It's a nice free tool anyways ;)
 On June 3, voting will be closed and the top 3 entries
 will be selected. The organizers will then vote and choose
 among these 3 entries.
-
-Ownership
----------
-
-Upon submission, design becomes a property of Python.PH, Inc.
-We're doing this to allow us to sell shirts without
-any legal impediments. We won't say we made it ourselves.
-You'll still be credited for your work.
