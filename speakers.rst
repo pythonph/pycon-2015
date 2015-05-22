@@ -1,8 +1,20 @@
 Speakers
 ========
 
+
+.. image:: _static/images/speakers/stephen_mcdonald.jpg
+   :width: 150px
+   :align: right
+
+Stephen McDonald
+----------------
+
+Stephen McDonald is a software engineer who has worked in the web development
+space since the late 90s. He currently works for Google, and is the creator of
+Mezzanine, one of the most popular CMS projects for the Django framework.
+
 Call for Speaker proposals
----------------------------------------
+--------------------------
 
 Python.PH is looking for speakers for PyCon Philippines 2015 which will be held
 at Ateneo Manila on July 4-5.
@@ -102,4 +114,4 @@ The deadline for submission of presentations will be on May 15.
       </button>
     </a>
   </p>
-  
+
