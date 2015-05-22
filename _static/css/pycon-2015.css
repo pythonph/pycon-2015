@@ -13,3 +13,6 @@ button {
   font-size: 1.2em;
 }
 
+#speakers img {
+  border-radius: 50%;
+}
