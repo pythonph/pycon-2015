@@ -53,6 +53,13 @@ APPone
 
 APPone Corp. was established especialy for the programming of the APPone ERP System for the fashion industry. A subsidiary of the German SACO Software and Consulting GmbH.
 
+Ingenuity
+
+.. image:: _static/images/sponsors/ingenuity.svg
+  :target: http://ingenuity.ph/
+
+Engineering Awesome
+
 Marketing Partners
 ^^^^^^^^^^^^^^^^^^
 
