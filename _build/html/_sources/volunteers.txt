@@ -45,6 +45,8 @@ Committee Chairs
 
   Matt and Christine are responsible for all the footwork and communication needed to get things in order for the the venue, conference food and volunteer dinner.
 
+  You can reach them at treasurer@python.ph (Matt) and chrisbalili99@gmail.com or via Twitter `@cr8ivecodesmith <https://twitter.com/cr8ivecodesmith>`_ and `@tingbalili <https://twitter.com/tingbalili>`_
+
 3. Stage-hand Chair - Josef Monje
 
   Josef is responsible for the video coverage of the conference, extra projector, microphone, tables, laptop, etc.
@@ -59,20 +61,11 @@ Committee Chairs
 
 5. Marketing and Community Relations Chairs - Randall Sayat, Grace Coroza and Beato Bongco
 
-  * responsible for going to events and advertising PyCon 2015.
-  * responsible for social media exposure (facebook, twitter, etc).
-  * responsible for writing a report on PyCon 2015, to be used for blogs and future references
-  * responsible for gathering feedback (during pycon and after pycon).
-  * responsible for mailchimp (email marketing and announcements)
-  * responsible for informing participants of [Code of Conduct](http://pycon.python.ph/coc.html) prior to conference.
-  * Filipino hospitality for our foreign speakers
-  * Accomodation for foreign speakers/guests
-  * Merienda
-  * Meeting foreign speakers/guests at the airport
-  * escort foreign speakers/guests to their hotel
-  * immigration letters
+  Randall, Grace and Beato are responsible for advertising PyCon 2015; social media exposure (facebook, twitter, etc); writing a report on PyCon 2015; gathering feedback (during pycon and after pycon); email marketing and announcements; informing participants about the `Code of Conduct <http://pycon.python.ph/coc.html>`_ to the event; Filipino hospitality for our foreign speakers; securing accomodation for foreign speakers/guests; meeting foreign speakers/guests at the airport; escort of foreign speakers/guests to their hotel and immigration letters for foreign guests.
+
+  You may reach them at randallsayat@gmail.com, grace.coroza@gmail.com, beatobongco@gmail.com.
 
 6. Program Committee Chairs - Sony Valdez, Rodolfo Duldulao and Stef Sy
 
-  Sony, Dulds and Stef are the people behind the theme and our awesome program for PyConPH 2015. They are the ones who make sure that the quality talks and workshops we bring this PyCon will be a blast.
+  Sony, `Dulds <https://www.linkedin.com/in/rnduldulaojr>`_ and Stef are the people behind the `theme <http://pycon.python.ph/theme.html>`_ and our awesome program for PyConPH 2015. They are the ones who make sure that the quality talks and workshops we bring this PyCon will be a blast.
 
