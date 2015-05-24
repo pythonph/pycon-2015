@@ -69,3 +69,4 @@ Committee Chairs
 
   Sony, `Dulds <https://www.linkedin.com/in/rnduldulaojr>`_ and Stef are the people behind the `theme <http://pycon.python.ph/theme.html>`_ and our awesome program for PyConPH 2015. They are the ones who make sure that the quality talks and workshops we bring this PyCon will be a blast.
 
+  You may reach Dulds at rduldulaojr@gmail.com
