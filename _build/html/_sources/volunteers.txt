@@ -36,11 +36,9 @@ Committees
 
   Chair: Mark Steve Samson
 
-  * responsible for PyCon 2015 website
-  * responsible for web and print advertisement
-  * responsible for tarpoline and banner designs
-  * responsible for brochure
-  * responsible for speakers, volunteer, and participants IDs
+  Steve is the web admin and maintainer of the PyCon Philippines website. If you'd like to help, simply submit a pull request to the `pycon-2015 <https://github.com/pythonph/pycon-2015>`_ repo with your changes.
+
+  Steve is also the person that oversees the design and printing of the PyCon Philippines logo, t-shirt, flyers, brochure, tarpauline, banner, speakers, volunteer and participants IDs. You can reach him at admin@python.ph or via Twitter (@themarksteve).
 
 2. Logistics team
 
@@ -62,7 +60,9 @@ Committees
 
   Chair: Nadine Jamilla and Stef Sy
 
-  * responsible for talking with the sponsors and looking for other sponsors.
+  If you have any sponsorship questions, please email nadinejamila@gmail.com and stef@stefsy.com or say hi to them on Twitter (@stefsy and @nadinejamila)
+
+  They're essentially the heroes of Python.PH this 2015. They put countless of hours and effort in making sure we can deliver the conference to the widest audience possible by driving down the ticket costs for PyCon with the help of sponsors.
 
 5. Marketing and Community Relations (Outreach)
 
