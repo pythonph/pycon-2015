@@ -60,7 +60,7 @@ Committees
 
   Chair: Nadine Jamilla and Stef Sy
 
-  If you have any sponsorship questions, please email nadinejamila@gmail.com and stef@stefsy.com or say hi to them on Twitter (@stefsy and @nadinejamila)
+  If you have any sponsorship questions, please email nadinejamila@gmail.com and stef@stefsy.com or say hi to them on Twitter (`@stefsy <https://twitter.com/stefsy>`_ and `@nadinejamila <https://twitter.com/nadinejamila>`_)
 
   They're essentially the heroes of Python.PH this 2015. They put countless of hours and effort in making sure we can deliver the conference to the widest audience possible by driving down the ticket costs for PyCon with the help of sponsors.
 
