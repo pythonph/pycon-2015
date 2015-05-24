@@ -37,23 +37,21 @@ Committee Chairs
 
   Steve is the web admin and maintainer of the PyCon Philippines website. If you'd like to help, submitting a pull request to the `pycon-2015 repo <https://github.com/pythonph/pycon-2015>`_ with your changes will surely make him happy.
 
-  Steve is also the person that oversees the design and printing of the PyCon Philippines logo, t-shirt, flyers, brochure, tarpauline, banner, speakers, volunteer and participants IDs.
+  Steve is also the person that oversees the design and printing of the PyCon Philippines logo, t-shirt, flyers, brochure, tarpauline, banner and conference IDs.
 
   Steve has a knack for whipping `fun stuff <http://pythonph.tumblr.com/post/55737267501/pythonph-june-2013-meetup-beginners-x-python>`_ to talk about. You will always learn a thing or two from him. He claims that he's not scary and is actually the most approachable geek among the group. You can reach him at admin@python.ph or via Twitter (`@themarksteve <https://twitter.com/themarksteve>`_).
 
 2. Logistics Co-Chairs - Matt Lebrun and Christine Balili
 
-  * responsible for conference food, volunteer dinner, and footwork (our venue this year will be in Ateneo de Manila, so tasks include all the footwork and communication needed to get things in order for our conference venue and food)
+  Matt and Christine are responsible for all the footwork and communication needed to get things in order for the the venue, conference food and volunteer dinner.
 
 3. Stage-hand Chair - Josef Monje
 
-  * responsible for video coverage.
-  * responsible for extra projector, microphone, tables, laptop, etc.
-  * should be on standby in case something goes wrong on-stage.
-  * should see to the needs of the audience.
-  * responsible for ensuring that our [Code of Conduct](http://pycon.python.ph/coc.html) is enforced throughout the conference.
+  Josef is responsible for the video coverage of the conference, extra projector, microphone, tables, laptop, etc.
+  He and his team will be on standby in case something goes wrong on-stage and will see through the needs of the audience.
+  He is also responsible for ensuring that our `Code of Conduct <http://pycon.python.ph/coc.html>`_ is enforced throughout the conference. Reach out to him at josefmonje@gmail.com or via Twitter `@josefmonje <https://twitter.com/josefmonje>`_
 
-4. Fundraising Chairs - Nadine Jamilla and Stef Sy
+4. Fundraising Co-Chairs - Nadine Jamilla and Stef Sy
 
   If you have any sponsorship questions, please email nadinejamila@gmail.com and stef@stefsy.com or say hi to them on Twitter (`@stefsy <https://twitter.com/stefsy>`_ and `@nadinejamila <https://twitter.com/nadinejamila>`_)
 
@@ -74,9 +72,7 @@ Committee Chairs
   * escort foreign speakers/guests to their hotel
   * immigration letters
 
-6. Program Committee Chairs - Sony Valdez, Stef Sy and Rodolfo Duldulao
+6. Program Committee Chairs - Sony Valdez, Rodolfo Duldulao and Stef Sy
 
-  * responsible for coming up with a theme.
-  * responsible for making a schedule.
-  * responsible for calling, choosing, and preparing for speakers.
+  Sony, Dulds and Stef are the people behind the theme and our awesome program for PyConPH 2015. They are the ones who made sure that the quality talks and workshops we bring this PyCon will be a blast.
 
