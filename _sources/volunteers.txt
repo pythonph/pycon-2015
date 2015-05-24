@@ -41,7 +41,7 @@ Committees
 
   Steve is also the person that oversees the design and printing of the PyCon Philippines logo, t-shirt, flyers, brochure, tarpauline, banner, speakers, volunteer and participants IDs.
 
-  Steve is a knack for whipping fun stuff to talk about. You will always learn a thing or two from him. He claims that he's not scary and is actually the most approachable geek among the group. You can reach him at admin@python.ph or via Twitter (`@themarksteve <https://twitter.com/themarksteve>`_).
+  Steve is a knack for whipping `fun stuff <http://pythonph.tumblr.com/post/55737267501/pythonph-june-2013-meetup-beginners-x-python>`_ to talk about. You will always learn a thing or two from him. He claims that he's not scary and is actually the most approachable geek among the group. You can reach him at admin@python.ph or via Twitter (`@themarksteve <https://twitter.com/themarksteve>`_).
 
 2. Logistics team
 
