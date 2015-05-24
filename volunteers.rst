@@ -37,7 +37,7 @@ Committees
 
   Chair: Mark Steve Samson
 
-  Steve is the web admin and maintainer of the PyCon Philippines website. If you'd like to help, simply submit a pull request to the `pycon-2015 <https://github.com/pythonph/pycon-2015>`_ repo with your changes.
+  Steve is the web admin and maintainer of the PyCon Philippines website. If you'd like to help, submitting a pull request to the `pycon-2015 <https://github.com/pythonph/pycon-2015>`_ repo with your changes will surely make him happy.
 
   Steve is also the person that oversees the design and printing of the PyCon Philippines logo, t-shirt, flyers, brochure, tarpauline, banner, speakers, volunteer and participants IDs. You can reach him at admin@python.ph or via Twitter (`@themarksteve <https://twitter.com/themarksteve>`_).
 
