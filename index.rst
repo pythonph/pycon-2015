@@ -1,7 +1,7 @@
 PyCon Philippines
 =================
 
-PyCon Philippines is a volunteer-run, not-for-profit conference centered around
+PyCon Philippines is a `volunteer-run <http://pycon.python.ph/volunteers.html>`_, not-for-profit conference centered around
 the Python Programming language.
 
 The main goal of this conference is to provide a venue where the Python
