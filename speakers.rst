@@ -19,8 +19,9 @@ Mezzanine, one of the most popular CMS projects for the Django framework.
 Loïc Bistuer
 ------------
 
-Loïc is French and has been living in Bangkok for about 8 years. 
-He currently works as Solution Architect for the World Food Program. 
+Loïc currently works as Solution Architect for the World Food Program. 
 He's also a core developer of Django. He discovered Django in 2008 shortly 
 before the 1.0 release and has been hooked ever since. He contributes mostly 
 to Django’s ORM and Form components. 
+
+Loïc is originally from the South of France and currently lives in Bangkok, Thailand.
