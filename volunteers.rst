@@ -27,7 +27,8 @@ volunteer is hard work but they will be rewarded with:
 
 Conference Chair
 ----------
-`Sony Valdez <https://twitter.com/mrvaldez>`_ is the PyCon Philippines conference chair and the main person in charge. He’s responsible for setting the budget; monitoring expenses; and general oversight of all other committees. He works together with the Python.PH Board of Trustees to sort-out stuff behind the scenes. A self-professed gamer; he is also the mastermind of pun err... fun and board games in Python.PH. You can email him at president@python.ph.
+`Sony Valdez <https://twitter.com/mrvaldez>`_ is the PyCon Philippines conference chair and the main person in charge. He’s responsible for setting the budget; monitoring expenses; and general oversight of all other committees. He works together with the Python.PH Board of Trustees to sort-out stuff behind the scenes. A self-professed gamer; he is also the mastermind of pun err... `fun <http://pythonph.tumblr.com/post/71737441822/pythonph-november-2013-meetup-at-sourcepad>`_ and board games in Python.PH. You can email him at president@python.ph.
+
 
 Committees
 ----------
@@ -42,7 +43,7 @@ Committees
 
 2. Logistics team
 
-  Chair: Matt Lebrun and Beato Bongco
+  Chair: Matt Lebrun and Christine Balili
 
   * responsible for conference food, volunteer dinner, and footwork (our venue this year will be in Ateneo de Manila, so tasks include all the footwork and communication needed to get things in order for our conference venue and food)
 
