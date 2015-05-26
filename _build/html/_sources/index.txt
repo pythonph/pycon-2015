@@ -73,16 +73,8 @@ development with Python programming language. In addition, the IDE
 provides high-class capabilities for professional Web development with Django
 framework.
 
-Media Partners
-^^^^^^^^^^^^^^^^^^
 
-WhenInManila.com
-
-.. image:: _static/images/sponsors/wheninmanila.png
-  :target: http://wheninmanila.com/
-
-
-We're still looking for sponsors and partners!
+We're still looking for sponsors!
 
 .. raw:: html
 
@@ -113,7 +105,7 @@ Sponsorship Packages
 +----------------------------------------------------------------------------------------------------+-----------+----------+----------+
 | Text description of your company on the website                                                    | ✔         | ✔        | ✔        |
 +----------------------------------------------------------------------------------------------------+-----------+----------+----------+
-| One (1) sponsored job ad posting on http://python.ph/jobs at the top of other listings (3 months) | ✔         | ✔        |          |
+| One (1) sponsored job ad posting on http://jobs.python.ph/ at the top of other listings (3 months) | ✔         | ✔        |          |
 +----------------------------------------------------------------------------------------------------+-----------+----------+----------+
 | Opportunity to speak about your organization during a break (1 minute)                             | ✔         | ✔        |          |
 +----------------------------------------------------------------------------------------------------+-----------+----------+----------+
