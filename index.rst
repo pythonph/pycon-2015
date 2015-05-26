@@ -85,7 +85,7 @@ WhenInManila.com
 WhenInManila.com is the top online magazine in Manila and the Philippines.
 
 
-We're still looking for sponsors!
+We're still looking for sponsors and partners!
 
 .. raw:: html
 
