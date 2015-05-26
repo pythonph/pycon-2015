@@ -58,7 +58,7 @@ Ingenuity
 .. image:: _static/images/sponsors/ingenuity.svg
   :target: http://ingenuity.ph/
 
-Engineering Awesome
+Ingenuity Global Consulting, Inc. is a web and mobile development agency specializing in Python/Django, iOS and Android. It uses Scrum in software development and has Certified ScrumMasters in the team. Ingenuity, also provides staff augmentation, project consultation, UI/UX design, QA/testing and server maintenance services.
 
 Marketing Partners
 ^^^^^^^^^^^^^^^^^^
