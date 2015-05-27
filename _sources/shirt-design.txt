@@ -4,7 +4,7 @@ Shirt Design Contest
 Get the chance to design PyCon PH 2015's shirts!
 
 We're holding a design contest starting May 21 (Thursday).
-You can submit entries until May 27 (Wednesday) 11:59 PM.
+You can submit entries until May 29 (Friday) 11:59 PM.
 We'll then open up voting until June 3 (Wednesday) 11:59 PM.
 
 Submission
