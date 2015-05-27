@@ -16,3 +16,8 @@ button {
 #speakers img {
   border-radius: 50%;
 }
+
+.discount {
+  color: green;
+  font-size: 0.8em;
+}
