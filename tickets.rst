@@ -21,7 +21,7 @@ Thanks to our wonderful `sponsors <index.html#sponsors>`_, we are able to offer 
 +------------------+----------+----------------------------------+
 
 .. [#] Cost is in Philippine Pesos.
-.. [#] Until June 5 (Use the promo code EARLYBIRDS)
+.. [#] Until June 5 (Use the promo code EARLYBIRD)
 
 Ticket information
 ------------------
