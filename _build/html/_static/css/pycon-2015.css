@@ -18,6 +18,10 @@ button {
 }
 
 .discount {
-  color: green;
-  font-size: 0.8em;
+  display: block;
+  background: #cfd;
+  color: #465;
+  font-weight: bold;
+  margin: -0.25em -0.7em;
+  padding: 0.25em 0.7em;
 }
