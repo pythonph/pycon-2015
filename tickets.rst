@@ -51,6 +51,3 @@ Ticket information:
 | + Raffle ticket                                               |
 +---------------------------------------------------------------+
 
-Also on sale at the event:
-
-PyCon.PH 2015 limited edition T-shirt for 200Php.
