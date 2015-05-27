@@ -5,8 +5,11 @@ Speakers
    :width: 150px
    :align: right
 
-Stephen McDonald
+Keynote Speakers
 ----------------
+
+Stephen McDonald
+^^^^^^^^^^^^^^^^
 
 Stephen McDonald is a software engineer who has worked in the web development
 space since the late 90s. He currently works for Google, and is the creator of
@@ -17,7 +20,7 @@ Mezzanine, one of the most popular CMS projects for the Django framework.
    :align: right
 
 Loïc Bistuer
-------------
+^^^^^^^^^^^^
 
 Loïc currently works as a Solution Architect for the World Food Program. 
 He's also a core developer of Django. He discovered Django in 2008 shortly 
