@@ -1,21 +1,21 @@
 Conferences are expensive. Some conferences can cost over 5,000.00 pesos. Our conference is no different. However, we have worked with sponsors in lowering our ticket costs considerably.
 
-Thanks to our wonderful sponsors, we are able to offer the following ticket prices:
+Thanks to our wonderful `sponsors <index.html#sponsors>`_, we are able to offer the following ticket prices:
 
 .. role:: discount
 
 +------------+----------+----------------------------------+
-|            | Regular  | Early Birds                      |
-|            |          | (until June 5)                   |
-|            |          | (use the promo code EARLYBIRDS)  |
+|            | | Regular| | Early Birds                    |
+|            |          | | (until June 5)                 |
+|            |          | | (use the promo code EARLYBIRDS)|
 +============+==========+==================================+
-| Corporate  | 3000 Php | :discount:`3000 Php`             |
+| Corporate  | 3680 Php | :discount:`3312.00 Php`          |
 +------------+----------+----------------------------------+
-| Individual | 3000 Php | :discount:`3000 Php`             |
+| Individual | 1656 Php | :discount:`1490.40 Php`          |
 +------------+----------+----------------------------------+
-| Students   | 3000 Php | :discount:`3000 Php`             |
+| Students   | 1288 Php | :discount:`1159.20 Php`          |
 +------------+----------+----------------------------------+
-| Students   | 3000 Php | :discount:`3000 Php`             |
+| Students   | 1104 Php | :discount:`993.60 Php`           |
 | (One day)  |          |                                  |
 +------------+----------+----------------------------------+
 
@@ -34,22 +34,22 @@ Ticket information:
 | + Raffle ticket                                               |
 +---------------------------------------------------------------+
 
-+---------------------------------+
-| Individual tickets              |
-+=================================+
-| + Lunch and snacks              |
-| + Conference kit                |
-| + Raffle ticket                 |
-+---------------------------------+
++---------------------------------------------------------------+
+| Individual tickets                                            |
++===============================================================+
+| + Lunch and snacks                                            |
+| + Conference kit                                              |
+| + Raffle ticket                                               |
++---------------------------------------------------------------+
 
-+---------------------------------+
-| Student tickets                 |
-| (Please bring your student ID)  |
-+=================================+
-| + Lunch and snacks              |
-| + Conference kit                | 
-| + Raffle ticket                 |
-+---------------------------------+
++---------------------------------------------------------------+
+| Student tickets                                               |
+| (Please bring your student ID)                                |
++===============================================================+
+| + Lunch and snacks                                            |
+| + Conference kit                                              | 
+| + Raffle ticket                                               |
++---------------------------------------------------------------+
 
 Also on sale at the event:
 
