@@ -19,8 +19,6 @@ Thanks to our wonderful `sponsors <index.html#sponsors>`_, we are able to offer 
 +------------------+----------+----------------------------------+
 | Students         | 1288 Php | :discount:`1159.20 Php`          |
 +------------------+----------+----------------------------------+
-| Students (1-day) | 1104 Php | :discount:`993.60 Php`           |
-+------------------+----------+----------------------------------+
 
 .. [#] Cost is in Philippine Pesos.
 .. [#] Until June 5 (Use the promo code EARLYBIRDS)
