@@ -28,8 +28,9 @@ Ticket information
 
 Corporate tickets
 ^^^^^^^^^^^^^^^^^
+For companies paying for their employees to attend PyCon.
 
- + Receipt in the company's name
+ + Official Receipt in the company's name
  + Announcement of company's presence during the conference
  + Transferrable between company employees
  + Lunch and snacks
@@ -38,6 +39,7 @@ Corporate tickets
 
 Individual tickets
 ^^^^^^^^^^^^^^^^^^
+If you are paying for yourself to attend PyCon, you may register as individual. Employees of non-profits and school faculty may register at the individual rate.
 
  + Lunch and snacks
  + Conference kit
@@ -45,6 +47,7 @@ Individual tickets
 
 Student tickets [#]_
 ^^^^^^^^^^^^^^^^^^^^
+This rate is for full-time undergrad students.
 
  + Lunch and snacks
  + Conference kit
