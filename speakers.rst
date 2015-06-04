@@ -102,3 +102,19 @@ Jolo is a software developer and somewhat a data scientist that is interested in
 Conrad Miguel Gozalo
 ^^^^^^^^^^^^^^^^
 Mikko is some random college dropout from the Philippines. He pursued a career in IT, working mostly with startup companies.
+
+.. image:: _static/images/speakers/holden.jpg
+   :width: 150px
+   :align: right
+
+Holden Hao
+^^^^^^^^^^
+Holden Hao is a Linux Systems Administrator, Knowledge Management and IT Consultant.  He has been deploying Plone-based solutions since 2004.
+
+.. image:: _static/images/speakers/jon.jpg
+   :width: 150px
+   :align: right
+
+Jon Danao
+^^^^^^^^^
+Jon is the Head Honcho of The App Factory (http://theappfactory.io/), previously the Head of Technology for Innovations at ABS-CBN. He played lead guitars for a local band in Manila called Bridge. He is strong in blues, rock and roll, and showmanship. Terrible in second voice. He loves to cook and went to culinary school. He is strong in Asian cuisine and any food with patis (fish sauce) and chili.
