@@ -21,7 +21,7 @@ Thanks to our wonderful `sponsors <index.html#sponsors>`_, we are able to offer 
 +------------------+----------+----------------------------------+
 
 .. [#] Cost is in Philippine Pesos.
-.. [#] Until June 5 (Use the promo code EARLYBIRD)
+.. [#] Until June 12 (Use the promo code EARLYBIRD)
 
 You can order the tickets `here <http://www.ticketbase.com/events/pycon-philippines-2015>`_.
 
