@@ -31,9 +31,12 @@ PyCon PH 2015 is brought to you by:
 
 .. image:: _static/images/pythonph.svg
   :target: https://www.linkedin.com/grp/home?gid=6511985
+  :width: 180px
 
-.. image:: _static/images/DISCSAteneo.png
+.. image:: _static/images/Ateneo-DISCSlogo.png
   :target: http://www.admu.edu.ph/ls/sose/iscs
+  :width: 400px
+  :align: right
 
 Sponsors
 --------
