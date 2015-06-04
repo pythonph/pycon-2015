@@ -25,6 +25,16 @@ startup founders, corporate IT decision makers, students and IT educators in a
    shirt-design
    sponsorship
 
+Organizers
+----------
+PyCon PH 2015 is brought to you by:
+
+.. image:: _static/images/pythonph.svg
+  :target: https://www.linkedin.com/grp/home?gid=6511985
+
+.. image:: _static/images/DISCSAteneo.png
+  :target: http://www.admu.edu.ph/ls/sose/iscs
+
 Sponsors
 --------
 

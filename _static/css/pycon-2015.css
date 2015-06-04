@@ -25,3 +25,16 @@ button {
   margin: -0.25em -0.7em;
   padding: 0.25em 0.7em;
 }
+
+div.twocol img {
+  float: left;
+  display: none;
+  border: 1px solid;
+}
+
+div.floatright {
+}
+
+div.clearer {
+  clear: both;
+}
