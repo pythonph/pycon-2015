@@ -75,6 +75,13 @@ Ingenuity
 
 Ingenuity Global Consulting, Inc. is a web and mobile development agency specializing in Python/Django, iOS and Android. It uses Scrum in software development and has Certified ScrumMasters in the team. Ingenuity, also provides staff augmentation, project consultation, UI/UX design, QA/testing and server maintenance services.
 
+Scrapinghub
+
+.. image:: _static/images/sponsors/scrapinghub.png
+  :target: http://scrapinghub.com/
+
+Scrapinghub uses Python to deliver successful web crawling and data processing solutions. Our platform as a service allows your organization to build crawlers easily, deploy them instantly and scale them on demand. Our services cover all aspects of web crawling, from automatic data extraction to javascript rendering and effortless proxy management. We are the company behind `Scrapy <http://scrapy.org>`_, the popular open-source web crawling framework for Python.
+
 Marketing Partners
 ^^^^^^^^^^^^^^^^^^
 
