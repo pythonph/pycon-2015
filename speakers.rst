@@ -29,17 +29,8 @@ to Django’s ORM and Form components.
 
 Loïc is originally from the South of France and currently lives in Bangkok, Thailand.
 
-.. image:: _static/images/speakers/grace_coroza.jpeg
-   :width: 150px
-   :align: right
-
 Speakers
-----------------
-
-Mary Grace Coroza
-^^^^^^^^^^^^^^^^
-
-Grace is an advocate of lean and agile software development for turning new ideas into successful business startups.  Her current role as the CTO for Mayon Studios, Inc., leads the innovation process from conceptualization to implementation, developing cloud services for web and mobile applications.
+--------
 
 .. image:: _static/images/speakers/andrea.jpg
    :width: 150px
@@ -59,9 +50,14 @@ Israel Felipe Fermín Montilla
 
 A Venezuelan Software Engineer living and working in Dubai for a large regional classifieds website, just a normal guy who loves to code.
 
-.. image:: _static/images/speakers/rexmupas.jpg
+.. image:: _static/images/speakers/grace_coroza.jpeg
    :width: 150px
    :align: right
+
+Mary Grace Coroza
+^^^^^^^^^^^^^^^^
+
+Grace is an advocate of lean and agile software development for turning new ideas into successful business startups.  Her current role as the CTO for Mayon Studios, Inc., leads the innovation process from conceptualization to implementation, developing cloud services for web and mobile applications.
 
 Rex Mupas
 ^^^^^^^^^
