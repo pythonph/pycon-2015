@@ -35,7 +35,7 @@ PyCon PH 2015 is brought to you by:
 
 .. image:: _static/images/Ateneo-DISCSlogo.png
   :target: http://www.admu.edu.ph/ls/sose/iscs
-  :width: 400px
+  :width: 450px
   :align: right
 
 Sponsors
