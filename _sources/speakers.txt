@@ -33,8 +33,11 @@ Loïc is originally from the South of France and currently lives in Bangkok, Tha
    :width: 150px
    :align: right
 
+Speakers
+----------------
+
 Mary Grace Coroza
-------------
+^^^^^^^^^^^^^^^^
 
 Grace is an advocate of lean and agile software development for turning new ideas into successful business startups.  Her current role as the CTO for Mayon Studios, Inc., leads the innovation process from conceptualization to implementation, developing cloud services for web and mobile applications.
 
@@ -43,7 +46,8 @@ Grace is an advocate of lean and agile software development for turning new idea
    :align: right
 
 Andrea Levinge
-------------
+^^^^^^^^^^^^^^^^
+
 Andrea Levinge is the CTO of indie gaming company White Widget, which has just released a new mobile game titled “Face Mountain”. She has a degree in Computer Science from Ateneo de Manila and likes to develop, write and talk about all things software. 
 
 .. image:: _static/images/speakers/israel-fermin.jpg
@@ -51,7 +55,7 @@ Andrea Levinge is the CTO of indie gaming company White Widget, which has just r
    :align: right
 
 Israel Felipe Fermín Montilla
-------------
+^^^^^^^^^^^^^^^^
 
 A Venezuelan Software Engineer living and working in Dubai for a large regional classifieds website, just a normal guy who loves to code.
 
@@ -60,7 +64,7 @@ A Venezuelan Software Engineer living and working in Dubai for a large regional 
    :align: right
 
 Rex Mupas
----------
+^^^^^^^^^
 
 Rex is currently the Sr. Director of Engineering of IntroMe, a social mobile application which connects people with common interests, with confidence. Prior to this, he had various leadership roles on system engineering and solutions architecture dealing with high traffic web sites and applications for various companies like ExploreTalent, Lazada, Zalora and US Auto Parts over the last decade. It's his first time using Python as a backend.
 
@@ -69,7 +73,7 @@ Rex is currently the Sr. Director of Engineering of IntroMe, a social mobile app
    :align: right
 
 Dhon Rocafort
----------
+^^^^^^^^^^^^^
 
 Dhon, a Senior Software Engineer working on the Introme project, is a licensed Demandware Developer who worked on various eCommerce websites for the likes of P&G and StarBucks. He also worked as a PHP Developer for Rocket Internet and USAutoparts. He's currently using Python in developing the Backend and APIs of Introme.
 
@@ -78,7 +82,7 @@ Dhon, a Senior Software Engineer working on the Introme project, is a licensed D
    :align: right
 
 John Paul Mendoza
----------
+^^^^^^^^^^^^^^^^
 
 JP is a Sr. System Engineer, started in web and system development since early 2000. He is one responsible in the implementation of different features of IntroMe.
 
@@ -87,7 +91,8 @@ JP is a Sr. System Engineer, started in web and system development since early 2
    :align: right
 
 Juan Paolo Balbin
-------------
+^^^^^^^^^^^^^^^^
+
 Jolo is a software developer and somewhat a data scientist that is interested in NLP and machine learning. He's also the creator of TextTeaser, an open source automatic summarization algorithm.
 
 .. image:: _static/images/speakers/mikko.jpg
@@ -95,5 +100,5 @@ Jolo is a software developer and somewhat a data scientist that is interested in
    :align: right
 
 Conrad Miguel Gozalo
-------------
+^^^^^^^^^^^^^^^^
 Mikko is some random college dropout from the Philippines. He pursued a career in IT, working mostly with startup companies.
