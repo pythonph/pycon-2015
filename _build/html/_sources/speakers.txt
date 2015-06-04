@@ -59,6 +59,10 @@ Mary Grace Coroza
 
 Grace is an advocate of lean and agile software development for turning new ideas into successful business startups.  Her current role as the CTO for Mayon Studios, Inc., leads the innovation process from conceptualization to implementation, developing cloud services for web and mobile applications.
 
+.. image:: _static/images/speakers/rexmupas.jpg
+   :width: 150px
+   :align: right
+
 Rex Mupas
 ^^^^^^^^^
 
