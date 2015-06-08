@@ -13,8 +13,25 @@ button {
   font-size: 1.2em;
 }
 
+#speakers h2 {
+  margin-bottom: 2em;
+}
+
+#speakers h3 {
+  padding-top: 0.5em;
+  margin-top: 0;
+}
+
 #speakers img {
   border-radius: 50%;
+}
+
+#speakers p {
+  margin-bottom: 5em;
+}
+
+#speakers h3, p {
+  margin-left: 200px;
 }
 
 .discount {
@@ -30,9 +47,6 @@ div.twocol img {
   float: left;
   display: none;
   border: 1px solid;
-}
-
-div.floatright {
 }
 
 div.clearer {
