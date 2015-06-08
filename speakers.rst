@@ -59,6 +59,15 @@ Mary Grace Coroza
 
 Grace is an advocate of lean and agile software development for turning new ideas into successful business startups.  Her current role as the CTO for Mayon Studios, Inc., leads the innovation process from conceptualization to implementation, developing cloud services for web and mobile applications.
 
+.. image:: _static/images/speakers/ronen.png
+   :width: 150px
+   :align: right
+
+Ronen Baram
+^^^^^^^^^^^
+
+With more then 20 years in the IT industry, Based in Melbourne Australia, managing a team of system engineers for Oracle MySQL in the Asia Pacific region. Has an extensive experience with large volume transaction systems in some of the biggest companies around the APAC region and Philippines.
+                
 .. image:: _static/images/speakers/rexmupas.jpg
    :width: 150px
    :align: right
