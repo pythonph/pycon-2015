@@ -118,3 +118,36 @@ Holden Hao is a Linux Systems Administrator, Knowledge Management and IT Consult
 Jon Danao
 ^^^^^^^^^
 Jon is the Head Honcho of The App Factory (http://theappfactory.io/), previously the Head of Technology for Innovations at ABS-CBN. He played lead guitars for a local band in Manila called Bridge. He is strong in blues, rock and roll, and showmanship. Terrible in second voice. He loves to cook and went to culinary school. He is strong in Asian cuisine and any food with patis (fish sauce) and chili.
+
+.. image:: _static/images/speakers/jervin.jpg
+   :width: 150px
+   :align: right
+
+Jervin Real
+^^^^^^^^^^^
+Jervin helps companies of all size be successful with their open source data infrastructure at Percona. Outside of work,  he enjoys Yerba mate and funny videos on Youtube with his kids.
+
+.. image:: _static/images/speakers/dean.png
+   :width: 150px
+   :align: right
+
+Dean Armada
+^^^^^^^^^^^
+Data Center Security Consultant specializing in proprietary and open source Data Center technologies such as SDN/OpenFlow, OpenStack, Linux Containers/Dockers and Python programming.
+
+.. image:: _static/images/speakers/chad.jpg
+   :width: 150px
+   :align: right
+
+Chad Estioco
+^^^^^^^^^^^^
+Chad loves kicking random things and making random things with the best programming language in the world.
+
+.. image:: _static/images/speakers/maksym.jpg
+   :width: 150px
+   :align: right
+
+Maksym Shalenyi
+^^^^^^^^^^^^^^^
+Master's degree in Computer Engineering, Python web developer since 2011, cannot picture myself
+using some other language than Python, big fan of Pyramid framework.
