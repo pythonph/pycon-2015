@@ -127,7 +127,7 @@ Jervin Real
 ^^^^^^^^^^^
 Jervin helps companies of all size be successful with their open source data infrastructure at Percona. Outside of work,  he enjoys Yerba mate and funny videos on Youtube with his kids.
 
-.. image:: _static/images/speakers/dean.jpg
+.. image:: _static/images/speakers/dean.png
    :width: 150px
    :align: right
 
