@@ -18,6 +18,10 @@ Level of expertise: *Intermediate*
 
 **MySQL Fabric: Python and MySQL are meant to be**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: _static/images/speakers/ronen.png
+   :width: 150px
+   :align: right
+
 by Ronen Baram                                     
 
 MySQL Fabric is an extensible framework for managing farms of MySQL Servers.
