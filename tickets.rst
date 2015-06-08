@@ -33,7 +33,7 @@ Ticketbase
      js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'http';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://cdn.ticketbase.com/widgets/v0.1/ticketbase.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','ticketbase-wjs');</script>
 
 Cash Deposits
-^^^^^^^^^^^^^
+-------------
 
 For cash deposits, please deposit at this account:
 
