@@ -23,7 +23,14 @@ Thanks to our wonderful `sponsors <index.html#sponsors>`_, we are able to offer 
 .. [#] Cost is in Philippine Pesos.
 .. [#] Until June 12 (Use the promo code EARLYBIRD)
 
-You can order the tickets `here <http://www.ticketbase.com/events/pycon-philippines-2015>`_.
+Ticketbase
+----------
+
+.. raw:: html
+
+  <div data-tb="ticket-form" data-event="pycon-philippines-2015"></div>
+  <script>!function(d,s,id){var
+     js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'http';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://cdn.ticketbase.com/widgets/v0.1/ticketbase.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','ticketbase-wjs');</script>
 
 Cash Deposits
 ^^^^^^^^^^^^^
@@ -55,34 +62,3 @@ We'll send you a confirmation email together with a waiver code within 48 hours.
 
 Please note that we are using our treasurer's personal account for quicker dissemination and monitoring of your purchase.
 
-Ticket information
-------------------
-
-Corporate tickets
-^^^^^^^^^^^^^^^^^
-For companies paying for their employees to attend PyCon.
-
- + Official Receipt in the company's name
- + Announcement of company's presence during the conference
- + Transferrable between company employees
- + Lunch and snacks
- + Conference kit
- + Raffle ticket
-
-Individual tickets
-^^^^^^^^^^^^^^^^^^
-If you are paying for yourself to attend PyCon, you may register as individual. Employees of non-profits and school faculty may register at the individual rate.
-
- + Lunch and snacks
- + Conference kit
- + Raffle ticket
-
-Student tickets [#]_
-^^^^^^^^^^^^^^^^^^^^
-This rate is for full-time undergrad students.
-
- + Lunch and snacks
- + Conference kit
- + Raffle ticket
-
-.. [#] Please bring your student ID
