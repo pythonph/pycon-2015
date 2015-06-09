@@ -193,15 +193,7 @@ Talks
    Talk level: *Beginner*
 
 
-<<<<<<< HEAD
-DDR (Docker-Django-React)
-^^^^^^^^^^^^^^^^^^^^^^^^^
-.. image:: _static/images/speakers/steve.png
-   :width: 150px
-   :align: left
-=======
 .. topic:: DDR (Docker-Django-React)
->>>>>>> Make talks page prettier and more semantic
 
    by `Mark Steve Samson <speakers.html#mark-steve-samson>`_
 
