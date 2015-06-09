@@ -7,9 +7,9 @@ Talks
    :width: 150px
    :align: right
 
-by Dean Armada                          
+by Dean Armada
 
-Data Center Design, Trends, Business and Environmental Issues. 
+Data Center Design, Trends, Business and Environmental Issues.
 
 This talk introduces how to do automation using Python scripting can solves some of these Data Center challenges.
 
@@ -24,7 +24,7 @@ Talk level: *Intermediate*
    :width: 150px
    :align: right
 
-by Ronen Baram                                     
+by Ronen Baram
 
 MySQL Fabric is an extensible framework for managing farms of MySQL Servers.
 
@@ -48,7 +48,7 @@ by Mary Grace Coroza
 
 Build great single page apps with Python+Django Rest Framework+AngularJS.
 
-How building websites has evolved into building native web apps. The importance of decoupling frontend from backend development. 
+How building websites has evolved into building native web apps. The importance of decoupling frontend from backend development.
 
 Expected length: *45 minutes*
 
@@ -78,12 +78,12 @@ Talk level: *Beginner and Intermediate*
 
 by Chad Estioco
 
-Large organizations like Google and NASA use Python for serious stuff. This talk is about none of that. 
+Large organizations like Google and NASA use Python for serious stuff. This talk is about none of that.
 
 This talk is about not taking programming too seriously and making things for no other reason than making things.
- 
+
 Expected length: *30 minutes*
- 
+
 Talk level: *Intermediate*
 
 
@@ -115,7 +115,7 @@ Expected length: *1 hour*
 
 by Juan Paolo Balbin and Conrad Miguel Gozalo
 
-Scrapy is a web crawling and scraping framework written in Python. It is created by Scrapinghub and is used to scrape different kinds of websites for various clients. 
+Scrapy is a web crawling and scraping framework written in Python. It is created by Scrapinghub and is used to scrape different kinds of websites for various clients.
 
 This talk discusses how to use Scrapy and how we are using it.
 
@@ -123,23 +123,23 @@ Expected length: *30-45 minutes*
 
 Talk level: *Beginner*
 
-**Developing Web Services Rapidly: Ferris Framework on Google App Engine**                    
+**Developing Web Services Rapidly: Ferris Framework on Google App Engine**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: _static/images/speakers/andrea.jpg
    :width: 150px
    :align: right
 
-by Andrea Levinge                                                                             
+by Andrea Levinge
 
-Allowing devices to speak to each other is the core of the Internet of Things, and the need to deploy web services rapidly has never been greater. 
+Allowing devices to speak to each other is the core of the Internet of Things, and the need to deploy web services rapidly has never been greater.
 
 Ferris Framework on Google App Engine provides a lightning-fast way to write and deploy your
-own web services in a way that feels Pythonesque. 
+own web services in a way that feels Pythonesque.
 
-In this talk we’ll look at real world use cases and show snippets on how build your own ’twivial’ twitterbot using Ferris, GAE and Tweepy.                                 
+In this talk we’ll look at real world use cases and show snippets on how build your own ’twivial’ twitterbot using Ferris, GAE and Tweepy.
 
-Expected length: *30 minutes*      
-                                                                          
+Expected length: *30 minutes*
+
 Talk level: *Beginner*
 
 
@@ -153,7 +153,7 @@ Talk level: *Beginner*
 
 by Holden Hao
 
-Plone is an enterprise class and open source CMS built with Python. It is a powerful, flexible, and secure system ready for deployment in small to large scale environments. 
+Plone is an enterprise class and open source CMS built with Python. It is a powerful, flexible, and secure system ready for deployment in small to large scale environments.
 
 If you know Plone, you will have a hard time justifying the need to use other CMS solutions.
 
@@ -170,7 +170,7 @@ Talk level: *Intermediate*
 
 by Maksym Shalenyi
 
-Environment setup for big projects and their maintenance in a long term perspective is a pretty complicated task. This talk will show how much easier it can be with using zc.buildout to set up, develop and maintain projects. 
+Environment setup for big projects and their maintenance in a long term perspective is a pretty complicated task. This talk will show how much easier it can be with using zc.buildout to set up, develop and maintain projects.
 
 In few words, zc.buildout is a Pythonic, easy to configure and assemble, highly reproducible way for managing project environments with keeping all versions under control.
 
@@ -184,9 +184,9 @@ Talk level: *Intermediate*
    :width: 150px
    :align: right
 
-by Jervin Real 
+by Jervin Real
 
-If you're using Percona Xtrabackup to backup your large MySQL insfrastructure, chances are you've gone through automating the process several times and iterated multiple strategies. Chances are as well, you would have code to do this in several places, even in different formats. 
+If you're using Percona Xtrabackup to backup your large MySQL insfrastructure, chances are you've gone through automating the process several times and iterated multiple strategies. Chances are as well, you would have code to do this in several places, even in different formats.
 
 We've developed pyxbackup leveraging Python to handle the most common MySQL backup strategies from zero (no-Python experience) to production and we want to share our experience doing it.
 
@@ -200,7 +200,7 @@ Talk level: *Beginner*
    :width: 150px
    :align: right
 
-Python is used heavily in the geospatial sector for  geoprocessing, analyzing and visualizing spatial data. This talk will introduce various Python projects such as Fiona, GeoPandas, and Rasterio, and give attendees a starting place for independently exploring and learning geoprocessing skills using Python.    
+Python is used heavily in the geospatial sector for  geoprocessing, analyzing and visualizing spatial data. This talk will introduce various Python projects such as Fiona, GeoPandas, and Rasterio, and give attendees a starting place for independently exploring and learning geoprocessing skills using Python.
 
 Expected length: *45 minutes*
 
@@ -234,7 +234,7 @@ Expected length: *30 minutes*
 
 Talk level: *Beginner*
 
-**DRR (Docker-Django-React)**
+**DDR (Docker-Django-React)**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 by Mark Steve Samson
