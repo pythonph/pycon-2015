@@ -34,7 +34,7 @@ These features can be used in isolation or in combination. MySQL Fabric also pro
 
 Expected length: *45 minutes*
 
-Talk level: Beginner and Intermediate
+Talk level: *Beginner and Intermediate*
 
 
 
@@ -52,7 +52,7 @@ How building websites has evolved into building native web apps. The importance 
 
 Expected length: *45 minutes*
 
-Talk level: Advanced
+Talk level: *Advanced*
 
 
 **Introduction to Martial Arts with Python**
@@ -103,6 +103,7 @@ by Rex Mupas, Dhon Rocafort, John Paul Mendoza
 Python as a Back-end. IntroMe's Engineering team to talk about how they put together their mobile application backend using Python.
 
 Expected length: *1 hour*
+
 
 **Using Scrapy at work and sideprojects**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -175,7 +176,7 @@ In few words, zc.buildout is a Pythonic, easy to configure and assemble, highly 
 
 Expected length: *1 hour*
 
-Talk level: Intermediate
+Talk level: *Intermediate*
 
 **Learning by Experience, Devploying pyxbackup**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -197,7 +198,7 @@ Talk level: *Beginner*
 ^^^^^^^^^^^^^^^^^^^^
 .. image:: _static/images/speakers/andrew.png
    :width: 150px
-   :align: left
+   :align: right
 
 by Andrew Paulo Robillo
 
