@@ -270,6 +270,9 @@ Talk level: *Beginner*
 
 DDR (Docker-Django-React)
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: _static/images/speakers/steve.png
+   :width: 150px
+   :align: left
 
 by Mark Steve Samson
 
