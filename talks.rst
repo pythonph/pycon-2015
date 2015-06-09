@@ -25,7 +25,7 @@ Experience as a Django core contributor and the problems and benefits of volunte
 
 Expected length: *30 minutes*
 
-**Data Center Automation using Python**
+Data Center Automation using Python
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: _static/images/speakers/dean.png
    :width: 150px
