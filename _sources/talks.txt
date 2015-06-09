@@ -1,6 +1,31 @@
 Talks
 =====
 
+
+**Keynote: Mezzanine**
+^^^^^^^^^^^^^^^^^^^^^^
+.. image:: _static/images/speakers/stephen_mcdonald.jpg
+   :width: 150px
+   :align: right
+
+by Stephen McDonald
+
+Running a popular open source project
+
+Expected length: *60 minutes*
+
+**Keynote: Keynote: Experience as a Django core contributor**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: _static/images/speakers/loic_bistuer.png
+   :width: 150px
+   :align: right
+
+by Loïc Bistuer
+
+Experience as a Django core contributor and the problems and benefits of volunteering.
+
+Expected length: *30 minutes*
+
 **Data Center Automation using Python**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: _static/images/speakers/dean.png
