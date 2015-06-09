@@ -60,6 +60,15 @@ Datalicious is a full service, worldwide, data agency providing client focused s
 
 It’s called smart data driven marketing. It’s Datalicious.
 
+KLab Cyscorpions
+
+.. image:: _static/images/sponsors/klabcyscorpions.png
+  :target: http://www.cyscorpions.com/
+
+We are a mobile company make games and services for smartphone.
+We drill our skills and make our best effort for ourselves, our users
+and society.
+
 Gold Sponsors
 ^^^^^^^^^^^^^
 

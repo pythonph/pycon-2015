@@ -60,6 +60,15 @@ Datalicious is a full service, worldwide, data agency providing client focused s
 
 It’s called smart data driven marketing. It’s Datalicious.
 
+KLab Cyscorpions
+
+.. image:: _static/images/sponsors/klabcyscorpions.png
+  :target: http://www.cyscorpions.com/
+
+We are a mobile company make games and services for smartphone.
+We drill our skills and make our best effort for ourselves, our users
+and society.
+
 Gold Sponsors
 ^^^^^^^^^^^^^
 
@@ -97,6 +106,13 @@ Revsys
   :target: http://www.revsys.com/
 
 We are performance tuners, Django and PostgreSQL experts, infrastructure and scaling architects. Our clients come to us for our deep and varied experience. We offer technical support and consultation for complex open source systems. Revolution Systems specializes in performance and scalability, Django web application development, Systems Administration services and commercial support of many Open Source Software systems.
+
+ZipMatch
+
+.. image:: _static/images/sponsors/zipmatch.jpg
+  :target: www.zipmatch.com/
+
+Founded in 2013, ZipMatch is the country’s most innovative home buying marketplace aimed at educating and empowering the Filipino home buyer and renter. Some of the website’s features include home matching through its comprehensive residential project pages, wherein home buyers can explore 360 degree views of the property, search door to door with it’s nearby projects map, and read property reviews. More than just a listing site, ZipMatch wants to promote smart home ownership in the Philippines.
 
 
 Marketing Partners
