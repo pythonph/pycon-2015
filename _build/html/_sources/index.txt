@@ -51,6 +51,15 @@ Python Software Foundation
 
 The Python Software Foundation (PSF) is a 501(c)(3) non-profit corporation that holds the intellectual property rights behind the Python programming language. We manage the open source licensing for Python version 2.1 and later and own and protect the trademarks associated with Python. We also run the North American PyCon conference annually, support other Python conferences around the world, and fund Python related development with our grants program and by funding special projects.
 
+Datalicious
+
+.. image:: _static/images/sponsors/datalicious.png
+  :target: http://www.datalicious.com/
+
+Datalicious is a full service, worldwide, data agency providing client focused solutions designed to scale with your organisation. From humble beginnings as a data consulting agency in Australia, Datalicious has expanded through our growing services division and product development teams. We now help our clients around the globe achieve best practice data driven marketing through best of breed technology and data driven thinking.
+
+It’s called smart data driven marketing. It’s Datalicious.
+
 Gold Sponsors
 ^^^^^^^^^^^^^
 
