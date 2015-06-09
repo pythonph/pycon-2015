@@ -22,7 +22,12 @@ button {
   margin-top: 0;
 }
 
+#speakers a {
+  color: inherit;
+}
+
 #speakers img {
+  border: 1px solid;
   border-radius: 50%;
 }
 

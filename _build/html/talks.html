@@ -33,8 +33,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=0.9, maximum-scale=0.9">
 
   </head>
-  <body>
-    <div class="related">
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
       <h3>Navigation</h3>
       <ul>
         <li class="right" style="margin-right: 10px">
@@ -46,14 +46,14 @@
         <li class="right" >
           <a href="speakers.html" title="Speakers"
              accesskey="P">previous</a> |</li>
-        <li><a href="index.html">PyCon PH 2015</a> &raquo;</li> 
+        <li class="nav-item nav-item-0"><a href="index.html">PyCon PH 2015</a> &raquo;</li> 
       </ul>
     </div>  
 
     <div class="document">
       <div class="documentwrapper">
         <div class="bodywrapper">
-          <div class="body">
+          <div class="body" role="main">
             
   <div class="section" id="talks">
 <h1>Talks<a class="headerlink" href="#talks" title="Permalink to this headline">¶</a></h1>
@@ -159,11 +159,26 @@ own web services in a way that feels Pythonesque.</p>
 <p>Expected length: <em>45 minutes</em></p>
 <p>Talk level: <em>Beginner</em></p>
 </div>
+<div class="section" id="spatial-data-analysis-with-python">
+<h2><strong>Spatial data analysis with Python</strong><a class="headerlink" href="#spatial-data-analysis-with-python" title="Permalink to this headline">¶</a></h2>
+<a class="reference internal image-reference" href="_images/rk.png"><img alt="_images/rk.png" class="align-right" src="_images/rk.png" style="width: 150px;" /></a>
+<p>Python is used heavily in the geospatial sector for  geoprocessing, analyzing and visualizing spatial data. This talk will introduce various Python projects such as Fiona, GeoPandas, and Rasterio, and give attendees a starting place for independently exploring and learning geoprocessing skills using Python.</p>
+<p>Expected length: <em>45 minutes</em></p>
+<p>Talk level: <em>Intermediate</em></p>
+</div>
 <div class="section" id="root-of-all-evil">
 <h2><strong>Root of all evil</strong><a class="headerlink" href="#root-of-all-evil" title="Permalink to this headline">¶</a></h2>
 <a class="reference internal image-reference" href="_images/andrew.png"><img alt="_images/andrew.png" class="align-right" src="_images/andrew.png" style="width: 150px;" /></a>
 <p>by Andrew Paulo Robillo</p>
 <p>The road to heck is paved with good intentions and no programming language, not even Python, can save you from the siren call of premature optimization. Join me in understanding and hopefully delivering yourself from great evil by analyzing my own descent to perdition.</p>
+<p>Expected length: <em>30 minutes</em></p>
+<p>Talk level: <em>Beginner</em></p>
+</div>
+<div class="section" id="jasper-project-on-the-raspberry-pi">
+<h2><strong>Jasper Project on the Raspberry Pi</strong><a class="headerlink" href="#jasper-project-on-the-raspberry-pi" title="Permalink to this headline">¶</a></h2>
+<a class="reference internal image-reference" href="_images/elymar.jpg"><img alt="_images/elymar.jpg" class="align-right" src="_images/elymar.jpg" style="width: 150px;" /></a>
+<p>by Elymar Apao</p>
+<p>his is a demonstration of the use of a Raspberry Pi and the Jasper Project (an open sourced assistant software written in Python).</p>
 <p>Expected length: <em>30 minutes</em></p>
 <p>Talk level: <em>Beginner</em></p>
 </div>
@@ -180,7 +195,7 @@ own web services in a way that feels Pythonesque.</p>
           </div>
         </div>
       </div>
-      <div class="sphinxsidebar">
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
         <div class="sphinxsidebarwrapper">
 <p class="logo">
   <a href="index.html">
@@ -218,7 +233,9 @@ own web services in a way that feels Pythonesque.</p>
 <li class="toctree-l2"><a class="reference internal" href="#plone-what-other-cms-wants-to-be-when-they-grow-up"><strong>Plone: What other CMS wants to be when they grow up</strong></a></li>
 <li class="toctree-l2"><a class="reference internal" href="#zc-buildout-save-the-world"><strong>zc.buildout save the world</strong></a></li>
 <li class="toctree-l2"><a class="reference internal" href="#learning-by-experience-devploying-pyxbackup"><strong>Learning by Experience, Devploying pyxbackup</strong></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#spatial-data-analysis-with-python"><strong>Spatial data analysis with Python</strong></a></li>
 <li class="toctree-l2"><a class="reference internal" href="#root-of-all-evil"><strong>Root of all evil</strong></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#jasper-project-on-the-raspberry-pi"><strong>Jasper Project on the Raspberry Pi</strong></a></li>
 <li class="toctree-l2"><a class="reference internal" href="#drr-docker-django-react"><strong>DRR (Docker-Django-React)</strong></a></li>
 </ul>
 </li>
@@ -230,7 +247,7 @@ own web services in a way that feels Pythonesque.</p>
 </ul>
 
 
-<div id="searchbox" style="display: none">
+<div id="searchbox" style="display: none" role="search">
   <h3>Quick search</h3>
     <form class="search" action="search.html" method="get">
       <input type="text" name="q" />
@@ -251,8 +268,8 @@ own web services in a way that feels Pythonesque.</p>
       &copy;2015, Python.PH, Inc.
       
       |
-      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.2.2</a>
-      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.3</a>
+      Powered by <a href="http://sphinx-doc.org/">Sphinx 1.3.1</a>
+      &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.4</a>
       
       |
       <a href="_sources/talks.txt"
