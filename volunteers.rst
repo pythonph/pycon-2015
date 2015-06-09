@@ -34,19 +34,21 @@ Conference Chair
 Committee Chairs
 ----------------
 
-1. Design and Website Chair - Mark Steve Samson
+1. Design and Website Co-Chairs - Mark Steve Samson and Joy Lebrun
+
+  Steve and Joy are the people that oversee the design and printing of the PyCon Philippines logo, t-shirt, flyers, brochure, tarpauline, banner and conference IDs.
 
   Steve is the web admin and maintainer of the PyCon Philippines website. If you'd like to help, submitting a pull request to the `pycon-2015 repo <https://github.com/pythonph/pycon-2015>`_ with your changes will surely make him happy.
 
-  Steve is also the person that oversees the design and printing of the PyCon Philippines logo, t-shirt, flyers, brochure, tarpauline, banner and conference IDs.
-
   Steve has a knack for whipping `fun stuff <http://pythonph.tumblr.com/post/55737267501/pythonph-june-2013-meetup-beginners-x-python>`_ to talk about. You will always learn a thing or two from him. He claims that he's not scary and is actually the most approachable geek among the group. You can reach him at admin@python.ph or via Twitter (`@themarksteve <https://twitter.com/themarksteve>`_).
 
-2. Logistics Co-Chairs - Matt Lebrun and Christine Balili
+  Joy is responsible for the design of promotional materials for PyCon. You may reach her at joyjoyjoy4696@gmail.com.
 
-  Matt and Christine are responsible for all the footwork and communication needed to get things in order for the the venue, conference food and volunteer dinner.
+2. Logistics Co-Chairs - Matt Lebrun and Christine Balili and Kathleen Lara
 
-  You can reach them at treasurer@python.ph (Matt) and chrisbalili99@gmail.com or via Twitter `@cr8ivecodesmith <https://twitter.com/cr8ivecodesmith>`_ and `@tingbalili <https://twitter.com/tingbalili>`_
+  Matt, Christine and Kathleen are responsible for all the footwork and communication needed to get things in order for the venue, conference food and volunteer dinner.
+
+  You can reach them at treasurer@python.ph (Matt), chrisbalili99@gmail.com, and kathleencastrolara@gmail.com or via Twitter `@cr8ivecodesmith <https://twitter.com/cr8ivecodesmith>`_ and `@tingbalili <https://twitter.com/tingbalili>`_
 
 3. Stage-hand Chair - Josef Monje
 
