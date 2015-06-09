@@ -18,6 +18,7 @@ startup founders, corporate IT decision makers, students and IT educators in a
    theme
    date-and-venue
    speakers
+   talks
    tickets
    volunteers
    coc
