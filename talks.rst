@@ -15,7 +15,7 @@ This talk introduces how to do automation using Python scripting can solves some
 
 Expected length: *80 minutes*
 
-Level of expertise: *Intermediate*
+Talk level: *Intermediate*
 
 
 **MySQL Fabric: Python and MySQL are meant to be**
@@ -34,7 +34,7 @@ These features can be used in isolation or in combination. MySQL Fabric also pro
 
 Expected length: *45 minutes*
 
-Level of expertise: Beginner and Intermediate
+Talk level: Beginner and Intermediate
 
 
 
@@ -52,7 +52,7 @@ How building websites has evolved into building native web apps. The importance 
 
 Expected length: *45 minutes*
 
-Level of expertise: Advanced
+Talk level: Advanced
 
 
 **Introduction to Martial Arts with Python**
@@ -67,7 +67,7 @@ Solving the common exercises for learning a new language the Python way
 
 Expected length: *1 hour*
 
-Level of expertise: *Beginner and Intermediate*
+Talk level: *Beginner and Intermediate*
 
 
 **The use of useless things**
@@ -84,7 +84,7 @@ This talk is about not taking programming too seriously and making things for no
  
 Expected length: *30 minutes*
  
-Level of expertise: *Intermediate*
+Talk level: *Intermediate*
 
 
 **Python as a Backend**
@@ -120,7 +120,7 @@ This talk discusses how to use Scrapy and how we are using it.
 
 Expected length: *30-45 minutes*
 
-Level of expertise: *Beginner*
+Talk level: *Beginner*
 
 **Developing Web Services Rapidly: Ferris Framework on Google App Engine**                    
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -139,7 +139,7 @@ In this talk we’ll look at real world use cases and show snippets on how build
 
 Expected length: *30 minutes*      
                                                                           
-Level of expertise: *Beginner*
+Talk level: *Beginner*
 
 
 
@@ -158,7 +158,7 @@ If you know Plone, you will have a hard time justifying the need to use other CM
 
 Expected length: *1 hour*
 
-Level of expertise: *Intermediate*
+Talk level: *Intermediate*
 
 
 **zc.buildout save the world**
@@ -175,7 +175,7 @@ In few words, zc.buildout is a Pythonic, easy to configure and assemble, highly 
 
 Expected length: *1 hour*
 
-Level of expertise: Intermediate
+Talk level: Intermediate
 
 **Learning by Experience, Devploying pyxbackup**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -191,4 +191,29 @@ We've developed pyxbackup leveraging Python to handle the most common MySQL back
 
 Expected length: *45 minutes*
 
-Level of expertise: *Beginner*
+Talk level: *Beginner*
+
+**Root of all evil**
+^^^^^^^^^^^^^^^^^^^^
+.. image:: _static/images/speakers/andrew.png
+   :width: 150px
+   :align: left
+
+by Andrew Paulo Robillo
+
+The road to heck is paved with good intentions and no programming language, not even Python, can save you from the siren call of premature optimization. Join me in understanding and hopefully delivering yourself from great evil by analyzing my own descent to perdition.
+
+Expected length: *30 minutes*
+
+Talk level: *Beginner*
+
+**DRR (Docker-Django-React)**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+by Mark Steve Samson
+
+Docker and React are among the hottest projects now in the web dev scene. And Django has been one of the go-to web frameworks used by Python developers all over the world. Imagine them working together to form the deployment setup of your (or at the the very least MY) dreams.
+
+Expected length: *45 minutes*
+
+Talk level: *Intermediate and Advanced*
