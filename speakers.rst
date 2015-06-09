@@ -167,6 +167,15 @@ Maksym Shalenyi
 Master's degree in Computer Engineering, Python web developer since 2011, cannot picture myself
 using some other language than Python, big fan of Pyramid framework.
 
+.. image:: _static/images/speakers/rk.png
+   :width: 150px
+   :align: left
+
+Romer Kristi D. Aranas
+^^^^^^^^^^^^^^^^^^^^^^
+
+RK is a geomatics engineer who loves code, comics, and cartography. He currently works for PHL-Microsat, the country’s microsatellite program. He organizes Maptime Diliman, a meetup group for mappers, in his spare time.
+
 .. image:: _static/images/speakers/andrew.png
    :width: 150px
    :align: left
@@ -175,6 +184,16 @@ Andrew Paulo Robillo
 ^^^^^^^^^^^^^^^^^^^^
 
 Drew's life is a work in progress
+
+
+.. image:: _static/images/speakers/elymar.jpg
+   :width: 150px
+   :align: left
+
+Elymar Apao
+^^^^^^^^^^^
+
+Founder of JumpSparc - and educational community for makers and inventors.
 
 Mark Steve Samson
 ^^^^^^^^^^^^^^^^^

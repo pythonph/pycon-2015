@@ -194,6 +194,18 @@ Expected length: *45 minutes*
 
 Talk level: *Beginner*
 
+**Spatial data analysis with Python**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: _static/images/speakers/rk.png
+   :width: 150px
+   :align: right
+
+Python is used heavily in the geospatial sector for  geoprocessing, analyzing and visualizing spatial data. This talk will introduce various Python projects such as Fiona, GeoPandas, and Rasterio, and give attendees a starting place for independently exploring and learning geoprocessing skills using Python.    
+
+Expected length: *45 minutes*
+
+Talk level: *Intermediate*
+
 **Root of all evil**
 ^^^^^^^^^^^^^^^^^^^^
 .. image:: _static/images/speakers/andrew.png
@@ -203,6 +215,20 @@ Talk level: *Beginner*
 by Andrew Paulo Robillo
 
 The road to heck is paved with good intentions and no programming language, not even Python, can save you from the siren call of premature optimization. Join me in understanding and hopefully delivering yourself from great evil by analyzing my own descent to perdition.
+
+Expected length: *30 minutes*
+
+Talk level: *Beginner*
+
+**Jasper Project on the Raspberry Pi**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. image:: _static/images/speakers/elymar.jpg
+   :width: 150px
+   :align: right
+
+by Elymar Apao
+
+his is a demonstration of the use of a Raspberry Pi and the Jasper Project (an open sourced assistant software written in Python).
 
 Expected length: *30 minutes*
 
