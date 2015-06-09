@@ -109,7 +109,7 @@ We are performance tuners, Django and PostgreSQL experts, infrastructure and sca
 
 ZipMatch
 
-.. image:: _static/images/sponsors/zipmatch.jpg
+.. image:: _static/images/sponsors/zipmatch.png
   :target: www.zipmatch.com/
 
 Founded in 2013, ZipMatch is the country’s most innovative home buying marketplace aimed at educating and empowering the Filipino home buyer and renter. Some of the website’s features include home matching through its comprehensive residential project pages, wherein home buyers can explore 360 degree views of the property, search door to door with it’s nearby projects map, and read property reviews. More than just a listing site, ZipMatch wants to promote smart home ownership in the Philippines.
