@@ -166,3 +166,17 @@ Maksym Shalenyi
 
 Master's degree in Computer Engineering, Python web developer since 2011, cannot picture myself
 using some other language than Python, big fan of Pyramid framework.
+
+.. image:: _static/images/speakers/andrew.png
+   :width: 150px
+   :align: left
+
+Andrew Paulo Robillo
+^^^^^^^^^^^^^^^^^^^^
+
+Drew's life is a work in progress
+
+Mark Steve Samson
+^^^^^^^^^^^^^^^^^
+
+Steve is a self-taught web developer and open source enthusiast who dreams of creating his own game someday. He's been a pythonista for almost 5 years now and occasionally contributes to various open source projects.
