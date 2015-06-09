@@ -82,6 +82,14 @@ Scrapinghub
 
 Scrapinghub uses Python to deliver successful web crawling and data processing solutions. Our platform as a service allows your organization to build crawlers easily, deploy them instantly and scale them on demand. Our services cover all aspects of web crawling, from automatic data extraction to javascript rendering and effortless proxy management. We are the company behind `Scrapy <http://scrapy.org>`_, the popular open-source web crawling framework for Python.
 
+Revsys
+
+.. image:: _static/images/sponsors/revsys.jpg
+  :target: http://www.revsys.com/
+
+We are performance tuners, Django and PostgreSQL experts, infrastructure and scaling architects. Our clients come to us for our deep and varied experience. We offer technical support and consultation for complex open source systems. Revolution Systems specializes in performance and scalability, Django web application development, Systems Administration services and commercial support of many Open Source Software systems.
+
+
 Marketing Partners
 ^^^^^^^^^^^^^^^^^^
 
