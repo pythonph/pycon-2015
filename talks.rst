@@ -1,8 +1,6 @@
 Talks
 =====
 
-<<<<<<< HEAD
-
 **Keynote: Mezzanine**
 ^^^^^^^^^^^^^^^^^^^^^^
 .. image:: _static/images/speakers/stephen_mcdonald.jpg
@@ -29,11 +27,6 @@ Expected length: *30 minutes*
 
 **Data Center Automation using Python**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-=======
-Data Center Automation using Python
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
->>>>>>> 1bca0bfbb6ff7dd19934182d6975fdb515dd161f
 .. image:: _static/images/speakers/dean.png
    :width: 150px
    :align: right
