@@ -72,7 +72,7 @@ implementation, developing cloud services for web and mobile applications.
 Ronen Baram
 ^^^^^^^^^^^
 
-With more then 20 years in the IT industry, Based in Melbourne Australia,
+With more than 20 years in the IT industry, Based in Melbourne Australia,
 managing a team of system engineers for Oracle MySQL in the Asia Pacific
 region. Has an extensive experience with large volume transaction systems
 in some of the biggest companies around the APAC region and Philippines.
@@ -122,7 +122,7 @@ IntroMe.
 Juan Paolo Balbin
 ^^^^^^^^^^^^^^^^^
 
-Jolo is a software developer and somewhat a data scientist that is interested in
+Jolo is a software developer and somewhat of a data scientist that is interested in
 NLP and machine learning. He's also the creator of TextTeaser, an open source
 automatic summarization algorithm.
 
