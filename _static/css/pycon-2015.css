@@ -22,6 +22,10 @@ button {
   padding: 0.25em 0.7em;
 }
 
+.image-reference {
+  border: 0;
+}
+
 #speakers h2 {
   margin-bottom: 2em;
 }
