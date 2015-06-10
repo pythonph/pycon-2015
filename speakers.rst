@@ -241,3 +241,12 @@ Mark Steve Samson
 Steve is a self-taught web developer and open source enthusiast who dreams of
 creating his own game someday. He's been a pythonista for almost 5 years now and
 occasionally contributes to various open source projects.
+
+.. image:: _static/images/speakers/sony.jpg
+   :width: 150px
+   :align: left
+
+Sony Valdez
+^^^^^^^^^^^
+
+Programmer. Gamer. Nerd. Mostly harmless.
