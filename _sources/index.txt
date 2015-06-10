@@ -13,7 +13,7 @@ startup founders, corporate IT decision makers, students and IT educators in a
 2-day event where we can collaborate and learn with each other.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
 
    theme
    date-and-venue
