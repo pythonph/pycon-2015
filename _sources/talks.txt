@@ -186,7 +186,7 @@ Talks
 
    by `Elymar Apao <speakers.html#elymar-apao>`_
 
-   his is a demonstration of the use of a Raspberry Pi and the Jasper Project (an open sourced assistant software written in Python).
+   This is a demonstration of the use of a Raspberry Pi and the Jasper Project (an open sourced assistant software written in Python).
 
    Expected length: *30 minutes*
 
