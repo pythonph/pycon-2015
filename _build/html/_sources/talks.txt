@@ -203,3 +203,12 @@ Talks
 
    Talk level: *Intermediate and Advanced*
 
+.. topic:: Developing a platform game in an hour using Python and Pygame
+
+   by `Sony Valdez <speakers.html#sony-valdez>`_
+   
+   Python can be used as a foundation for learning game development and game concepts. In this talk, we will prototype a platform game (similar to the Mario Bros. series) in under an hour. This will give the audience a basis for future game development.
+   
+   Expected length: *1 hour*
+   
+   Talk level: *Beginner and Intermediate*
