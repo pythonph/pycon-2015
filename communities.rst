@@ -32,7 +32,7 @@ PyLadies Manila
    :width: 150px
    :align: left
 
- PyLadies Manila is a group of women developers based in Manila who love the Python programming language. Anyone who is interested in Python is encouraged to participate! 
+PyLadies Manila is a group of women developers based in Manila who love the Python programming language. Anyone who is interested in Python is encouraged to participate! 
  
 SugarPy
 ^^^^^^^
