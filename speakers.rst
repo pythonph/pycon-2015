@@ -43,16 +43,6 @@ released a new mobile game titled “Face Mountain”. She has a degree in Compu
 Science from Ateneo de Manila and likes to develop, write and talk about all
 things software.
 
-.. image:: _static/images/speakers/israel-fermin.jpg
-   :width: 150px
-   :align: left
-
-Israel Felipe Fermín Montilla
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-A Venezuelan Software Engineer living and working in Dubai for a large regional
-classifieds website, just a normal guy who loves to code.
-
 .. image:: _static/images/speakers/grace_coroza.jpeg
    :width: 150px
    :align: left

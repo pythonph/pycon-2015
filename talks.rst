@@ -59,17 +59,6 @@ Talks
    Talk level: *Advanced*
 
 
-.. topic:: Introduction to Martial Arts with Python
-
-   by `Israel Felipe Fermín Montilla <speakers.html#israel-felipe-fermin-montilla>`_
-
-   Solving the common exercises for learning a new language the Python way
-
-   Expected length: *1 hour*
-
-   Talk level: *Beginner and Intermediate*
-
-
 .. topic:: The use of useless things
 
    by `Chad Estioco <speakers.html#chad-estioco>`_
