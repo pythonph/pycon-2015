@@ -11,10 +11,6 @@ PizzaPy
 
 PizzaPy started out as two fat bearded guys meeting up for pizza and beer to talk about Python and technology. They thought it was a good idea to invite other people and make companies pay for their pizza and beer. 
 
-.. image:: _static/images/community/waterpy.jpg
-   :width: 200px
-   :align: right
-
 waterPy
 ^^^^^^^
 
@@ -22,10 +18,6 @@ Community of enthusiasts committed to promote Python, its associated technologie
 
 DurianPy
 ^^^^^^^^
-.. image:: _static/images/community/durianpy.png
-   :width: 200px
-   :align: right
-
 Davao's Python Community -- where Pythonistas and enthusiasts gather to discuss trends and share knowledge about the IT industry over a pack of Durian candies (not always). Fresh talks and friendly conversations, guaranteed!
 
 PyTsada
@@ -37,8 +29,8 @@ ITG-PyTsada or simply "PyTsada" is a group for sharing Python and Python-related
 PyLadies Manila
 ^^^^^^^^^^^^^^^
 .. image:: _static/images/community/pyladies.jpg
-   :width: 200px
-   :align: right
+   :width: 150px
+   :align: left
 
 PyLadies Manila is a group of women developers based in Manila who love the Python programming language. Anyone who is interested in Python is encouraged to participate! 
  

@@ -150,8 +150,8 @@ html_static_path = ['_static']
 # .htaccess) here, relative to this directory. These files are copied
 # directly to the root of the documentation.
 html_extra_path = [
-  'CNAME',
-  '.nojekyll',
+  '_/CNAME',
+  '_/.nojekyll',
 ]
 
 # If not '', a 'Last updated on:' timestamp is inserted at every page bottom,
