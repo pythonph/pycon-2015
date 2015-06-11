@@ -212,3 +212,15 @@ Talks
    Expected length: *1 hour*
    
    Talk level: *Beginner and Intermediate*
+
+.. topic:: Django Workshop
+
+   by `Jon Danao <speakers.html#jon-danao>`_
+   
+   Django is a batteries-included Python web framework for creating dynamic web applications and APIs. It is free and open source, has extensive documentation and a large community. In this workshop you will learn how to setup your project, interact with the database and render front-end HTMLs.
+   
+   Expected length: *3 hours*
+   
+   Talk level: *Beginner and Intermediate*
+   
+   You may bring a laptop for the workshop.
