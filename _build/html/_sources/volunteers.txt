@@ -58,7 +58,7 @@ Committee Chairs
 
 4. Fundraising Co-Chairs - Nadine Jamilla, Stef Sy and Micaela Reyes
 
-  If you have any sponsorship questions, please email nadinejamila@gmail.com, stef@stefsy.com, codemickeycode@gmail.com or say hi to them on Twitter (`@nadinejamila <https://twitter.com/nadinejamila>`_, `@stefsy <https://twitter.com/stefsy>`_ and `@codemickeycode <https://twitter.com/codemickeycode`_)
+  If you have any sponsorship questions, please email nadinejamila@gmail.com, stef@stefsy.com, codemickeycode@gmail.com or say hi to them on Twitter (`@nadinejamila <https://twitter.com/nadinejamila>`_, `@stefsy <https://twitter.com/stefsy>`_ and `@codemickeycode <https://twitter.com/codemickeycode>`_)
 
   They're essentially the heroes of Python.PH this 2015. They put countless of hours and effort in making sure we can deliver the conference to the widest audience possible by driving down the ticket costs for PyCon with the help of sponsors.
 
@@ -87,6 +87,6 @@ Logistics Committee
 - Nikko Magalona
 - John Paul Llenaresas
 
-Stage hand Committee
+Stage-hand Committee
 ^^^^^^^^^^^^^^^^^^^
 - First Val Babon
