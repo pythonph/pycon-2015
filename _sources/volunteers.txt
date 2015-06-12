@@ -42,23 +42,23 @@ Committee Chairs
 
   Steve has a knack for whipping `fun stuff <http://pythonph.tumblr.com/post/55737267501/pythonph-june-2013-meetup-beginners-x-python>`_ to talk about. You will always learn a thing or two from him. He claims that he's not scary and is actually the most approachable geek among the group. You can reach him at admin@python.ph or via Twitter (`@themarksteve <https://twitter.com/themarksteve>`_).
 
-  Joy is responsible for the design of promotional materials for PyCon. You may reach her at joyjoyjoy4696@gmail.com.
+  Joy is responsible for the design of promotional materials for PyCon. You may reach her at vermarijoyguarneslebrun@gmail.com.
 
-2. Logistics Co-Chairs - Matt Lebrun and Christine Balili and Kathleen Lara
+2. Logistics Co-Chairs - Matt Lebrun, Christine Balili and Kathleen Lara
 
   Matt, Christine and Kathleen are responsible for all the footwork and communication needed to get things in order for the venue, conference food and volunteer dinner.
 
   You can reach them at treasurer@python.ph (Matt), chrisbalili99@gmail.com, and kathleencastrolara@gmail.com or via Twitter `@cr8ivecodesmith <https://twitter.com/cr8ivecodesmith>`_ and `@tingbalili <https://twitter.com/tingbalili>`_
 
-3. Stage-hand Chair - Josef Monje
+3. Stage-hand Chair - Josef Monje and Dian Leithon Isidro
 
   Josef is responsible for the video coverage of the conference, extra projector, microphone, tables, laptop, etc.
   He and his team will be on standby in case something goes wrong on-stage and will see through the needs of the audience.
   He is also responsible for ensuring that our `Code of Conduct <http://pycon.python.ph/coc.html>`_ is enforced throughout the conference. Reach out to him at josefmonje@gmail.com or via Twitter `@josefmonje <https://twitter.com/josefmonje>`_
 
-4. Fundraising Co-Chairs - Nadine Jamilla and Stef Sy
+4. Fundraising Co-Chairs - Nadine Jamilla, Stef Sy and Micaela Reyes
 
-  If you have any sponsorship questions, please email nadinejamila@gmail.com and stef@stefsy.com or say hi to them on Twitter (`@stefsy <https://twitter.com/stefsy>`_ and `@nadinejamila <https://twitter.com/nadinejamila>`_)
+  If you have any sponsorship questions, please email nadinejamila@gmail.com, stef@stefsy.com, codemickeycode@gmail.com or say hi to them on Twitter (`@nadinejamila <https://twitter.com/nadinejamila>`_, `@stefsy <https://twitter.com/stefsy>`_ and `@codemickeycode <https://twitter.com/codemickeycode`_)
 
   They're essentially the heroes of Python.PH this 2015. They put countless of hours and effort in making sure we can deliver the conference to the widest audience possible by driving down the ticket costs for PyCon with the help of sponsors.
 
@@ -68,7 +68,7 @@ Committee Chairs
 
   You may reach them at randallsayat@gmail.com, grace.coroza@gmail.com, beatobongco@gmail.com.
 
-6. Program Committee Chairs - Sony Valdez, Rodolfo Duldulao and Stef Sy
+6. Program Committee Chairs - Sony Valdez and Rodolfo Duldulao
 
   Sony, `Dulds <https://www.linkedin.com/in/rnduldulaojr>`_ and Stef are the people behind the `theme <http://pycon.python.ph/theme.html>`_ and our awesome program for PyConPH 2015. They are the ones who make sure that the quality talks and workshops we bring this PyCon will be a blast.
 
@@ -79,10 +79,14 @@ Committee Members
 -----------------
 The following individuals volunteered at least eight hours of their time during the conference and are part of the following committees:
 
-Logistics Committee:
+Logistics Committee
 ^^^^^^^^^^^^^^^^^^^
 - Jadurani Davalos
 - Caryssa Sobrepena
 - Alysson Alvaran
 - Nikko Magalona
 - John Paul Llenaresas
+
+Stage hand Committee
+^^^^^^^^^^^^^^^^^^^
+- First Val Babon
