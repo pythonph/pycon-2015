@@ -34,7 +34,7 @@ Conference Chair
 Committee Chairs
 ----------------
 
-1. Design and Website Co-Chairs - Mark Steve Samson and Joy Lebrun
+1. **Design and Website Co-Chairs** - Mark Steve Samson and Joy Lebrun
 
   Steve and Joy are the people that oversee the design and printing of the PyCon Philippines logo, t-shirt, flyers, brochure, tarpauline, banner and conference IDs.
 
@@ -44,31 +44,31 @@ Committee Chairs
 
   Joy is responsible for the design of promotional materials for PyCon. You may reach her at vermarijoyguarneslebrun@gmail.com.
 
-2. Logistics Co-Chairs - Matt Lebrun, Christine Balili and Kathleen Lara
+2. **Logistics Co-Chairs** - Matt Lebrun, Christine Balili and Kathleen Lara
 
   Matt, Christine and Kathleen are responsible for all the footwork and communication needed to get things in order for the venue, conference food and volunteer dinner.
 
   You can reach them at treasurer@python.ph (Matt), chrisbalili99@gmail.com, and kathleencastrolara@gmail.com or via Twitter `@cr8ivecodesmith <https://twitter.com/cr8ivecodesmith>`_ and `@tingbalili <https://twitter.com/tingbalili>`_
 
-3. Stage-hand Chair - Josef Monje and Dian Leithon Isidro
+3. **Stage-hand Chair** - Josef Monje and Dian Leithon Isidro
 
   Josef is responsible for the video coverage of the conference, extra projector, microphone, tables, laptop, etc.
   He and his team will be on standby in case something goes wrong on-stage and will see through the needs of the audience.
   He is also responsible for ensuring that our `Code of Conduct <http://pycon.python.ph/coc.html>`_ is enforced throughout the conference. Reach out to him at josefmonje@gmail.com or via Twitter `@josefmonje <https://twitter.com/josefmonje>`_
 
-4. Fundraising Co-Chairs - Nadine Jamilla, Stef Sy and Micaela Reyes
+4. **Fundraising Co-Chairs** - Nadine Jamilla, Stef Sy and Micaela Reyes
 
   If you have any sponsorship questions, please email nadinejamila@gmail.com, stef@stefsy.com, codemickeycode@gmail.com or say hi to them on Twitter (`@nadinejamila <https://twitter.com/nadinejamila>`_, `@stefsy <https://twitter.com/stefsy>`_ and `@codemickeycode <https://twitter.com/codemickeycode>`_)
 
   They're essentially the heroes of Python.PH this 2015. They put countless of hours and effort in making sure we can deliver the conference to the widest audience possible by driving down the ticket costs for PyCon with the help of sponsors.
 
-5. Marketing and Community Relations Chairs - Randall Sayat, Grace Coroza and Beato Bongco
+5. **Marketing and Community Relations Chairs** - Randall Sayat, Grace Coroza and Beato Bongco
 
   Randall, Grace and Beato are responsible for advertising PyCon 2015; social media exposure (facebook, twitter, etc); writing a report on PyCon 2015; gathering feedback (during pycon and after pycon); email marketing and announcements; informing participants about the `Code of Conduct <http://pycon.python.ph/coc.html>`_ to the event; Filipino hospitality for our foreign speakers; securing accomodation for foreign speakers/guests; meeting foreign speakers/guests at the airport; escort of foreign speakers/guests to their hotel and immigration letters for foreign guests.
 
   You may reach them at randallsayat@gmail.com, grace.coroza@gmail.com, beatobongco@gmail.com.
 
-6. Program Committee Chairs - Sony Valdez and Rodolfo Duldulao
+6. **Program Committee Chairs** - Sony Valdez and Rodolfo Duldulao
 
   Sony, `Dulds <https://www.linkedin.com/in/rnduldulaojr>`_ and Stef are the people behind the `theme <http://pycon.python.ph/theme.html>`_ and our awesome program for PyConPH 2015. They are the ones who make sure that the quality talks and workshops we bring this PyCon will be a blast.
 
