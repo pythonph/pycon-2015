@@ -81,6 +81,7 @@ The following individuals volunteered at least eight hours of their time during 
 
 Logistics Committee
 ^^^^^^^^^^^^^^^^^^^
+
 - Jadurani Davalos
 - Caryssa Sobrepena
 - Alysson Alvaran
@@ -88,5 +89,5 @@ Logistics Committee
 - John Paul Llenaresas
 
 Stage-hand Committee
-^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 - First Val Babon

@@ -69,7 +69,7 @@ Talks
 
    Expected length: *30 minutes*
 
-   Talk level: *Intermediate*
+   Talk level: *Beginner*
 
 
 .. topic:: Python as a Backend
