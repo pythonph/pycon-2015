@@ -47,4 +47,4 @@ PyLadies Manila
 SugarPy
 ^^^^^^^
 
-A group of Python programming language enthusiasts in Dumaguete and Negros island area.
+`SugarPy <https://www.facebook.com/groups/223047944567461/>`_ is group of Python programming language enthusiasts in Dumaguete and Negros island area.
