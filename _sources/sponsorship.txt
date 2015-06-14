@@ -36,7 +36,27 @@ Sponsorship Packages
 | # of free pass - dinner with speakers, sponsors and volunteers on Day 1                            | 3         | 2        | 1        |
 +----------------------------------------------------------------------------------------------------+-----------+----------+----------+
 
-We're still looking for sponsors and partners!
+We've held PyCon twice here in the Philippines and here are the stats:
+
++-----------------+----------------+----------------+
+|                 | **PyCon 2012** | **PyCon 2014** |
++=================+================+================+
+| Students        | 36.36%         | 13.15%         |
++-----------------+----------------+----------------+
+| Professionals   | 48.64%         | 60.56%         |
++-----------------+----------------+----------------+
+| Sponsors        |                | 9.39%          |
++-----------------+----------------+----------------+
+| Speakers        | 3.64%          | 6.10%          |
++-----------------+----------------+----------------+
+| Volunteers      | 11.36%         | 10.80%         |
++-----------------+----------------+----------------+
+
+We had a turnout of roughly 240 attendees for both conferences. For 2015, we're aiming for 300pax.
+
+**We're still looking for sponsors and partners!**
+
+Deadline for sponsorship applications is on **June 19, 2015** so we can have time to have the conference banners and programme brochures printed.
 
 .. raw:: html
 
@@ -47,3 +67,4 @@ We're still looking for sponsors and partners!
       </button>
     </a>
   </p>
+
