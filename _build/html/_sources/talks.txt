@@ -1,3 +1,7 @@
+.. raw:: html
+
+   <div class="talks">
+
 Talks
 =====
 
@@ -195,21 +199,25 @@ Talks
 .. topic:: Developing a platform game in an hour using Python and Pygame
 
    by `Sony Valdez <speakers.html#sony-valdez>`_
-   
+
    Python can be used as a foundation for learning game development and game concepts. In this talk, we will prototype a platform game (similar to the Mario Bros. series) in under an hour. This will give the audience a basis for future game development.
-   
+
    Expected length: *1 hour*
-   
+
    Talk level: *Beginner and Intermediate*
 
 .. topic:: Django Workshop
 
    by `Jon Danao <speakers.html#jon-danao>`_
-   
+
    Django is a batteries-included Python web framework for creating dynamic web applications and APIs. It is free and open source, has extensive documentation and a large community. In this workshop you will learn how to setup your project, interact with the database and render front-end HTMLs.
-   
+
    Expected length: *3 hours*
-   
+
    Talk level: *Beginner and Intermediate*
-   
+
    You may bring a laptop for the workshop.
+
+.. raw:: html
+
+   </div>

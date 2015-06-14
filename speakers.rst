@@ -1,3 +1,7 @@
+.. raw:: html
+
+   <div class="speakers">
+
 Speakers
 ========
 
@@ -240,3 +244,7 @@ Sony Valdez
 ^^^^^^^^^^^
 
 Programmer. Gamer. Nerd. Mostly harmless.
+
+.. raw:: html
+
+   </div>
