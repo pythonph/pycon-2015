@@ -6,7 +6,7 @@ Past PyCons
 
 PyCon PH 2014 was held at De La Salle University on February 22-23. It was the
 second Philippines PyCon and the first PyCon hosted after the `incorporation of
-Python.PH.<https://twitter.com/pythonph/status/395056474658844672>`_ PyCon 2014 was a huge success with attendees from around the
+Python.PH <https://twitter.com/pythonph/status/395056474658844672>`_ PyCon 2014 was a huge success with attendees from around the
 Philippines, as well as foreign guests.
 
 During PyCon 2014, we paid respect to Malcolm Tredinnick, a PyCon 2012 speaker,
