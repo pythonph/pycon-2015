@@ -56,7 +56,7 @@ We had a turnout of roughly 240 attendees for both conferences. For 2015, we're 
 
 **We're still looking for sponsors and partners!**
 
-Deadline for sponsorship applications is on **June 19, 2015** so we can have time to have the conference banners and programme brochures printed.
+Hard deadline for sponsorship applications is on **June 19, 2015** so we can have time to have the conference banners and programme brochures printed.
 
 .. raw:: html
 
