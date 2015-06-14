@@ -47,7 +47,7 @@ PyLadies Manila
 ^^^^^^^^^^^^^^^
 `PyLadies Manila <https://twitter.com/pyladiesmanila>`_ is a group of women developers based in Manila who love the Python programming language.
 
-The group started back in November 2014 with less than 10 girls meeting for coffee. From then on, they started to organize events to advocate Women In Tech such as `Python For The Curious Code Lab <https://twitter.com/pyladiesmanila/status/581968138880700417>`_ and `Django Girls Manila <http://djangogirls.org/manila/>`_.
+The group started back in November 2014 with less than 10 girls meeting for coffee. From then on, they started to organize events to advocate Women In Tech such as `Python For The Curious Code Lab <https://twitter.com/pyladiesmanila/status/581968138880700417>`_ and `Django Girls Manila <http://djangogirls.org/manila/>`_. Some of their slides are up `here <http://slides.com/pyladiesmanila/>`_
 
 Anyone who is interested in Python is encouraged to participate!
 
