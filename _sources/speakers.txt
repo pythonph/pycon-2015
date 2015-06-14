@@ -245,6 +245,15 @@ Sony Valdez
 
 Programmer. Gamer. Nerd. Mostly harmless.
 
+.. image:: _static/images/speakers/dyu.jpg
+   :width: 150px
+   :align: left
+
+Daryl Yu
+^^^^^^^^
+
+Daryl runs a small Python shop called We the Bourgeoisie and the Cebu Python user group  `PizzaPy <http://www.meetup.com/PizzaPy-PH/>`_. He does not enjoy referring to himself in the third person, but understands it’s the de facto practice for speaker bios.
+
 .. raw:: html
 
    </div>
