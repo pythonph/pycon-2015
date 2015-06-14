@@ -1,14 +1,21 @@
 Python Philippines Community Panel
 ==================================
 
-The Phillipines has many Python community groups, distributed among different regions of the country. We have gathered representatives from `Python.PH <http://python.ph/>`_, PizzaPy, PyTsada, DurianPy, SugarPy, WaterPy, and PyLadies Manila on this panel. They will share their experiences in starting their groups, their events, their community, and tips on how to start a community group.
+The Phillipines has many Python community groups, distributed among different regions of the country. We have gathered representatives from Python.PH, PizzaPy, PyTsada, DurianPy, SugarPy, WaterPy, and PyLadies Manila on this panel. They will share their experiences in starting their groups, their events, their community, and tips on how to start a community group.
 
 Moderator: **Mark Steve Samson**
 
+Python.PH
+^^^^^^^^^
+`Python.PH <https://twitter.com/pythonph>`_ is a community in the Philippines for enthusiasts and users of the Python programming language. Our aim is to show that Python has something for everyone: from hobbyists, to educators, to professionals.
+
+The group started back in 2007 when `Jun Auza <http://www.junauza.com/>`_ of Tech Source blogged about forming a local Python User's Group. `JM Maranan <https://twitter.com/jmmaranan>`_ stumbled upon the post and created a Google group.
+
+In June 31-July 1 2012, we held the first ever PyCon Philippines. Today, we continue to organize the yearly PyCon and `monthly meet-ups <http://www.meetup.com/pythonph/>`_ for knowledge sharing and some pizza.
 
 PizzaPy
 ^^^^^^^
-`PizzaPy <http://www.meetup.com/PizzaPy-PH/>`_ started out as two fat bearded guys meeting up for pizza and beer to talk about Python and technology. They thought it was a good idea to invite other people and make companies pay for their pizza and beer.
+`PizzaPy <http://www.meetup.com/PizzaPy-PH/>`_ started out as two fat bearded `guys <https://twitter.com/dar9000>`_ meeting up for pizza and beer to talk about Python and technology. They thought it was a good idea to invite other people and make companies pay for their pizza and beer.
 
 .. image:: _static/images/community/waterpy.jpg
    :width: 200px
@@ -38,7 +45,11 @@ It is a focus group or subgroup of the CDO Information Technology Group or ITG-X
 
 PyLadies Manila
 ^^^^^^^^^^^^^^^
-`PyLadies Manila <https://twitter.com/pyladiesmanila>`_ is a group of women developers based in Manila who love the Python programming language. Anyone who is interested in Python is encouraged to participate!
+`PyLadies Manila <https://twitter.com/pyladiesmanila>`_ is a group of women developers based in Manila who love the Python programming language.
+
+The group started back in November 2014 with less than 10 girls meeting for coffee. From then on, they started to organize events to advocate Women In Tech such as `Python For The Curious Code Lab <https://twitter.com/pyladiesmanila/status/581968138880700417>`_ and `Django Girls Manila <http://djangogirls.org/manila/>`_.
+
+Anyone who is interested in Python is encouraged to participate!
 
 SugarPy
 ^^^^^^^
