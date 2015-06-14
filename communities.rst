@@ -8,7 +8,6 @@ Moderator: **Mark Steve Samson**
 
 PizzaPy
 ^^^^^^^
-
 `PizzaPy <http://www.meetup.com/PizzaPy-PH/>`_ started out as two fat bearded guys meeting up for pizza and beer to talk about Python and technology. They thought it was a good idea to invite other people and make companies pay for their pizza and beer. 
 
 .. image:: _static/images/community/waterpy.jpg
@@ -17,7 +16,6 @@ PizzaPy
 
 waterPy
 ^^^^^^^
-
 `WaterPy <https://www.facebook.com/waterpyph>`_ is a community of enthusiasts committed to promote Python, its associated technologies and practices in Region X. And to collaborate with existing Pythonistas in the region, throughout Philippines and the world. Learn and enjoy python together
 
 .. image:: _static/images/community/durianpy.png
@@ -26,7 +24,6 @@ waterPy
 
 DurianPy
 ^^^^^^^^
-
 `Davao's Python Community <https://twitter.com/durianpy>`_ -- where Pythonistas and enthusiasts gather to discuss trends and share knowledge about the IT industry over a pack of Durian candies (not always). Fresh talks and friendly conversations, guaranteed!
 
 PyTsada
@@ -40,11 +37,9 @@ PyTsada
    :align: right
 
 PyLadies Manila
-^^^^^^^^^^^^^^^
-
+^^^^^^^^^^^^^^
 `PyLadies Manila <https://twitter.com/pyladiesmanila>`_ is a group of women developers based in Manila who love the Python programming language. Anyone who is interested in Python is encouraged to participate! 
- 
+
 SugarPy
 ^^^^^^^
-
-`SugarPy <https://www.facebook.com/groups/223047944567461/>`_ is group of Python programming language enthusiasts in Dumaguete and Negros island area.
+`SugarPy <https://www.facebook.com/groups/223047944567461/>`_ is a group of Python programming language enthusiasts in Dumaguete and Negros island area.
