@@ -1,7 +1,7 @@
 Python Philippines Community Panel
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+==================================
 
-The Phillipines has many Python community groups, distributed among different regions of the country. We have gathered representatives from Python.PH, PizzaPy, PyTsada, DurianPy, SugarPy, WaterPy, and PyLadies on this panel. They will share their experiences in starting their groups, their events, their community, and tips on how to start a community group.
+The Phillipines has many Python community groups, distributed among different regions of the country. We have gathered representatives from `Python.PH <http://python.ph/>`_, PizzaPy, PyTsada, DurianPy, SugarPy, WaterPy, and PyLadies Manila on this panel. They will share their experiences in starting their groups, their events, their community, and tips on how to start a community group.
 
 Moderator: **Mark Steve Samson**
 
@@ -30,7 +30,7 @@ PyTsada
 ^^^^^^^
 `ITG-PyTsada <https://www.facebook.com/groups/itgpytsada/>`_ or simply "PyTsada" is a group for sharing Python and Python-related stuff, organizing meetups, events, promotion of Python in education, among others, here in Cagayan de Oro City and nearby areas.
 
-# It is a focus group or subgroup of the CDO Information Technology Group or ITG-X, which is a larger group of IT enthusiasts, hobbyists, hackers, and professionals in CDO.
+It is a focus group or subgroup of the CDO Information Technology Group or ITG-X, which is a larger group of IT enthusiasts, hobbyists, hackers, and professionals in CDO.
 
 .. image:: _static/images/community/pyladies.jpg
    :width: 200px
@@ -43,3 +43,5 @@ PyLadies Manila
 SugarPy
 ^^^^^^^
 `SugarPy <https://www.facebook.com/groups/223047944567461/>`_ is a group of Python programming language enthusiasts in Dumaguete and Negros island area.
+
+.. raw:: html
