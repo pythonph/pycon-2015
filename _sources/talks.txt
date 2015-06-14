@@ -218,6 +218,16 @@ Talks
 
    You may bring a laptop for the workshop.
 
+.. topic:: Debugging
+
+   by `Daryl Yu <speakers.html#daryl-yu>`_
+
+   Debugging often feels like a chore that only the uncool programmers do. It shouldn't be that way. This talk will look at some techniques and tools to make debugging easier and maybe even enjoyable.
+
+   Expected length: *30 minutes*
+
+   Talk level: *Beginner, Intermediate or Advanced*
+
 .. raw:: html
 
    </div>
