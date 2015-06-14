@@ -8,7 +8,7 @@ Moderator: **Mark Steve Samson**
 
 PizzaPy
 ^^^^^^^
-`PizzaPy <http://www.meetup.com/PizzaPy-PH/>`_ started out as two fat bearded guys meeting up for pizza and beer to talk about Python and technology. They thought it was a good idea to invite other people and make companies pay for their pizza and beer. 
+`PizzaPy <http://www.meetup.com/PizzaPy-PH/>`_ started out as two fat bearded guys meeting up for pizza and beer to talk about Python and technology. They thought it was a good idea to invite other people and make companies pay for their pizza and beer.
 
 .. image:: _static/images/community/waterpy.jpg
    :width: 200px
@@ -28,17 +28,17 @@ DurianPy
 
 PyTsada
 ^^^^^^^
-`ITG-PyTsada <https://www.facebook.com/groups/itgpytsada/>`_ or simply "PyTsada" is a group for sharing Python and Python-related stuff, organizing meetups, events, promotion of Python in education, among others, here in Cagayan de Oro City and nearby areas. 
+`ITG-PyTsada <https://www.facebook.com/groups/itgpytsada/>`_ or simply "PyTsada" is a group for sharing Python and Python-related stuff, organizing meetups, events, promotion of Python in education, among others, here in Cagayan de Oro City and nearby areas.
 
-# It is a focus group or subgroup of the CDO Information Technology Group or ITG-X, which is a larger group of IT enthusiasts, hobbyists, hackers, and professionals in CDO. 
+# It is a focus group or subgroup of the CDO Information Technology Group or ITG-X, which is a larger group of IT enthusiasts, hobbyists, hackers, and professionals in CDO.
 
 .. image:: _static/images/community/pyladies.jpg
    :width: 200px
    :align: right
 
 PyLadies Manila
-^^^^^^^^^^^^^^
-`PyLadies Manila <https://twitter.com/pyladiesmanila>`_ is a group of women developers based in Manila who love the Python programming language. Anyone who is interested in Python is encouraged to participate! 
+^^^^^^^^^^^^^^^
+`PyLadies Manila <https://twitter.com/pyladiesmanila>`_ is a group of women developers based in Manila who love the Python programming language. Anyone who is interested in Python is encouraged to participate!
 
 SugarPy
 ^^^^^^^

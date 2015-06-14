@@ -32,11 +32,10 @@ Speakers
 
 Fun Photos and Videos from PyCon 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-`Day 1 Photos <https://plus.google.com/photos/+MarkSteveSamson/albums/6004595439933920113>`_
 
-`Day 2 Photos <https://plus.google.com/photos/+MarkSteveSamson/albums/6004595970563723521>`_ 
-
-`Videos <http://pycon-2014.python.ph/pages/videos.html>`_ 
+ - `Day 1 Photos <https://plus.google.com/photos/+MarkSteveSamson/albums/6004595439933920113>`_
+ - `Day 2 Photos <https://plus.google.com/photos/+MarkSteveSamson/albums/6004595970563723521>`_
+ - `Videos <http://pycon-2014.python.ph/pages/videos.html>`_
 
 The original PyCon 2014 website can be found `here <http://pycon-2014.python.ph/>`_.
 

@@ -26,50 +26,41 @@ a.image-reference {
   border: 0;
 }
 
-#speakers h2 {
+div.speakers h2 {
   margin-bottom: 2em;
 }
 
-#speakers h3 {
+div.speakers h3 {
   padding-top: 0.5em;
   margin-top: 0;
 }
 
-#speakers a {
+div.speakers a {
   color: inherit;
 }
 
-#speakers img {
+div.speakers img {
   border: 1px solid;
   border-radius: 50%;
 }
 
-#speakers p {
+div.speakers p {
   margin-bottom: 5em;
 }
 
-#speakers h3, #speakers p {
+div.speakers h3,
+div.speakers p {
   margin-left: 200px;
 }
 
-#talks .topic-title {
+div.talks .topic-title {
   font-family: Raleway;
   font-size: 180%;
   margin-bottom: 0;
   font-weight: normal;
 }
 
-#talks .topic {
+div.talks .topic {
   padding: 1em 1em 0;
   margin: 0 0 1em 0;
-}
-
-div.twocol img {
-  float: left;
-  display: none;
-  border: 1px solid;
-}
-
-div.clearer {
-  clear: both;
 }
