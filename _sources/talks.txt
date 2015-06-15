@@ -226,7 +226,19 @@ Talks
 
    Expected length: *30 minutes*
 
-   Talk level: *Beginner, Intermediate or Advanced*
+   Talk level: *Beginner*
+
+.. topic:: Python as backbone for the data engineering
+
+   by `Abhishek Tiwari <speakers.html#abhishek-tiwari>`_
+
+   Data engineering is a new area in big data space with focus on building robust, scalable, fault-tolerant data pipelines to clean, transform, and aggregate both unstructured and structured data in order to provide real-time insights. Python has emerged as de-facto language to glue various components of data engineering. 
+   
+   This talks present how Python is used at Datalicious for both managing data infrastructure and data processing. We will then present how we deeply integrate with various cloud services to build data pipelines based on stream processing model so we can deliver real-time analytics. 
+
+   Expected length: *1 hour*
+
+   Talk level: *Intermediate*
 
 .. raw:: html
 
