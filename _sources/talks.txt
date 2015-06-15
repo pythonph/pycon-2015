@@ -226,7 +226,7 @@ Talks
 
    Expected length: *30 minutes*
 
-   Talk level: *Beginner*
+   Talk level: *Beginner and Intermediate*
 
 .. topic:: Python as backbone for the data engineering
 
