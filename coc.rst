@@ -62,3 +62,4 @@ License
 ^^^^^^^
 
 This Code of Conduct is based on the PyCon US 2015 CoC, https://us.pycon.org/2015/about/code-of-conduct, and is licensed under a `Creative Commons Attribution 3.0 Unported License <http://creativecommons.org/licenses/by/3.0/>`_.
+

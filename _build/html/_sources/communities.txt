@@ -55,4 +55,3 @@ SugarPy
 ^^^^^^^
 `SugarPy <https://www.facebook.com/groups/223047944567461/>`_ is a group of Python programming language enthusiasts in Dumaguete and Negros island area.
 
-.. raw:: html

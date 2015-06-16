@@ -114,7 +114,6 @@ html_theme_options = {
   'font_family': 'PT Serif',
   'head_font_family': 'Raleway',
   'description': (
-    '<strong>Work and Play with Python</strong><br>'
     "July 4-5, 2015<br>"
     "Ateneo de Manila University, Quezon City<br>"
   ),
