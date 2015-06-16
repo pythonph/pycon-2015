@@ -13,15 +13,6 @@ button {
   font-size: 1.2em;
 }
 
-.discount {
-  display: block;
-  background: #cfd;
-  color: #465;
-  font-weight: bold;
-  margin: -0.25em -0.7em;
-  padding: 0.25em 0.7em;
-}
-
 a.image-reference {
   border: 0;
 }
