@@ -127,19 +127,6 @@ Talks
    Talk level: *Intermediate*
 
 
-.. topic:: zc.buildout save the world
-
-   by `Maksym Shalenyi <speakers.html#maksym-shalenyi>`_
-
-   Environment setup for big projects and their maintenance in a long term perspective is a pretty complicated task. This talk will show how much easier it can be with using zc.buildout to set up, develop and maintain projects.
-
-   In few words, zc.buildout is a Pythonic, easy to configure and assemble, highly reproducible way for managing project environments with keeping all versions under control.
-
-   Expected length: *1 hour*
-
-   Talk level: *Intermediate*
-
-
 .. topic:: Learning by Experience, Deploying pyxbackup
 
    by `Jervin Real <speakers.html#jervin-real>`_
