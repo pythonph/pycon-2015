@@ -190,16 +190,6 @@ programming language in the world.
    :width: 150px
    :align: left
 
-Maksym Shalenyi
-^^^^^^^^^^^^^^^
-
-Master's degree in Computer Engineering, Python web developer since 2011, cannot picture myself
-using some other language than Python, big fan of Pyramid framework.
-
-.. image:: _static/images/speakers/rk.png
-   :width: 150px
-   :align: left
-
 Romer Kristi D. Aranas
 ^^^^^^^^^^^^^^^^^^^^^^
 
