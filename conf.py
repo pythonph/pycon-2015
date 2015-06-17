@@ -115,6 +115,7 @@ html_theme_options = {
   'head_font_family': 'Raleway',
   'description': (
     "July 4-5, 2015<br>"
+    "Leong Hall Auditorium<br>"
     "Ateneo de Manila University, Quezon City<br>"
   ),
   'github_user': 'pythonph',
