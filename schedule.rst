@@ -2,91 +2,200 @@
 
    <div class="schedule">
 
+   Day 1 - July 4, 2015
+   <table class="docutils">
+        <colgroup>
+            <col width="16%" />
+            <col width="54%" />
+            <col width="30%" />
+        </colgroup>
+        
+        <tr>
+            <th> Time </th>
+            <th> Talk </th>
+            <th> Speaker </th>
+        </tr>
+        <tr>
+            <td>07:00 - 08:30</td>
+            <td>On-site late registration</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>08:00 - 08:30</td>
+            <td>Snacks?</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>08:30 - 08:35</td>
+            <td>National Anthem</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>08:35 - 08:40</td>
+            <td>Welcome Remarks</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>08:40 - 09:00</td>
+            <td>Message from the President</td>
+            <td>Python.PH President</td>
+        </tr>
+        <tr>
+            <td>09:00 - 10:00</td>
+            <td>Keynote: Mezzanine</td>
+            <td>Stephen McDonald</td>
+        </tr>
+        <tr>
+            <td>10:00 - 10:30</td>
+            <td>Snacks</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:30 - 11:00</td>
+            <td>The root of all evil</td>
+            <td>Andrew Paulo Robillo</td>
+        </tr>
+        <tr>
+            <td>11:00 - 11:30</td>
+            <td>The use of useless things</td>
+            <td>Chad Estioco</td>
+        </tr>
+        <tr>
+            <td>11:30 - 12:15</td>
+            <td>Community Panel</td>
+            <td>PizzaPy, PyTsada, DurianPy, SugarPy, WaterPy, PyLadies, and Python.PH</td>
+        </tr>
+        <tr>
+            <td>12:15 - 01:00</td>
+            <td>Lunch</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>01:00 - 02:00</td>
+            <td>Developing a platform game in an hour</td>
+            <td>Sony Valdez</td>
+        </tr>
+        <tr>
+            <td>02:00 - 02:30</td>
+            <td>Debugging</td>
+            <td>Daryl Yu</td>
+        </tr>
+        <tr>
+            <td>02:30 - 03:00</td>
+            <td>Software Testing</td>
+            <td>Ray Anthony Dino</td>
+        </tr>
+        <tr>
+            <td>03:00 - 03:30</td>
+            <td>Snacks</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>03:30 - 04:00</td>
+            <td>Developing Web Services Rapidly: <br>Ferris Framework on Google App Engine</td>
+            <td>Andrea Levinge</td>
+        </tr>
+        <tr>
+            <td>04:00 - 04:30</td>
+            <td>Jasper Project on the Raspberry Pi</td>
+            <td>Elymar</td>
+        </tr>
+        <tr>
+            <td>04:30 - 05:00</td>
+            <td>PyCon Meta</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>05:00 - 06:00</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>06:00</td>
+            <td>Announcements for Day 2</td>
+            <td></td>
+        </tr>
+   </table>
 
-Day 1 - July 4, 2015
+   Day 2 - July 5, 2015
 
-+----------------+----------------------------------------------------+-----------------------------+
-| Time           | Talk                                               | Speaker                     |
-+----------------+----------------------------------------------------+-----------------------------+
-| 07:00 - 08:30  | On-site late registration                          |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 08:00 - 08:30  | Snacks?                                            |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 08:30 - 08:35  | National Anthem                                    |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 08:35 - 08:40  | Welcome Remarks                                    | Python.PH President         |
-+----------------+----------------------------------------------------+-----------------------------+
-| 08:40 - 09:00  | Message from the President                         |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 09:00 - 10:00  | Keynote: Mezzanine                                 | Stephen McDonald            |
-+----------------+----------------------------------------------------+-----------------------------+
-| 10:00 - 10:30  | Snacks                                             |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 10:30 - 11:00  | The root of all evil                               | Andrew Paulo Robillo        |
-+----------------+----------------------------------------------------+-----------------------------+
-| 11:00 - 11:30  | The use of useless things                          | Chad Estioco                |
-+----------------+----------------------------------------------------+-----------------------------+
-| 11:30 - 12:15  | Community Panel                                    | PizzaPy, PyTsada, DurianPy, |
-|                |                                                    | SugarPy, WaterPy, PyLadies, |
-|                |                                                    | and Python.PH               |
-+----------------+----------------------------------------------------+-----------------------------+
-| 12:15 - 01:00  | Lunch                                              |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 01:00 - 02:00  | Developing a platform game in an hour              | Sony Valdez                 |
-+----------------+----------------------------------------------------+-----------------------------+
-| 02:00 - 02:30  | Debugging                                          | Daryl Yu                    |
-+----------------+----------------------------------------------------+-----------------------------+
-| 02:30 - 03:00  | Software Testing                                   | Ray Anthony Dino            |
-+----------------+----------------------------------------------------+-----------------------------+
-| 03:00 - 03:30  | Snacks                                             |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 03:30 - 04:00  | Developing Web Services Rapidly:                   | Andrea Levinge              |
-|                | Ferris Framework on Google App Engine              |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 04:00 - 04:30  | Jasper Project on the Raspberry Pi                 | Elymar                      |
-+----------------+----------------------------------------------------+-----------------------------+
-| 04:30 - 05:00  | PyCon Meta                                         |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 05:00 - 06:00  |                                                    |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 06:00          | Announcements for Day 2                            |                             |
-+----------------+----------------------------------------------------+-----------------------------+
+   <table class="docutils">
+        <colgroup>
+            <col width="16%" />
+            <col width="54%" />
+            <col width="30%" />
+        </colgroup>
+        
+        <tr>
+            <th> Time </th>
+            <th> Talk </th>
+            <th> Speaker </th>
+        </tr>
 
-
-
-Day 2 - July 5, 2015
-
-+----------------+----------------------------------------------------+-----------------------------+
-| Time           | Talk                                               | Speaker                     |
-+----------------+----------------------------------------------------+-----------------------------+
-| 08:00 - 08:25  | Registration for lightning talk                    |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 08:25 - 08:30  | National Anthem                                    |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 08:30 - 09:00  | Keynote: Experience as a Django core contributor   | Loïc Bistuer                |
-|                | and the problems and benefits of volunteering      |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 09:00 - 10:00  | Lightning talk from the audience                   |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 10:00 - 10:30  | Snacks                                             |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 10:30 - 11:30  | Python at the backbone of real-time Data Analytics | Abhishek Tiwari             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 11:30 - 12:00  |                                                    |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 12:00 - 12:15  | Group Picture                                      | **EVERYBODY**               |
-+----------------+----------------------------------------------------+-----------------------------+
-| 12:15 - 01:00  | Lunch                                              |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 01:00 - 05:00  | Breakout sessions                                  |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 05:00 - 05:30  | Giveaways                                          |                             |
-+----------------+----------------------------------------------------+-----------------------------+
-| 05:30 - 06:00  | Closing Remarks                                    |                             |
-+----------------+----------------------------------------------------+-----------------------------+
+        <tr>
+            <td>08:00 - 08:25</td>
+            <td>Registration for lightning talk</td>
+            <td></td>
+        </tr>        
+        <tr>
+            <td>08:25 - 08:30</td>
+            <td>National Anthem</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>08:30 - 09:00</td>
+            <td>Keynote: Experience as a Django core contributor and the problems and benefits of volunteering</td>
+            <td>Loïc Bistuer</td>
+        </tr>                
+        <tr>
+            <td>09:00 - 10:00</td>
+            <td>Lightning talks from the audience</td>
+            <td></td>
+        </tr>        
+        <tr>
+            <td>10:00 - 10:30</td>
+            <td>Snacks</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10:30 - 11:30</td>
+            <td>Python at the backbone of real-time Data Analytics</td>
+            <td>Abhishek Tiwari</td>
+        </tr>                
+        <tr>
+            <td>11:30 - 12:00</td>
+            <td></td>
+            <td></td>
+        </tr>        
+        <tr>
+            <td>12:00 - 12:15</td>
+            <td>Group Picture</td>
+            <td><b>Everybody</b></td>
+        </tr>
+        <tr>
+            <td>12:15 - 01:00</td>
+            <td>Lunch</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>01:00 - 05:00</td>
+            <td>Breakout sessions</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>05:00 - 05:30</td>
+            <td>Giveaways</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>05:30 - 06:00</td>
+            <td>Closing Remarks</td>
+            <td></td>
+        </tr>
+    </table>
 
 
-Break-out session
+Break-out sessions
 
 Classroom 1
 Laptops are recommended

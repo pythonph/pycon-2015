@@ -58,4 +58,5 @@ div.talks .topic {
 
 div.schedule table {
   width: 800px;
+  border: 1px solid;
 }
