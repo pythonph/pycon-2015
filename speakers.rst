@@ -251,8 +251,17 @@ Daryl runs a small Python shop called We the Bourgeoisie and the Cebu Python use
 Abhishek Tiwari
 ^^^^^^^^^^^^^^^
 
-Abhishek Tiwari is Head of Data/Technology at Datalicious - a global big data analytics agency headquartered in Sydney with development center in Manila. Abhishek is passionate about blending Python with Cloud and Big Data.
+Abhishek Tiwari is Head of Data/Technology at `Datalicious <http://www.datalicious.com/>`_ - a global big data analytics agency headquartered in Sydney with development center in Manila. Abhishek is passionate about blending Python with Cloud and Big Data.
 
+.. image:: _static/images/speakers/ray.jpg
+   :width: 150px
+   :align: left
+
+Ray Diño
+^^^^^^^^
+
+A Python and Django developer for 3 years. Currently exploring the world of data.
+    
 .. raw:: html
 
    </div>
