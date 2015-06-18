@@ -115,6 +115,23 @@ ZipMatch
 
 Founded in 2013, ZipMatch is the country’s most innovative home buying marketplace aimed at educating and empowering the Filipino home buyer and renter. Some of the website’s features include home matching through its comprehensive residential project pages, wherein home buyers can explore 360 degree views of the property, search door to door with it’s nearby projects map, and read property reviews. More than just a listing site, ZipMatch wants to promote smart home ownership in the Philippines.
 
+IntroMe
+
+.. image:: _static/images/sponsors/introme.png
+  :target: http://www.introme.com
+
+IntroMe is a social networking service that enables you to connect via geolocation with other identity-validated users with similar interests.  The app makes meeting new people outside your network easier than ever.  IntroMe makes intros based on shared interests by using geolocation and our unique TrustGuard score, which you can quickly evaluate how close the intro is to you and how trustworthy they are. Want to take the intro offline? Simply click “Meet Now” and start a conversation. By delivering safe, interest-based intros to your fingertips, IntroMe takes the guess work out of meeting new people.
+
+
+Freelancer.com
+
+.. image:: _static/images/sponsors/freelancer.png
+  :target: https://www.freelancer.com/
+
+Freelancer.com is the world's largest freelancing, outsourcing and crowdsourcing marketplace by number of users and projects. We connect over 15,789,700 employers and freelancers globally from over 247 countries, regions and territories. Through our marketplace, employers can hire freelancers to do work in areas such as software development, writing, data entry and design right through to engineering, the sciences, sales and marketing, accounting and legal services.
+
+Freelancer Limited is trading on the Australian Securities Exchange under the ticker ASX:FLN
+
 
 Marketing Partners
 ^^^^^^^^^^^^^^^^^^
