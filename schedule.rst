@@ -43,7 +43,7 @@
         <tr>
             <td>09:00 - 10:00</td>
             <td>Keynote: Mezzanine</td>
-            <td>Stephen McDonald</td>
+            <td><a class="reference internal" href="speakers.html#stephen-mcdonald">Stephen McDonald</a></td>
         </tr>
         <tr>
             <td>10:00 - 10:30</td>
@@ -53,17 +53,17 @@
         <tr>
             <td>10:30 - 11:00</td>
             <td>The root of all evil</td>
-            <td>Andrew Paulo Robillo</td>
+            <td><a class="reference internal" href="speakers.html#andrew-paulo-robillo">Andrew Paulo Robillo</td>
         </tr>
         <tr>
             <td>11:00 - 11:30</td>
             <td>The use of useless things</td>
-            <td>Chad Estioco</td>
+            <td><a class="reference internal" href="speakers.html#chad-estioco">Chad Estioco</td>
         </tr>
         <tr>
             <td>11:30 - 12:15</td>
-            <td>Community Panel</td>
-            <td>PizzaPy, PyTsada, DurianPy, SugarPy, WaterPy, PyLadies, and Python.PH</td>
+            <td><a class="reference internal" href="communities.html">Community Panel</a></td>
+            <td><a class="reference internal" href="communities.html">PizzaPy, PyTsada, DurianPy, SugarPy, WaterPy, PyLadies, and Python.PH</a></td>
         </tr>
         <tr>
             <td>12:15 - 01:00</td>
@@ -73,17 +73,17 @@
         <tr>
             <td>01:00 - 02:00</td>
             <td>Developing a platform game in an hour</td>
-            <td>Sony Valdez</td>
+            <td><a class="reference internal" href="speakers.html#sony-valdez">Sony Valdez</a></td>
         </tr>
         <tr>
             <td>02:00 - 02:30</td>
             <td>Debugging</td>
-            <td>Daryl Yu</td>
+            <td><a class="reference internal" href="speakers.html#daryl-yu">Daryl Yu</td>
         </tr>
         <tr>
             <td>02:30 - 03:00</td>
             <td>Software Testing</td>
-            <td>Ray Anthony Dino</td>
+            <td><a class="reference internal" href="speakers.html#ray-anthony-dino">Ray Anthony Dino</td>
         </tr>
         <tr>
             <td>03:00 - 03:30</td>
@@ -93,12 +93,12 @@
         <tr>
             <td>03:30 - 04:00</td>
             <td>Developing Web Services Rapidly: <br>Ferris Framework on Google App Engine</td>
-            <td>Andrea Levinge</td>
+            <td><a class="reference internal" href="speakers.html#andrea-levinge">Andrea Levinge</td>
         </tr>
         <tr>
             <td>04:00 - 04:30</td>
             <td>Jasper Project on the Raspberry Pi</td>
-            <td>Elymar</td>
+            <td><a class="reference internal" href="speakers.html#elymar-apao">Elymar Apao</td>
         </tr>
         <tr>
             <td>04:30 - 05:00</td>
@@ -145,7 +145,7 @@
         <tr>
             <td>08:30 - 09:00</td>
             <td>Keynote: Experience as a Django core contributor and the problems and benefits of volunteering</td>
-            <td>Loïc Bistuer</td>
+            <td><a class="reference internal" href="speakers.html#loic-bistuer">Loïc Bistuer</td>
         </tr>                
         <tr>
             <td>09:00 - 10:00</td>
@@ -160,7 +160,7 @@
         <tr>
             <td>10:30 - 11:30</td>
             <td>Python at the backbone of real-time Data Analytics</td>
-            <td>Abhishek Tiwari</td>
+            <td><a class="reference internal" href="speakers.html#abhishek-tiwari">Abhishek Tiwari</td>
         </tr>                
         <tr>
             <td>11:30 - 12:00</td>
@@ -200,13 +200,13 @@ Break-out sessions
 Classroom 1
 Laptops are recommended
 
-+---------------------------------------------------------+-----------------------------------------+
-| Plone: What other CMS wants to be when they grow up     |   Holden Hao                            |
-+---------------------------------------------------------+-----------------------------------------+
-| DRR (Docker-Django-React)                               |   Mark Steve Samson                     |
-+---------------------------------------------------------+-----------------------------------------+
-| Python as a Backend                                     |   Rex Mupas (+ 2 speakers)              |
-+---------------------------------------------------------+-----------------------------------------+
++---------------------------------------------------------+-----------------------------------------------+
+| Plone: What other CMS wants to be when they grow up     |   Holden Hao                                  |
++---------------------------------------------------------+-----------------------------------------------+
+| DRR (Docker-Django-React)                               |   Mark Steve Samson                           |
++---------------------------------------------------------+-----------------------------------------------+
+| Python as a Backend                                     |   Rex Mupas, Dhon Rocafort, John Paul Mendoza |
++---------------------------------------------------------+-----------------------------------------------+
 
 
 Classroom 2
