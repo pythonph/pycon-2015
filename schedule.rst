@@ -22,7 +22,7 @@
         </tr>
         <tr>
             <td>08:00 - 08:30</td>
-            <td>Snacks?</td>
+            <td>Early Snacks?</td>
             <td></td>
         </tr>
         <tr>
@@ -194,48 +194,87 @@
         </tr>
     </table>
 
+   <h3>Break-out sessions</h3>
+   
+   <table class="docutils">
+        <colgroup>
+            <col width="58%" />
+            <col width="42%" />
+        </colgroup>
+        <tr>
+            <th>Classroom 1 (Laptops are recommended)</th>
+        </tr>
+        <tr>
+            <td>Plone: What other CMS wants to be when they grow up</td>
+            <td><a class="reference internal" href="speakers.html#holden-hao">Holden Hao</a></td>
+        </tr>
+        <tr>
+            <td>DRR (Docker-Django-React)</td>
+            <td><a class="reference internal" href="speakers.html#mark-steve-samson">Mark Steve Samson</a></td>
+        </tr>
+        <tr>
+            <td>Python as a Backend</td>
+            <td><a class="reference internal" href="speakers.html#rex-mupas">Rex Mupas</a>, <a class="reference internal" href="speakers.html#dhon-rocafort">Dhon Rocafort</a> and<br> <a class="reference internal" href="speakers.html#john-paul-mendoza">John Paul Mendoza</a></td>
+        </tr>
+    </table>
 
-Break-out sessions
+    <table class="docutils">
+        <colgroup>
+            <col width="58%" />
+            <col width="42%" />
+        </colgroup>
+        <tr>
+            <th>Classroom 2</th>
+        </tr>
+        <tr>
+            <td>MySQL Fabric: Python and MySQL are meant to be</td>
+            <td><a class="reference internal" href="speakers.html#ronen-baram">Ronen Baram</a></td>
+        </tr>
+        <tr>
+            <td>Using Scrapy at work and sideprojects</td>
+            <td><a class="reference internal" href="speakers.html#juan-paolo-balbin">Juan Paolo Balbin</a> and<br> <a class="reference internal" href="speakers.html#conrad-miguel-gozalo">Conrad Miguel Gozalo</a></td>
+        </tr>
+        <tr>
+            <td>Spatial data analysis with Python</td>
+            <td><a class="reference internal" href="speakers.html#romer-kristi-d-aranas">Romer Kristi D. Aranas</a></td>
+        </tr>
+    </table>
 
-Classroom 1
-Laptops are recommended
+    <table class="docutils">
+        <colgroup>
+            <col width="58%" />
+            <col width="42%" />
+        </colgroup>
+        <tr>
+            <th>Classroom 3</th>
+        </tr>
+        <tr>
+            <td>Data Center Automation using Python</td>
+            <td><a class="reference internal" href="speakers.html#dean-armada">Dean Armada</a></td>
+        </tr>
+        <tr>
+            <td>Learning by Experience, Devploying pyxbackup</td>
+            <td><a class="reference internal" href="speakers.html#jervin-real">Jervin Real</a></td>
+        </tr>
+        <tr>
+            <td>Build great single page apps</td>
+            <td><a class="reference internal" href="speakers.html#mary-grace-coroza">Mary Grace Coroza</a></td>
+        </tr>
+    </table>
 
-+---------------------------------------------------------+-----------------------------------------------+
-| Plone: What other CMS wants to be when they grow up     |   Holden Hao                                  |
-+---------------------------------------------------------+-----------------------------------------------+
-| DRR (Docker-Django-React)                               |   Mark Steve Samson                           |
-+---------------------------------------------------------+-----------------------------------------------+
-| Python as a Backend                                     |   Rex Mupas, Dhon Rocafort, John Paul Mendoza |
-+---------------------------------------------------------+-----------------------------------------------+
+    <table class="docutils">
+        <colgroup>
+            <col width="58%" />
+            <col width="42%" />
+        </colgroup>
+        <tr>
+            <th>Classroom 4 (Laptops are recommended)</th>
+        </tr>
 
+        <tr>
+            <td>Django Workshop</td>
+            <td><a class="reference internal" href="speakers.html#jon-danao">Jon Danao</a></td>
+        </tr>
+    </table>
 
-Classroom 2
-
-+---------------------------------------------------------+-----------------------------------------+
-| MySQL Fabric: Python and MySQL are meant to be          |  Ronen Baram                            |
-+---------------------------------------------------------+-----------------------------------------+
-| Using Scrapy at work and sideprojects                   |  Juan Paolo Balbin & Mikko Gozalo       |
-+---------------------------------------------------------+-----------------------------------------+
-| Spatial data analysis with Python                       |  Romer Kristi D. Aranas                 |
-+---------------------------------------------------------+-----------------------------------------+
-
-Classroom 3
-
-+---------------------------------------------------------+-----------------------------------------+
-| Data Center Automation using Python                     |  Dean Armada                            |
-+---------------------------------------------------------+-----------------------------------------+
-| Learning by Experience, Devploying pyxbackup            |  Jervin Real                            |
-+---------------------------------------------------------+-----------------------------------------+
-| Build great single page apps                            |  Mary Grace Coroza                      |
-+---------------------------------------------------------+-----------------------------------------+
-
-Classroom 4
-Laptops are recommended
-
-+---------------------------------------------------------+-----------------------------------------+
-| Django Workshop                                         |  Jon Danao                              |
-+---------------------------------------------------------+-----------------------------------------+
-
-.. raw:: html
-
-   </div>
+    </div>
