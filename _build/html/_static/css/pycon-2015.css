@@ -55,3 +55,8 @@ div.talks .topic {
   padding: 1em 1em 0;
   margin: 0 0 1em 0;
 }
+
+div.schedule table {
+  width: 800px;
+  border: 1px solid;
+}
