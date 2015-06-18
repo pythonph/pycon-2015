@@ -1,14 +1,25 @@
+Schedule
+========
+
 .. raw:: html
 
    <div class="schedule">
 
-   Day 1 - July 4, 2015
+   <table class="docutils">
+        <tr>
+            <th width=100%>
+                <center>Day 1 - July 4, 2015</center>
+            </th>
+        </tr>
+   </table>
+        
    <table class="docutils">
         <colgroup>
             <col width="16%" />
             <col width="54%" />
             <col width="30%" />
         </colgroup>
+
         
         <tr>
             <th> Time </th>
@@ -53,12 +64,12 @@
         <tr>
             <td>10:30 - 11:00</td>
             <td>The root of all evil</td>
-            <td><a class="reference internal" href="speakers.html#andrew-paulo-robillo">Andrew Paulo Robillo</td>
+            <td><a class="reference internal" href="speakers.html#andrew-paulo-robillo">Andrew Paulo Robillo</a></td>
         </tr>
         <tr>
             <td>11:00 - 11:30</td>
             <td>The use of useless things</td>
-            <td><a class="reference internal" href="speakers.html#chad-estioco">Chad Estioco</td>
+            <td><a class="reference internal" href="speakers.html#chad-estioco">Chad Estioco</a></td>
         </tr>
         <tr>
             <td>11:30 - 12:15</td>
@@ -78,12 +89,12 @@
         <tr>
             <td>02:00 - 02:30</td>
             <td>Debugging</td>
-            <td><a class="reference internal" href="speakers.html#daryl-yu">Daryl Yu</td>
+            <td><a class="reference internal" href="speakers.html#daryl-yu">Daryl Yu</a></td>
         </tr>
         <tr>
             <td>02:30 - 03:00</td>
             <td>Software Testing</td>
-            <td><a class="reference internal" href="speakers.html#ray-anthony-dino">Ray Anthony Dino</td>
+            <td><a class="reference internal" href="speakers.html#ray-anthony-dino">Ray Anthony Dino</a></td>
         </tr>
         <tr>
             <td>03:00 - 03:30</td>
@@ -93,12 +104,12 @@
         <tr>
             <td>03:30 - 04:00</td>
             <td>Developing Web Services Rapidly: <br>Ferris Framework on Google App Engine</td>
-            <td><a class="reference internal" href="speakers.html#andrea-levinge">Andrea Levinge</td>
+            <td><a class="reference internal" href="speakers.html#andrea-levinge">Andrea Levinge</a></td>
         </tr>
         <tr>
             <td>04:00 - 04:30</td>
             <td>Jasper Project on the Raspberry Pi</td>
-            <td><a class="reference internal" href="speakers.html#elymar-apao">Elymar Apao</td>
+            <td><a class="reference internal" href="speakers.html#elymar-apao">Elymar Apao</a></td>
         </tr>
         <tr>
             <td>04:30 - 05:00</td>
@@ -116,8 +127,16 @@
             <td></td>
         </tr>
    </table>
-
-   Day 2 - July 5, 2015
+   
+   <br>
+   
+   <table class="docutils">
+        <tr>
+            <th width=100%>
+                <center>Day 2 - July 5, 2015</center>
+            </th>
+        </tr>
+   </table>
 
    <table class="docutils">
         <colgroup>
@@ -145,7 +164,7 @@
         <tr>
             <td>08:30 - 09:00</td>
             <td>Keynote: Experience as a Django core contributor and the problems and benefits of volunteering</td>
-            <td><a class="reference internal" href="speakers.html#loic-bistuer">Loïc Bistuer</td>
+            <td><a class="reference internal" href="speakers.html#loic-bistuer">Loïc Bistuer</a></td>
         </tr>                
         <tr>
             <td>09:00 - 10:00</td>
@@ -160,7 +179,7 @@
         <tr>
             <td>10:30 - 11:30</td>
             <td>Python at the backbone of real-time Data Analytics</td>
-            <td><a class="reference internal" href="speakers.html#abhishek-tiwari">Abhishek Tiwari</td>
+            <td><a class="reference internal" href="speakers.html#abhishek-tiwari">Abhishek Tiwari</a></td>
         </tr>                
         <tr>
             <td>11:30 - 12:00</td>
@@ -192,9 +211,17 @@
             <td>Closing Remarks</td>
             <td></td>
         </tr>
-    </table>
+   </table>
 
-   <h3>Break-out sessions</h3>
+   <br>
+    
+   <table class="docutils">
+        <tr>
+            <th width=100%>
+                <center>Break-out sessions</center>
+            </th>
+        </tr>
+   </table>
    
    <table class="docutils">
         <colgroup>
