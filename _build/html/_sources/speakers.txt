@@ -195,7 +195,7 @@ Romer Kristi Aranas
 
 RK is a geomatics engineer who loves code, comics, and cartography. He currently
 works for PHL-Microsat, the country’s microsatellite program. He organizes
-Maptime Diliman, a meetup group for mappers, in his spare time.
+`Maptime Diliman <http://www.meetup.com/MaptimeDiliman/>`_, a meetup group for mappers, in his spare time.
 
 .. image:: _static/images/speakers/andrew.png
    :width: 150px
