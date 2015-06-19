@@ -130,6 +130,15 @@ Freelancer.com
 
 Freelancer.com is the world's largest freelancing, outsourcing and crowdsourcing marketplace by number of users and projects. We connect over 15,789,700 employers and freelancers globally from over 247 countries, regions and territories. Through our marketplace, employers can hire freelancers to do work in areas such as software development, writing, data entry and design right through to engineering, the sciences, sales and marketing, accounting and legal services.
 
+Chikka
+
+.. image:: _static/images/sponsors/chikka.png
+  :target: http://www.chikka.com/
+
+Ever since launching the iconic Chikka Text Messenger in 2000, the pioneering applications developer has evolved into an incubator for new technologies and innovation, producing telco-grade platforms and real value-added services for the new digital and mobile generation. 
+The company’s mission, first stated in 2000, is “to bring together communities, heretofore separated by geographical barriers and differences in technology.”
+Chikka is a wholly-owned subsidiary of Voyager Innovations. 
+
 
 Marketing Partners
 ^^^^^^^^^^^^^^^^^^

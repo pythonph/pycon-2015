@@ -186,12 +186,12 @@ Chad Estioco
 Chad loves kicking random things and making random things with the best
 programming language in the world.
 
-.. image:: _static/images/speakers/maksym.jpg
+.. image:: _static/images/speakers/rk.png
    :width: 150px
    :align: left
 
-Romer Kristi D. Aranas
-^^^^^^^^^^^^^^^^^^^^^^
+Romer Kristi Aranas
+^^^^^^^^^^^^^^^^^^^
 
 RK is a geomatics engineer who loves code, comics, and cartography. He currently
 works for PHL-Microsat, the country’s microsatellite program. He organizes
