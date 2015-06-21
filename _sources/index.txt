@@ -137,8 +137,14 @@ Chikka
 
 Ever since launching the iconic Chikka Text Messenger in 2000, the pioneering applications developer has evolved into an incubator for new technologies and innovation, producing telco-grade platforms and real value-added services for the new digital and mobile generation. 
 The company’s mission, first stated in 2000, is “to bring together communities, heretofore separated by geographical barriers and differences in technology.”
-Chikka is a wholly-owned subsidiary of Voyager Innovations. 
+Chikka is a wholly-owned subsidiary of Voyager Innovations.
 
+Titanium Technologies
+
+.. image:: _static/images/sponsors/titanium.png
+  :target: http://www.titanium.ph/
+
+Titanium Technologies is a Philippine software company founded in 1991 by Jerry Tieng, Kelvin Te, and Roger Te Un Son - engineers whose formative years were spent growing up in the early days of the PC revolution. Best of friends, the three founded the company right out of engineering school and focused on serving the IT requirements of small- and medium-sized companies.
 
 Marketing Partners
 ^^^^^^^^^^^^^^^^^^
