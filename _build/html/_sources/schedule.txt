@@ -53,7 +53,7 @@ Schedule
         </tr>
         <tr>
             <td>09:00 - 10:00</td>
-            <td>Keynote: Mezzanine</td>
+            <td>Keynote: Open Source Roller Coasters</td>
             <td><a class="reference internal" href="speakers.html#stephen-mcdonald">Stephen McDonald</a></td>
         </tr>
         <tr>

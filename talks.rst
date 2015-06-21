@@ -5,7 +5,7 @@
 Talks
 =====
 
-.. topic:: Keynote: Mezzanine
+.. topic:: Keynote: Open Source Roller Coasters
 
    by `Stephen McDonald <stephen-mcdonald>`_
 
