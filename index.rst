@@ -128,7 +128,7 @@ Freelancer.com
 .. image:: _static/images/sponsors/freelancer.png
   :target: https://www.freelancer.com/
 
-Freelancer.com is the world's largest freelancing, outsourcing and crowdsourcing marketplace by number of users and projects. We connect over 15,789,700 employers and freelancers globally from over 247 countries, regions and territories. Through our marketplace, employers can hire freelancers to do work in areas such as software development, writing, data entry and design right through to engineering, the sciences, sales and marketing, accounting and legal services.
+Freelancer.com is the world’s largest freelancing and crowdsourcing marketplace by number of users and projects. We connect over 15,789,700 employers and freelancers globally from over 247 countries, regions and territories. Through our marketplace, employers can hire freelancers to do work in areas such as software development, writing, data entry and design right through to engineering, the sciences, sales and marketing, accounting and legal services.
 
 Chikka
 
@@ -169,15 +169,11 @@ WhenInManila.com
 
 WhenInManila.com is the top online magazine in Manila and the Philippines.
 
+Activshow.com
 
-We're still looking for sponsors and partners!
+.. image:: _static/images/sponsors/activshow.jpg
+  :target: http://www.activshow.com
+
+Your portal for unlimited events.
 
 .. raw:: html
-
-  <p>
-    <a href="http://link.python.ph/1CROI0F">
-      <button class="big-button">
-        Become a sponsor
-      </button>
-    </a>
-  </p>

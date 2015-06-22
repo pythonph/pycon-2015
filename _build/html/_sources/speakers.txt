@@ -8,7 +8,7 @@ Speakers
 Keynote Speakers
 ----------------
 
-.. image:: _static/images/speakers/stephen_mcdonald.jpg
+.. image:: _static/images/speakers/stephen2.jpeg
    :width: 150px
    :align: left
 

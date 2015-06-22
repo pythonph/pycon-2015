@@ -54,16 +54,16 @@ We've held PyCon twice here in the Philippines and here are the stats:
 
 We had a turnout of roughly 240 attendees for both conferences. For 2015, we're aiming for 300pax.
 
-**We're still looking for sponsors and partners!**
+**Sponsorship is now closed.**
 
-Hard deadline for sponsorship applications is on **June 19, 2015** so we can have time to have the conference banners and programme brochures printed.
+Hard deadline for sponsorship applications is on **June 19, 2015** to give us enough time to have the conference banners and programme brochures printed.
 
 .. raw:: html
 
   <p>
     <a href="http://link.python.ph/1CROI0F">
       <button class="big-button">
-        Become a sponsor
+        Become a sponsor next year
       </button>
     </a>
   </p>
