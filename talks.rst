@@ -237,6 +237,16 @@ Talks
 
    Talk level: *Beginner*
 
+.. topic:: Python in Doppler Radar Processing
+
+   by `Irene Crisologo <speakers.html#irene-crisologo>`_
+
+   Processing raw data, visualizing rainfall through rainfall maps, and analyzing rainfall patterns in the Philippines using the PAGASA doppler radars have been possible through the use of an open-source Python based radar library called wradlib.
+ 
+   Expected length: *20 minutes*
+   
+   Talk level: *Beginner*
+
 .. raw:: html
 
    </div>
