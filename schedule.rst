@@ -225,82 +225,146 @@ Schedule
    
    <table class="docutils">
         <colgroup>
-            <col width="58%" />
-            <col width="42%" />
+            <col width="16%" />
+            <col width="54%" />
+            <col width="30%" />
         </colgroup>
+        
         <tr>
+            <th></th>
             <th>Beginners</th>
         </tr>
+
         <tr>
+            <th> Time </th>
+            <th> Talk </th>
+            <th> Speaker </th>
+        </tr>
+        
+        <tr>
+            <td>01:00 - 02:00</td>
             <td>MySQL Fabric: Python and MySQL are meant to be</td>
             <td><a class="reference internal" href="speakers.html#ronen-baram">Ronen Baram</a></td>
         </tr>
         <tr>
+            <td>02:00 - 02:40</td>
             <td>Using Scrapy at work and sideprojects</td>
             <td><a class="reference internal" href="speakers.html#juan-paolo-balbin">Juan Paolo Balbin</a> and<br> <a class="reference internal" href="speakers.html#conrad-miguel-gozalo">Conrad Miguel Gozalo</a></td>
         </tr>
         <tr>
+            <td>02:40 - 03:20</td>
             <td>Learning by Experience, Devploying pyxbackup</td>
             <td><a class="reference internal" href="speakers.html#jervin-real">Jervin Real</a></td>
         </tr>
         <tr>
+            <td>03:20 - 04:00</td>
+            <td>Snacks</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>04:00 - 04:40</td>
             <td>Spatial data analysis with Python</td>
             <td><a class="reference internal" href="speakers.html#romer-kristi-d-aranas">Romer Kristi D. Aranas</a></td>
         </tr>
     </table>
 
+    <br>
+
     <table class="docutils">
         <colgroup>
-            <col width="58%" />
-            <col width="42%" />
+            <col width="16%" />
+            <col width="54%" />
+            <col width="30%" />
         </colgroup>
+        
         <tr>
+            <th></th>
             <th>Classroom 2</th>
         </tr>
+
         <tr>
+            <th> Time </th>
+            <th> Talk </th>
+            <th> Speaker </th>
+        </tr>
+        <tr>
+            <td>01:00 - 02:10</td>
             <td>DRR (Docker-Django-React)</td>
             <td><a class="reference internal" href="speakers.html#mark-steve-samson">Mark Steve Samson</a></td>
         </tr>
         <tr>
+            <td>02:10 - 03:20</td>
             <td>Plone: What other CMS wants to be when they grow up</td>
             <td><a class="reference internal" href="speakers.html#holden-hao">Holden Hao</a></td>
         </tr>
         <tr>
+            <td>03:20 - 04:00</td>
+            <td>Snacks</td>
+            <td></td>
+        </tr>        
+        <tr>
+            <td>04:00 - 05:00</td>
             <td>Data Center Automation using Python</td>
             <td><a class="reference internal" href="speakers.html#dean-armada">Dean Armada</a></td>
         </tr>
     </table>
 
+    <br>
+
     <table class="docutils">
         <colgroup>
-            <col width="58%" />
-            <col width="42%" />
+            <col width="16%" />
+            <col width="54%" />
+            <col width="30%" />
         </colgroup>
         <tr>
+            <th></th>
             <th>Classroom 3</th>
         </tr>
         <tr>
+            <th> Time </th>
+            <th> Talk </th>
+            <th> Speaker </th>
+        </tr>
+        <tr>
+            <td>01:00 - 02:10</td>
             <td>Build great single page apps</td>
             <td><a class="reference internal" href="speakers.html#mary-grace-coroza">Mary Grace Coroza</a></td>
         </tr>
         <tr>
+            <td>02:10 - 03:20</td>
             <td>Python as a Backend</td>
             <td><a class="reference internal" href="speakers.html#rex-mupas">Rex Mupas</a>, <a class="reference internal" href="speakers.html#dhon-rocafort">Dhon Rocafort</a> and<br> <a class="reference internal" href="speakers.html#john-paul-mendoza">John Paul Mendoza</a></td>
         </tr>
+        <tr>
+            <td>03:20 - 04:00</td>
+            <td>Snacks</td>
+            <td></td>
+        </tr>
     </table>
+
+    <br>
 
     <table class="docutils">
         <colgroup>
-            <col width="58%" />
-            <col width="42%" />
+            <col width="16%" />
+            <col width="54%" />
+            <col width="30%" />
         </colgroup>
         <tr>
-            <th>Django Workshop (Laptops are required)</th>
+            <th></th>
+            <th>Django Workshop<em>(Laptops are required)</em></th>
+            <th></th>
         </tr>
 
         <tr>
-            <td>Django Workshop</td>
+            <td>01:00 - 04:00</td>
+            <td>Django</td>
             <td><a class="reference internal" href="speakers.html#jon-danao">Jon Danao</a></td>
+        </tr>
+        <tr>
+            <td>03:00 - 04:00</td>
+            <td>Snacks</td>
         </tr>
     </table>
 
