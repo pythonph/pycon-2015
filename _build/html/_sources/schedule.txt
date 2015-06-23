@@ -251,11 +251,6 @@ Schedule
             <td>Snacks</td>
             <td></td>
         </tr>
-        <tr>
-            <td>04:00 - 04:40</td>
-            <td>Spatial data analysis with Python</td>
-            <td><a class="reference internal" href="speakers.html#romer-kristi-d-aranas">Romer Kristi D. Aranas</a></td>
-        </tr>
     </table>
 
     <br>
@@ -331,6 +326,11 @@ Schedule
             <td>Snacks</td>
             <td></td>
         </tr>
+        <tr>
+            <td>04:00 - 04:40</td>
+            <td>Spatial data analysis with Python</td>
+            <td><a class="reference internal" href="speakers.html#romer-kristi-d-aranas">Romer Kristi D. Aranas</a></td>
+        </tr>
     </table>
 
     <br>
@@ -343,7 +343,7 @@ Schedule
         </colgroup>
         <tr>
             <th></th>
-            <th>Django Workshop<em>(Laptops are required)</em></th>
+            <th>Django Workshop <em>(Laptops are required)</em></th>
             <th></th>
         </tr>
 
