@@ -27,11 +27,6 @@ Schedule
             <th> Speaker </th>
         </tr>
         <tr>
-            <td>07:00 - 08:25</td>
-            <td>On-site late registration</td>
-            <td></td>
-        </tr>
-        <tr>
             <td>08:25 - 08:30</td>
             <td>National Anthem</td>
             <td></td>
@@ -174,7 +169,7 @@ Schedule
         <tr>
             <td>11:30 - 12:10</td>
             <td>Python in Doppler Radar Processing</td>
-            <td><a class="reference internal" href="speakers.html#irene-crisologo">Irene Crisolog</a></td>
+            <td><a class="reference internal" href="speakers.html#irene-crisologo">Irene Crisologo</a></td>
         </tr>        
         <tr>
             <td>12:10 - 12:15</td>
