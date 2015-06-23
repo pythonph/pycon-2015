@@ -83,13 +83,13 @@ Schedule
         </tr>
         <tr>
             <td>02:50 - 03:30</td>
-            <td>Snacks</td>
-            <td></td>
+            <td>Software Testing</td>
+            <td><a class="reference internal" href="speakers.html#ray-anthony-dino">Ray Anthony Dino</a></td>
         </tr>
         <tr>
             <td>03:30 - 04:10</td>
-            <td>Software Testing</td>
-            <td><a class="reference internal" href="speakers.html#ray-anthony-dino">Ray Anthony Dino</a></td>
+            <td>Snacks</td>
+            <td></td>
         </tr>
         <tr>
             <td>04:10 - 04:50</td>
