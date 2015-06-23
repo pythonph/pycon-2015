@@ -270,6 +270,24 @@ Ray Diño
 ^^^^^^^^
 
 A Python and Django developer for 3 years. Currently exploring the world of data.
+
+.. image:: _static/images/speakers/earvin.jpg
+   :width: 150px
+   :align: left
+
+Earvin Gemenez
+^^^^^^^^^^^^^^
+
+Earvin is one of the people who started a python community in Davao City named DurianPy and is also a co-founder of a mobile app named mealsprout. He loves to code, to eat, but most of the time to sleep.
+
+.. image:: _static/images/speakers/arbin.jpg
+   :width: 150px
+   :align: left
+
+Arbin Bulaybulay
+^^^^^^^^^^^^^^^^
+
+Arbin is a singer-songwriter turns Python developer since 2005.  His day job is a Technical Lead in a number one award-winning BPO company in the country.  Runs a small web shop Pysoldev in the night and builds his own startup.  An active community leader for SugarPy.
     
 .. raw:: html
 
