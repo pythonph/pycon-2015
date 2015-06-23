@@ -90,4 +90,10 @@ Logistics Committee
 
 Stage-hand Committee
 ^^^^^^^^^^^^^^^^^^^^
+- Clarke Benedict Plumo
 - First Val Babon
+- Jonathan Doydora
+- Patrick Ofilada
+- Rommel Philip Afurong
+- Wilson Censon
+- Mark & Carlo
