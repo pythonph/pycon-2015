@@ -59,6 +59,15 @@ ideas into successful business startups.  Her current role as the CTO for Mayon
 Studios, Inc., leads the innovation process from conceptualization to
 implementation, developing cloud services for web and mobile applications.
 
+.. image:: _static/images/speakers/irene.jpeg
+   :width: 150px
+   :align: left
+
+Irene Crisologo
+^^^^^^^^^^^^^^^
+
+Irene is a Geologist-in-training with a Physics background doing research in Meteorology. When she is not processing the Doppler Radar images in Project NOAH, she may be outdoors, somewhere in the middle of nowhere. 
+
 .. image:: _static/images/speakers/ronen.png
    :width: 150px
    :align: left
@@ -262,15 +271,6 @@ Ray Diño
 
 A Python and Django developer for 3 years. Currently exploring the world of data.
     
-.. image:: _static/images/speakers/irene.jpeg
-   :width: 150px
-   :align: left
-
-Irene Crisologo
-^^^^^^^^^^^^^^^
-
-Irene is a Geologist-in-training with a Physics background doing research in Meteorology. When she is not processing the Doppler Radar images in Project NOAH, she may be outdoors, somewhere in the middle of nowhere. 
-
 .. raw:: html
 
    </div>
