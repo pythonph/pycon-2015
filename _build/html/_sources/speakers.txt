@@ -277,7 +277,7 @@ A Python and Django developer for 3 years. Currently exploring the world of data
 
 
 Community Panel
-===============
+----------------
 
 Earvin Gemenez
 ^^^^^^^^^^^^^^
