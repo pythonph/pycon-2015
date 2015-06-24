@@ -81,7 +81,6 @@ The following individuals volunteered at least eight hours of their time during 
 
 Logistics Committee
 ^^^^^^^^^^^^^^^^^^^
-
 - Jadurani Davalos
 - Caryssa Sobrepena
 - Alysson Alvaran
@@ -97,3 +96,9 @@ Stage-hand Committee
 - Rommel Philip Afurong
 - Wilson Censon
 - Mark & Carlo
+
+Emcees
+------
+- Alysson Alvaran
+- Beato Bongco
+- Randall Sayat

@@ -218,6 +218,7 @@ Schedule
         <tr>
             <th></th>
             <th>Beginners</th>
+            <th></th>
         </tr>
 
         <tr>
@@ -260,6 +261,7 @@ Schedule
         <tr>
             <th></th>
             <th>Classroom 2</th>
+            <th></th>
         </tr>
 
         <tr>
@@ -300,6 +302,7 @@ Schedule
         <tr>
             <th></th>
             <th>Classroom 3</th>
+            <th></th>
         </tr>
         <tr>
             <th> Time </th>
