@@ -1,5 +1,5 @@
-PyCon Philippines
-=================
+PyCon Philippines 2015
+======================
 
 PyCon Philippines is a `volunteer-run <http://pycon.python.ph/volunteers.html>`_, not-for-profit conference centered around
 the Python Programming language.
