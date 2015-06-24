@@ -271,13 +271,13 @@ Ray Diño
 
 A Python and Django developer for 3 years. Currently exploring the world of data.
 
+Community Panel
+----------------
+
 .. image:: _static/images/speakers/earvin.jpg
    :width: 150px
    :align: left
 
-
-Community Panel
-----------------
 
 Earvin Gemenez
 ^^^^^^^^^^^^^^
