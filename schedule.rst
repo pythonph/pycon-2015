@@ -12,7 +12,7 @@ Schedule
             </th>
         </tr>
    </table>
-        
+
    <table class="docutils">
         <colgroup>
             <col width="16%" />
@@ -20,7 +20,7 @@ Schedule
             <col width="30%" />
         </colgroup>
 
-        
+
         <tr>
             <th> Time </th>
             <th> Talk </th>
@@ -112,9 +112,9 @@ Schedule
             <td></td>
         </tr>
    </table>
-   
+
    <br>
-   
+
    <table class="docutils">
         <tr>
             <th width=100%>
@@ -129,7 +129,7 @@ Schedule
             <col width="54%" />
             <col width="30%" />
         </colgroup>
-        
+
         <tr>
             <th> Time </th>
             <th> Talk </th>
@@ -140,7 +140,7 @@ Schedule
             <td>08:00 - 08:25</td>
             <td>Registration for lightning talk</td>
             <td></td>
-        </tr>        
+        </tr>
         <tr>
             <td>08:25 - 08:30</td>
             <td>National Anthem</td>
@@ -150,12 +150,12 @@ Schedule
             <td>08:30 - 09:10</td>
             <td>Keynote: Experience as a Django core contributor and the problems and benefits of volunteering</td>
             <td><a class="reference internal" href="speakers.html#loic-bistuer">Loïc Bistuer</a></td>
-        </tr>                
+        </tr>
         <tr>
             <td>09:10 - 10:00</td>
             <td>Lightning talks from the audience</td>
             <td></td>
-        </tr>        
+        </tr>
         <tr>
             <td>10:00 - 10:30</td>
             <td>Snacks</td>
@@ -165,12 +165,12 @@ Schedule
             <td>10:30 - 11:30</td>
             <td>Python at the backbone of real-time Data Analytics</td>
             <td><a class="reference internal" href="speakers.html#abhishek-tiwari">Abhishek Tiwari</a></td>
-        </tr>                
+        </tr>
         <tr>
             <td>11:30 - 12:10</td>
             <td>Python in Doppler Radar Processing</td>
             <td><a class="reference internal" href="speakers.html#irene-crisologo">Irene Crisologo</a></td>
-        </tr>        
+        </tr>
         <tr>
             <td>12:10 - 12:15</td>
             <td>Group Picture</td>
@@ -199,7 +199,7 @@ Schedule
    </table>
 
    <br>
-    
+
    <table class="docutils">
         <tr>
             <th width=100%>
@@ -207,14 +207,14 @@ Schedule
             </th>
         </tr>
    </table>
-   
+
    <table class="docutils">
         <colgroup>
             <col width="16%" />
             <col width="54%" />
             <col width="30%" />
         </colgroup>
-        
+
         <tr>
             <th></th>
             <th>Beginners</th>
@@ -226,7 +226,7 @@ Schedule
             <th> Talk </th>
             <th> Speaker </th>
         </tr>
-        
+
         <tr>
             <td>01:00 - 02:00</td>
             <td>MySQL Fabric: Python and MySQL are meant to be</td>
@@ -257,7 +257,7 @@ Schedule
             <col width="54%" />
             <col width="30%" />
         </colgroup>
-        
+
         <tr>
             <th></th>
             <th>Classroom 2</th>
@@ -271,7 +271,7 @@ Schedule
         </tr>
         <tr>
             <td>01:00 - 02:10</td>
-            <td>DRR (Docker-Django-React)</td>
+            <td>DDR (Docker-Django-React)</td>
             <td><a class="reference internal" href="speakers.html#mark-steve-samson">Mark Steve Samson</a></td>
         </tr>
         <tr>
@@ -283,7 +283,7 @@ Schedule
             <td>03:20 - 04:00</td>
             <td>Snacks</td>
             <td></td>
-        </tr>        
+        </tr>
         <tr>
             <td>04:00 - 05:00</td>
             <td>Data Center Automation using Python</td>

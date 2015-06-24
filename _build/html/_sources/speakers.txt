@@ -66,7 +66,7 @@ implementation, developing cloud services for web and mobile applications.
 Irene Crisologo
 ^^^^^^^^^^^^^^^
 
-Irene is a Geologist-in-training with a Physics background doing research in Meteorology. When she is not processing the Doppler Radar images in Project NOAH, she may be outdoors, somewhere in the middle of nowhere. 
+Irene is a Geologist-in-training with a Physics background doing research in Meteorology. When she is not processing the Doppler Radar images in Project NOAH, she may be outdoors, somewhere in the middle of nowhere.
 
 .. image:: _static/images/speakers/ronen.png
    :width: 150px
@@ -297,10 +297,10 @@ Arbin is a singer-songwriter turns Python developer since 2005.  His day job is 
    :width: 150px
    :align: left
 
-​Cristy Loraine Fuerzas
+Cristy Loraine Fuerzas
 ^^^^^^^^^^^^^^^^^^^^^^
 Christy has been using Python as backend for web development for over a year. She is still exploring the world of the language and is eager to learn more about it. She hopes to create more software using Python.​
-    
+
 .. raw:: html
 
    </div>

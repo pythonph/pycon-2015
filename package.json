@@ -1,0 +1,30 @@
+{
+  "name": "pycon-2015",
+  "version": "1.0.0",
+  "description": "## Build",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watchify": "watchify _static/jsx/main.jsx -o _static/js/main.js -v",
+    "browserify": "browserify _static/jsx/main.jsx | uglifyjs > _static/js/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pythonph/pycon-2015.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pythonph/pycon-2015/issues"
+  },
+  "homepage": "https://github.com/pythonph/pycon-2015",
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.4",
+    "watchify": "^3.2.3"
+  },
+  "dependencies": {
+    "react": "^0.13.3",
+    "uglify-js": "^2.4.23"
+  }
+}

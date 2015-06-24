@@ -1,9 +1,11 @@
 # PyCon Philippines 2015
 
-## Build
+## Develop
 
 ```bash
-make html
+pipsi install sphinx
+pipsi install watchdog
+watchmedo shell-command --patterns="*.rst" --command="make html"
 ```
 
 ## Deploy
