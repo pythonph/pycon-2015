@@ -183,11 +183,11 @@ WhenInManila.com
 
 WhenInManila.com is the top online magazine in Manila and the Philippines.
 
-Activshow.com
+Aktivshow.com
 """""""""""""
 
 .. image:: _static/images/sponsors/activshow.jpg
-  :target: http://www.activshow.com
+  :target: http://www.aktivshow.com
 
 Your portal for unlimited events.
 
