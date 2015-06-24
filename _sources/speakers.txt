@@ -275,6 +275,10 @@ A Python and Django developer for 3 years. Currently exploring the world of data
    :width: 150px
    :align: left
 
+
+Community Panel
+===============
+
 Earvin Gemenez
 ^^^^^^^^^^^^^^
 
@@ -288,6 +292,14 @@ Arbin Bulaybulay
 ^^^^^^^^^^^^^^^^
 
 Arbin is a singer-songwriter turns Python developer since 2005.  His day job is a Technical Lead in a number one award-winning BPO company in the country.  Runs a small web shop Pysoldev in the night and builds his own startup.  An active community leader for SugarPy.
+
+.. image:: _static/images/speakers/christy.jpg
+   :width: 150px
+   :align: left
+
+​Cristy Loraine Fuerzas
+^^^^^^^^^^^^^^^^^^^^^^
+Christy has been using Python as backend for web development for over a year. She is still exploring the world of the language and is eager to learn more about it. She hopes to create more software using Python.​
     
 .. raw:: html
 

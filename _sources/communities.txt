@@ -42,6 +42,10 @@ DurianPy
 ^^^^^^^^
 `Davao's Python Community <https://twitter.com/durianpy>`_ -- where Pythonistas and enthusiasts gather to discuss trends and share knowledge about the IT industry over a pack of Durian candies (not always). Fresh talks and friendly conversations, guaranteed!
 
+.. image:: _static/images/community/pytsada.png
+   :width: 200px
+   :align: right
+
 PyTsada
 ^^^^^^^
 `ITG-PyTsada <https://www.facebook.com/groups/itgpytsada/>`_ or simply "PyTsada" is a group for sharing Python and Python-related stuff, organizing meetups, events, promotion of Python in education, among others, here in Cagayan de Oro City and nearby areas.
