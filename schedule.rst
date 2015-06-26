@@ -344,15 +344,35 @@ Schedule
             <th>Django Workshop <em>(Laptops are required)</em></th>
             <th></th>
         </tr>
-
         <tr>
-            <td>01:00 - 04:00</td>
-            <td>Django</td>
+            <td>01:00 - 01:30</td>
+            <td>1. How to setup your machine for Django</td>
             <td><a class="reference internal" href="speakers.html#jon-danao">Jon Danao</a></td>
         </tr>
         <tr>
-            <td>03:00 - 04:00</td>
-            <td>Snacks</td>
+            <td>01:30 - 02:00</td>
+            <td>2. How to start a Django project </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>02:00 - 03:00</td>
+            <td>3. How to define your data</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>03:00 - 03:30</td>
+            <td>4. How to access your data</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>03:30 - 04:00</td>
+            <td>Break</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>04:00 - 04:30</td>
+            <td>5. How to render your data</td>
+            <td></td>
         </tr>
     </table>
 
