@@ -366,7 +366,7 @@ Schedule
         </tr>
         <tr>
             <td>03:30 - 04:00</td>
-            <td>Break</td>
+            <td>Snacks</td>
             <td></td>
         </tr>
         <tr>
