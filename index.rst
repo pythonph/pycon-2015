@@ -20,6 +20,7 @@ startup founders, corporate IT decision makers, students and IT educators in a
    speakers
    talks
    communities
+   schedule
    tickets
    volunteers
    coc
