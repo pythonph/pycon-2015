@@ -278,18 +278,26 @@ Community Panel
    :width: 150px
    :align: left
 
-
-Earvin Gemenez
-^^^^^^^^^^^^^^
+Earvin Gemenez, DurianPy
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 Earvin is one of the people who started a python community in Davao City named DurianPy and is also a co-founder of a mobile app named mealsprout. He loves to code, to eat, but most of the time to sleep.
+
+.. image:: _static/images/speakers/pat.jpg
+   :width: 150px
+   :align: left
+
+Ed Patrick Tan, DurianPy
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+A Pythonista and Djangonaut at Ingenuity (http://www.ingenuity.ph). Loves kite flying, stargazing and everything related to Astronomy!
 
 .. image:: _static/images/speakers/arbin.jpg
    :width: 150px
    :align: left
 
-Arbin Bulaybulay
-^^^^^^^^^^^^^^^^
+Arbin Bulaybulay, SugarPy
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Arbin is a singer-songwriter turns Python developer since 2005.  His day job is a Technical Lead in a number one award-winning BPO company in the country.  Runs a small web shop Pysoldev in the night and builds his own startup.  An active community leader for SugarPy.
 
@@ -297,9 +305,19 @@ Arbin is a singer-songwriter turns Python developer since 2005.  His day job is 
    :width: 150px
    :align: left
 
-Cristy Loraine Fuerzas
-^^^^^^^^^^^^^^^^^^^^^^
+Cristy Loraine Fuerzas, WaterPy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 Christy has been using Python as backend for web development for over a year. She is still exploring the world of the language and is eager to learn more about it. She hopes to create more software using Python.​
+
+.. image:: _static/images/speakers/lio.jpg
+   :width: 150px
+   :align: left
+
+Lionel Amarado, PyTsada
+^^^^^^^^^^^^^^^^^^^^^^^
+
+Lio is the founder of `Innovuze Solutions <http://www.innovuze.com/>`_ which started back in 2013 with around 3 developers. After 2 years, it's now a BPO company with more than 45 employees composed of developers, testers, content writers, SEO specialists, among others.
 
 .. raw:: html
 
