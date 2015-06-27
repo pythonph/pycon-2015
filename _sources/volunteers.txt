@@ -38,9 +38,9 @@ Committee Chairs
 
 2. **Logistics Co-Chairs** - Christine Balili, Kathleen Lara and Matt Lebrun
 
-  Matt, Christine and Kathleen are responsible for all the footwork and communication needed to get things in order for the venue, conference food and volunteer dinner.
+  Christine, Kathleen and Matt are responsible for all the footwork and communication needed to get things in order for the venue, conference food and volunteer dinner.
 
-  You can reach them at treasurer@python.ph (Matt), chrisbalili99@gmail.com, and kathleencastrolara@gmail.com or via Twitter `@cr8ivecodesmith <https://twitter.com/cr8ivecodesmith>`_ and `@tingbalili <https://twitter.com/tingbalili>`_
+  You can reach them at chrisbalili99@gmail.com, kathleencastrolara@gmail.com and treasurer@python.ph (Matt) or via Twitter `@tingbalili <https://twitter.com/tingbalili>`_ and `@cr8ivecodesmith <https://twitter.com/cr8ivecodesmith>`_ 
 
 3. **Stage-hand Chair** - Josef Monje and Dian Leithon Isidro
 
