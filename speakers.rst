@@ -329,6 +329,15 @@ Matt Lebrun, ManilaPy
 
 Matt is a Python/Django craftsman at `EdgePI <http://www.edgepi.com/>`_ and an advocate of `Python PH <http://python.ph>`_. Loves teaching and learning.
 
+.. image:: _static/images/speakers/nadine.jpg
+   :width: 150px
+   :align: left
+
+Nadine Jamila, PyLadies Manila
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Nadine is passionate about programming and skin-diving! She has a degree in Management Engineering in Ateneo, and fell in love with code in UP.  She currently runs a small Python dev shop, and enjoys learning from and helping out people in the Python community!
+
 .. image:: _static/images/speakers/mickey.jpg
    :width: 150px
    :align: left
