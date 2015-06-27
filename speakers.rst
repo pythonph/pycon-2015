@@ -336,7 +336,7 @@ Matt is a Python/Django craftsman at `EdgePI <http://www.edgepi.com/>`_ and an a
 Micaela Reyes, PyLadies Manila
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Mickey is a Software Engineer at Freelancer.com. She's a big fan of Dicta License and believes that life is indeed "more than just eating, breathing and accumulating"--it's cheesy but there's no point denying it. Lover of Open Source and all things Python. Advocate at Python.PH and `PyLadies Manila <https://twitter.com/pyladiesmanila>`_.
+Mickey is a Software Engineer at Freelancer.com. She's a big fan of Dicta License and believes that life is indeed *"more than just eating, breathing and accumulating"*--it's cheesy but there's no point denying it. Lover of Open Source and all things Python. Advocate at Python.PH and `PyLadies Manila <https://twitter.com/pyladiesmanila>`_.
 
 .. raw:: html
 
