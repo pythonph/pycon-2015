@@ -36,7 +36,7 @@ Committee Chairs
 
   Joy is responsible for the design of promotional materials for PyCon. You may reach her at vermarijoyguarneslebrun@gmail.com.
 
-2. **Logistics Co-Chairs** - Matt Lebrun, Christine Balili and Kathleen Lara
+2. **Logistics Co-Chairs** - Christine Balili, Kathleen Lara and Matt Lebrun
 
   Matt, Christine and Kathleen are responsible for all the footwork and communication needed to get things in order for the venue, conference food and volunteer dinner.
 
