@@ -319,6 +319,25 @@ Lionel Amarado, PyTsada
 
 Lio is the founder of `Innovuze Solutions <http://www.innovuze.com/>`_ which started back in 2013 with around 3 developers. After 2 years, it's now a BPO company with more than 45 employees composed of developers, testers, content writers, SEO specialists, among others.
 
+
+.. image:: _static/images/speakers/matt.jpg
+   :width: 150px
+   :align: left
+
+Matt Lebrun, ManilaPy
+^^^^^^^^^^^^^^^^^^^^^
+
+Matt is a Python/Django craftsman at `EdgePI <http://www.edgepi.com/>`_ and an advocate of `Python PH <http://python.ph>`_. Loves teaching and learning.
+
+.. image:: _static/images/speakers/mickey.jpg
+   :width: 150px
+   :align: left
+
+Micaela Reyes, PyLadies Manila
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Mickey is a Software Engineer at Freelancer.com. She's a big fan of Dicta License and believes that life is indeed "more than just eating, breathing and accumulating"--it's cheesy but there's no point denying it. Lover of Open Source and all things Python. Advocate at Python.PH and `PyLadies Manila <https://twitter.com/pyladiesmanila>`_.
+
 .. raw:: html
 
    </div>
