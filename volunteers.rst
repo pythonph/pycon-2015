@@ -1,29 +1,21 @@
 Volunteers
 ==========
 
-Call for Volunteers
--------------------
-
-PyCon Philippines is ran by volunteers. The previous PyCons would not have been
+PyCon Philippines is run by volunteers. The previous PyCons would not have been
 successful without the help of these individuals. This year will not be different.
 
-We have many roles that need to be filled to make PyCon PH 2015 awesome. Being a
-volunteer is hard work but they will be rewarded with:
+.. image:: _static/images/pycon-2014-volunteers.jpg
+   :width: 600px
+   :align: left
+*PyConPH 2014 Volunteers*
 
- - Free PyCon PH 2015 tickets
- - Free dinner on the first day with the speakers
- - Special and limited-run PyCon PH 2015 Volunteer T-shirt
- - PyCon PH 2015 volunteer's certificate
+.. image:: _static/images/pycon-volunteers.jpg
+   :width: 600px
+   :align: left
+*PyConPH 2015 Volunteers*
 
-.. raw:: html
 
-  <p>
-    <a href="http://link.python.ph/1MoYWwP">
-      <button class="big-button">
-        Become a volunteer
-      </button>
-    </a>
-  </p>
+The spirit of volunteerism is what makes the Python community and tech events like PyCon distinctly inspiring. Below are the list of people who stepped up to bring you PyCon Philippines 2015:
 
 Conference Chair
 ----------------
