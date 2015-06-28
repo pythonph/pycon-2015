@@ -12,9 +12,14 @@ successful without the help of these individuals. This year will not be differen
 .. image:: _static/images/pycon-volunteers.jpg
    :width: 600px
    :align: left
-*PyConPH 2015 Volunteers*
+*PyConPH 2015 Volunteers, June 27 Briefing*
 
 .. image:: _static/images/ateneo-ocular.jpg
+   :width: 600px
+   :align: left
+*Ocular visit at Ateneo*
+
+.. image:: _static/images/leong-roofdeck.jpg
    :width: 600px
    :align: left
 *Ocular visit at Ateneo*
