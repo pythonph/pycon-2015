@@ -14,6 +14,10 @@ successful without the help of these individuals. This year will not be differen
    :align: left
 *PyConPH 2015 Volunteers*
 
+.. image:: _static/images/ateneo-ocular.jpg
+   :width: 600px
+   :align: left
+*Ocular visit at Ateneo*
 
 The spirit of volunteerism is what makes the Python community and tech events like PyCon distinctly inspiring. Below are the list of people who stepped up to bring you PyCon Philippines 2015:
 
@@ -74,7 +78,6 @@ The following individuals volunteered at least eight hours of their time during 
 Logistics Committee
 ^^^^^^^^^^^^^^^^^^^
 - Jadurani Davalos
-- Caryssa Sobrepena
 - Alysson Alvaran
 - Nikko Magalona
 - John Paul Llenaresas
