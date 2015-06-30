@@ -327,7 +327,7 @@ Lio is the founder of `Innovuze Solutions <http://www.innovuze.com/>`_ which sta
 Matt Lebrun, ManilaPy
 ^^^^^^^^^^^^^^^^^^^^^
 
-Matt is a Python/Django craftsman at `EdgePI <http://www.edgepi.com/>`_ and an advocate of `Python PH <http://python.ph>`_. Loves teaching and learning.
+Matt is a Python/Django craftsman at `Save22 <http://www.save22.com.ph/>`_ and an advocate of `Python PH <http://python.ph>`_. Loves teaching and learning.
 
 .. image:: _static/images/speakers/nadine.jpg
    :width: 150px
