@@ -173,8 +173,22 @@ development with Python programming language. In addition, the IDE
 provides high-class capabilities for professional Web development with Django
 framework.
 
+Technology Partners
+^^^^^^^^^^^^^^^^^^^
+
+Smart Developer Network
+"""""""""""""""""""""""
+
+.. image:: _static/images/sponsors/smartdevnet.jpg
+  :target: http://smart.com.ph/developer/
+
+JetBrains PyCharm — Python IDE with complete set of tools for productive
+development with Python programming language. In addition, the IDE
+provides high-class capabilities for professional Web development with Django
+framework.
+
 Media Partners
-^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^
 
 WhenInManila.com
 """"""""""""""""
