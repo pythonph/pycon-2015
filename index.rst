@@ -182,6 +182,8 @@ Smart Developer Network
 .. image:: _static/images/sponsors/smartdevnet.jpg
   :target: http://smart.com.ph/developer/
 
+The SMART Developer Network (also known as SMART DevNet) is SMART Communications' developer community program, targeted at developers on desktop and mobile platform interested in using SMART's technology platform such as network tools and APIs.
+
 Media Partners
 ^^^^^^^^^^^^^^
 
