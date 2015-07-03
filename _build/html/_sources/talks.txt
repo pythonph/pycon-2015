@@ -7,7 +7,7 @@ Talks
 
 .. topic:: Keynote: Open Source Roller Coasters
 
-   by `Stephen McDonald <stephen-mcdonald>`_
+   by `Stephen McDonald <speakers.html#stephen-mcdonald>`_
 
    Running a popular open source project
 
@@ -15,7 +15,7 @@ Talks
 
 .. topic:: Keynote: Experience as a Django core contributor
 
-   by `Loïc Bistuer <loic-bistuer>`_
+   by `Loïc Bistuer <speakers.html#loic-bistuer>`_
 
    Experience as a Django core contributor and the problems and benefits of volunteering.
 
@@ -185,7 +185,7 @@ Talks
 
 .. topic:: Developing a platform game in an hour using Python and Pygame
 
-   by `Sony Valdez <speakers.html#sony-valdez>`_
+   by `MrValdez <speakers.html#mrvaldez>`_
 
    Python can be used as a foundation for learning game development and game concepts. In this talk, we will prototype a platform game (similar to the Mario Bros. series) in under an hour. This will give the audience a basis for future game development.
 

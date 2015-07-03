@@ -239,7 +239,7 @@ occasionally contributes to various open source projects.
    :width: 150px
    :align: left
 
-Sony Valdez
+MrValdez
 ^^^^^^^^^^^
 
 Programmer. Gamer. Nerd. Mostly harmless.
