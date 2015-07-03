@@ -40,8 +40,7 @@ duration of the conference. We value your attendance.
 
    * - **Python.PH, Inc.**
      - | security@python.ph
-       .. | +632
-       .. | *Look for*
+       | 0999 440 9999
    * - **Ateneo Department of Information Systems and Computer Science (DISCS)**
      - | 02 426 6071 telefax
    * - **Ateneo Security and Safety Office**
