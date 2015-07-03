@@ -14,7 +14,7 @@ Address and Map
 
 .. raw:: html
 
-    <iframe frameborder="0" width="100%" height="300" src="http://bl.ocks.org/d/dc53fefc6ebda0c4982e"></iframe>
+    <iframe style="padding: 1.5em 0" width="600" height="450" src="http://bl.ocks.org/d/dc53fefc6ebda0c4982e"></iframe>
 
 Commute
 ^^^^^^^
