@@ -7,21 +7,25 @@ successful without the help of these individuals. This year will not be differen
 .. image:: _static/images/pycon-2014-volunteers.jpg
    :width: 600px
    :align: left
+
 *PyConPH 2014 Volunteers*
 
 .. image:: _static/images/pycon-volunteers.jpg
    :width: 600px
    :align: left
+
 *PyConPH 2015 Volunteers, June 27 Briefing*
 
 .. image:: _static/images/ateneo-ocular.jpg
    :width: 600px
    :align: left
+
 *Ocular visit at Ateneo*
 
 .. image:: _static/images/leong-roofdeck.jpg
    :width: 600px
    :align: left
+
 *Ocular visit at Ateneo*
 
 The spirit of volunteerism is what makes the Python community and tech events like PyCon distinctly inspiring. Below are the list of people who stepped up to bring you PyCon Philippines 2015:
@@ -49,7 +53,7 @@ Committee Chairs
 
   Christine, Kathleen and Matt are responsible for all the footwork and communication needed to get things in order for the venue, conference food and volunteer dinner.
 
-  You can reach them at chrisbalili99@gmail.com, kathleencastrolara@gmail.com and treasurer@python.ph (Matt) or via Twitter `@tingbalili <https://twitter.com/tingbalili>`_ and `@cr8ivecodesmith <https://twitter.com/cr8ivecodesmith>`_ 
+  You can reach them at chrisbalili99@gmail.com, kathleencastrolara@gmail.com and treasurer@python.ph (Matt) or via Twitter `@tingbalili <https://twitter.com/tingbalili>`_ and `@cr8ivecodesmith <https://twitter.com/cr8ivecodesmith>`_
 
 3. **Stage-hand Chair** - Josef Monje and Dian Leithon Isidro
 
