@@ -6,6 +6,12 @@
 {% block document %}
     {% if pagename ==  'timer' %}
         <script src="{{ pathto('_static/js/timer.js', 1) }}"></script>
+    {% elif pagename ==  'talks' %}
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.6/jquery.fullPage.min.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.6.6/jquery.fullPage.min.js"></script>
+        <script src="{{ pathto('_static/js/talks.js', 1) }}"></script>
+        {{ body }}
     {% else %}
         {{ super() }}
     {% endif %}

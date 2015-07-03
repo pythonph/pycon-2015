@@ -113,3 +113,20 @@ div.schedule table {
   border: 0.1em solid;
   padding: 0.2em;
 }
+
+.talks {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.talks h1 {
+  display: none;
+}
+
+div.talks .topic {
+  font-size: 3vh;
+  border: 0;
+  background: white;
+  padding: 0 10vh;
+}
