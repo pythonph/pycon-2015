@@ -79,7 +79,6 @@ div.schedule table {
 }
 
 .timer ul {
-  font-size: 5vh;
   list-style: none;
   padding: 0;
   margin: 0;
@@ -104,3 +103,10 @@ div.schedule table {
   color: inherit;
 }
 
+.timer-choices {
+  font-size: 5vh;
+}
+
+.timer-controls {
+  font-size: 10vh;
+}
