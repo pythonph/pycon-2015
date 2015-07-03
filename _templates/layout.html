@@ -3,3 +3,10 @@
     '//brick.a.ssl.fastly.net/PT+Serif:400,700,400i,700i/Raleway:400,700',
     '_static/css/pycon-2015.css',
 ] %}
+{% block document %}
+    {% if pagename ==  'timer' %}
+        <script src="{{ pathto('_static/js/timer.js', 1) }}"></script>
+    {% else %}
+        {{ super() }}
+    {% endif %}
+{% endblock %}

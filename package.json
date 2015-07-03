@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watchify": "watchify _static/jsx/main.jsx -o _static/js/main.js -v",
-    "browserify": "browserify _static/jsx/main.jsx | uglifyjs > _static/js/main.js"
+    "watchify-timer": "watchify _static/jsx/timer.jsx -o _static/js/timer.js -v",
+    "browserify-timer": "browserify _static/jsx/timer.jsx -o _static/js/timer.js"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,11 @@
     "watchify": "^3.2.3"
   },
   "dependencies": {
+    "pretty-ms": "^1.3.0",
     "react": "^0.13.3",
     "uglify-js": "^2.4.23"
+  },
+  "browserify": {
+    "transform": ["babelify"]
   }
 }
