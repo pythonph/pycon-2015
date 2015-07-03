@@ -95,8 +95,6 @@ div.schedule table {
   text-decoration: none;
   color: #ccc;
   display: inline-block;
-  border: 0.1em solid;
-  padding: 0.2em;
 }
 
 .timer ul a:hover {
@@ -109,4 +107,9 @@ div.schedule table {
 
 .timer-controls {
   font-size: 10vh;
+}
+
+.timer-controls li a {
+  border: 0.1em solid;
+  padding: 0.2em;
 }
