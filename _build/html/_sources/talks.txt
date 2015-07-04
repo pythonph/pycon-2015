@@ -2,16 +2,147 @@
 
    <div class="talks">
 
+   <div class="logo">
+      <strong>PyCon</strong>
+      Philippines 2015
+   </div>
+
+   <ul class="fixed-notes">
+      <li>
+         <strong>Wifi name</strong>
+         SMART LIVEMORE RIGHT
+      </li>
+      <li>
+         <strong>Wifi password</strong>
+         smartlivemore
+      </li>
+      <li>
+         <strong>Hashtag</strong>
+         #pyconph
+      </li>
+      <li>
+         <strong>Twitter</strong>
+         @pythonph
+      </li>
+   </ul>
+
 Talks
 =====
 
-.. topic:: Keynote: Open Source Roller Coasters
+.. topic:: National Anthem
+
+   *08:25 - 08:30*
+
+.. topic:: Welcome Remarks
+
+   by `Sony Valdez <speakers.html#sony-valdez>`_
+
+   *08:30 - 8:50*
+
+.. topic:: Keynote: Mezzanine
 
    by `Stephen McDonald <speakers.html#stephen-mcdonald>`_
 
    Running a popular open source project
 
-   Expected length: *60 minutes*
+   *08:50 - 10:00*
+
+.. topic:: Snacks
+
+   *10:00 - 10:30*
+
+.. topic:: Root of all evil
+
+   by `Andrew Paulo Robillo <speakers.html#andrew-paulo-robillo>`_
+
+   The road to heck is paved with good intentions and no programming language, not even Python, can save you from the siren call of premature optimization. Join me in understanding and hopefully delivering yourself from great evil by analyzing my own descent to perdition.
+
+   *10:30 - 11:10*
+
+   *Beginner*
+
+.. topic:: The use of useless things
+
+   by `Chad Estioco <speakers.html#chad-estioco>`_
+
+   Large organizations like Google and NASA use Python for serious stuff. This talk is about none of that.
+
+   This talk is about not taking programming too seriously and making things for no other reason than making things.
+
+   *11:10 - 11:50*
+
+   *Beginner*
+
+.. topic:: Community Panel
+
+   *11:50 - 12:15*
+
+.. topic:: Lunch
+
+   *12:15 - 01:00*
+
+.. topic:: Developing a platform game in an hour using Python and Pygame
+
+   by `Sony Valdez <speakers.html#sony-valdez>`_
+
+   Python can be used as a foundation for learning game development and game concepts. In this talk, we will prototype a platform game (similar to the Mario Bros. series) in under an hour. This will give the audience a basis for future game development.
+
+   *01:00 - 02:10*
+
+   *Beginner and Intermediate*
+
+.. topic:: Debugging
+
+   by `Daryl Yu <speakers.html#daryl-yu>`_
+
+   Debugging often feels like a chore that only the uncool programmers do. It
+   shouldn't be that way. This talk will look at some techniques and tools to
+   make debugging easier and maybe even enjoyable.
+
+   *02:10 - 02:50*
+
+   *Beginner*
+
+.. topic:: Software Testing
+
+   by `Ray Anthony Dino <speakers.html#ray-anthony-dino>`_
+
+   *02:50 - 03:30*
+
+   *Beginner*
+
+.. topic:: Snacks
+
+   *03:30 - 04:10*
+
+.. topic:: Developing Web Services Rapidly: Ferris Framework on Google App Engine
+
+   by `Andrea Levinge <speakers.html#andrea-levinge>`_
+
+   Allowing devices to speak to each other is the core of the Internet of Things, and the need to deploy web services rapidly has never been greater.
+
+   Ferris Framework on Google App Engine provides a lightning-fast way to write and deploy your
+   own web services in a way that feels Pythonesque.
+
+   In this talk we’ll look at real world use cases and show snippets on how build your own ’twivial’ twitterbot using Ferris, GAE and Tweepy.
+
+   *04:10 - 04:50*
+
+   *Beginner*
+
+.. topic:: Jasper Project on the Raspberry Pi
+
+   by `Elymar Apao <speakers.html#elymar-apao>`_
+
+   This is a demonstration of the use of a Raspberry Pi and the Jasper Project (an open sourced assistant software written in Python).
+
+   *04:50 - 05:30*
+
+   *Beginner*
+
+.. topic:: PyCon Meta
+
+   *05:30 - 06:00*
 
 .. topic:: Keynote: Experience as a Django core contributor
 
@@ -20,7 +151,6 @@ Talks
    Experience as a Django core contributor and the problems and benefits of volunteering.
 
    Expected length: *30 minutes*
-
 
 .. topic:: Data Center Automation using Python
 
@@ -32,7 +162,7 @@ Talks
 
    Expected length: *80 minutes*
 
-   Talk level: *Intermediate*
+   *Intermediate*
 
 
 .. topic:: MySQL Fabric: Python and MySQL are meant to be
@@ -47,7 +177,7 @@ Talks
 
    Expected length: *45 minutes*
 
-   Talk level: *Beginner and Intermediate*
+   *Beginner and Intermediate*
 
 
 .. topic:: Build great single page apps
@@ -60,20 +190,7 @@ Talks
 
    Expected length: *45 minutes*
 
-   Talk level: *Advanced*
-
-
-.. topic:: The use of useless things
-
-   by `Chad Estioco <speakers.html#chad-estioco>`_
-
-   Large organizations like Google and NASA use Python for serious stuff. This talk is about none of that.
-
-   This talk is about not taking programming too seriously and making things for no other reason than making things.
-
-   Expected length: *30 minutes*
-
-   Talk level: *Beginner*
+   *Advanced*
 
 
 .. topic:: Python as a Backend
@@ -95,24 +212,7 @@ Talks
 
    Expected length: *30-45 minutes*
 
-   Talk level: *Beginner*
-
-
-.. topic:: Developing Web Services Rapidly: Ferris Framework on Google App Engine
-
-   by `Andrea Levinge <speakers.html#andrea-levinge>`_
-
-   Allowing devices to speak to each other is the core of the Internet of Things, and the need to deploy web services rapidly has never been greater.
-
-   Ferris Framework on Google App Engine provides a lightning-fast way to write and deploy your
-   own web services in a way that feels Pythonesque.
-
-   In this talk we’ll look at real world use cases and show snippets on how build your own ’twivial’ twitterbot using Ferris, GAE and Tweepy.
-
-   Expected length: *30 minutes*
-
-   Talk level: *Beginner*
-
+   *Beginner*
 
 .. topic:: Plone: What other CMS wants to be when they grow up
 
@@ -124,7 +224,20 @@ Talks
 
    Expected length: *1 hour*
 
-   Talk level: *Intermediate*
+   *Intermediate*
+
+
+.. topic:: zc.buildout save the world
+
+   by `Maksym Shalenyi <speakers.html#maksym-shalenyi>`_
+
+   Environment setup for big projects and their maintenance in a long term perspective is a pretty complicated task. This talk will show how much easier it can be with using zc.buildout to set up, develop and maintain projects.
+
+   In few words, zc.buildout is a Pythonic, easy to configure and assemble, highly reproducible way for managing project environments with keeping all versions under control.
+
+   Expected length: *1 hour*
+
+   *Intermediate*
 
 
 .. topic:: Learning by Experience, Deploying pyxbackup
@@ -137,7 +250,7 @@ Talks
 
    Expected length: *45 minutes*
 
-   Talk level: *Beginner*
+   *Beginner*
 
 
 .. topic:: Spatial data analysis with Python
@@ -148,30 +261,7 @@ Talks
 
    Expected length: *45 minutes*
 
-   Talk level: *Intermediate*
-
-
-.. topic:: Root of all evil
-
-   by `Andrew Paulo Robillo <speakers.html#andrew-paulo-robillo>`_
-
-   The road to heck is paved with good intentions and no programming language, not even Python, can save you from the siren call of premature optimization. Join me in understanding and hopefully delivering yourself from great evil by analyzing my own descent to perdition.
-
-   Expected length: *30 minutes*
-
-   Talk level: *Beginner*
-
-
-.. topic:: Jasper Project on the Raspberry Pi
-
-   by `Elymar Apao <speakers.html#elymar-apao>`_
-
-   This is a demonstration of the use of a Raspberry Pi and the Jasper Project (an open sourced assistant software written in Python).
-
-   Expected length: *30 minutes*
-
-   Talk level: *Beginner*
-
+   *Intermediate*
 
 .. topic:: DDR (Docker-Django-React)
 
@@ -181,17 +271,7 @@ Talks
 
    Expected length: *45 minutes*
 
-   Talk level: *Intermediate and Advanced*
-
-.. topic:: Developing a platform game in an hour using Python and Pygame
-
-   by `MrValdez <speakers.html#mrvaldez>`_
-
-   Python can be used as a foundation for learning game development and game concepts. In this talk, we will prototype a platform game (similar to the Mario Bros. series) in under an hour. This will give the audience a basis for future game development.
-
-   Expected length: *1 hour*
-
-   Talk level: *Beginner and Intermediate*
+   *Intermediate and Advanced*
 
 .. topic:: Django Workshop
 
@@ -201,51 +281,9 @@ Talks
 
    Expected length: *3 hours*
 
-   Talk level: *Beginner and Intermediate*
+   *Beginner and Intermediate*
 
    You may bring a laptop for the workshop.
-
-.. topic:: Debugging
-
-   by `Daryl Yu <speakers.html#daryl-yu>`_
-
-   Debugging often feels like a chore that only the uncool programmers do. It shouldn't be that way. This talk will look at some techniques and tools to make debugging easier and maybe even enjoyable.
-
-   Expected length: *30 minutes*
-
-   Talk level: *Beginner and Intermediate*
-
-.. topic:: Python as backbone for the data engineering
-
-   by `Abhishek Tiwari <speakers.html#abhishek-tiwari>`_
-
-   Data engineering is a new area in big data space with focus on building robust, scalable, fault-tolerant data pipelines to clean, transform, and aggregate both unstructured and structured data in order to provide real-time insights. Python has emerged as de-facto language to glue various components of data engineering. 
-   
-   This talk presents how Python is used at Datalicious for both managing data infrastructure and data processing. I will then discuss how we deeply integrate with various cloud services to build data pipelines based on stream processing model so we can deliver real-time data analytics.
-
-   Expected length: *1 hour*
-
-   Talk level: *Intermediate*
-
-.. topic:: Software Testing
-
-   by `Ray Diño <speakers.html#ray-dino>`_
-
-   An introduction to the world of software testing. What is testing and why do we need it? Includes practical examples of automated testing in Python.
-
-   Expected length: *30 minutes*
-
-   Talk level: *Beginner*
-
-.. topic:: Python in Doppler Radar Processing
-
-   by `Irene Crisologo <speakers.html#irene-crisologo>`_
-
-   Processing raw data, visualizing rainfall through rainfall maps, and analyzing rainfall patterns in the Philippines using the PAGASA doppler radars have been possible through the use of an open-source Python based radar library called wradlib.
- 
-   Expected length: *20 minutes*
-   
-   Talk level: *Beginner*
 
 .. raw:: html
 
