@@ -118,6 +118,7 @@ div.schedule table {
   position: absolute;
   top: 0;
   left: 0;
+  font-size: 3vh;
 }
 
 .talks h1 {
@@ -125,8 +126,37 @@ div.schedule table {
 }
 
 div.talks .topic {
-  font-size: 3vh;
   border: 0;
   background: white;
   padding: 0 10vh;
+}
+
+.talks .logo {
+  position: fixed;
+  top: 10vh;
+  left: 10vh;
+  z-index: 100;
+  font-family: raleway;
+}
+
+.fixed-notes {
+  font-family: raleway;
+  position: fixed;
+  bottom: 10vh;
+  right: 10vw;
+  z-index: 100;
+  list-style: none;
+  border: 1px solid;
+  padding: 1em;
+  background: white;
+}
+
+.fixed-notes li {
+  margin: 0;
+  padding: 0;
+}
+
+.fixed-notes strong {
+  width: 8em;
+  display: inline-block;
 }
