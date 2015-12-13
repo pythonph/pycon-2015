@@ -27,6 +27,11 @@ startup founders, corporate IT decision makers, students and IT educators in a
    past-pycons
    sponsorship
 
+Post PyCon
+----------
+
+PyCon Philippines 2015 has been completed. We have uploaded the `pictures <https://drive.google.com/folderview?id=0B0lTkgUVcnbJWi1ub1VZNldKRlU>`_ and the videos on `day 1 <https://drive.google.com/folderview?id=0B0lTkgUVcnbJam9jdGRNdU1vaVU>`_ and `day 2 <https://drive.google.com/folderview?id=0B0lTkgUVcnbJWi1ub1VZNldKRlU>`_.
+
 Organizers
 ----------
 PyCon PH 2015 is brought to you by:
