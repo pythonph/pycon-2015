@@ -30,7 +30,7 @@ startup founders, corporate IT decision makers, students and IT educators in a
 Post PyCon
 ----------
 
-PyCon Philippines 2015 has been completed. We have uploaded the `pictures <https://drive.google.com/folderview?id=0B0lTkgUVcnbJWi1ub1VZNldKRlU>`_ and the videos on `day 1 <https://drive.google.com/folderview?id=0B0lTkgUVcnbJam9jdGRNdU1vaVU>`_ and `day 2 <https://drive.google.com/folderview?id=0B0lTkgUVcnbJWi1ub1VZNldKRlU>`_.
+PyCon Philippines 2015 has been completed. We have uploaded the `pictures <https://goo.gl/photos/qgjbS1WbANgaNqJi9>`_ and the videos on `day 1 <https://drive.google.com/folderview?id=0B0lTkgUVcnbJam9jdGRNdU1vaVU>`_ and `day 2 <https://drive.google.com/folderview?id=0B0lTkgUVcnbJWi1ub1VZNldKRlU>`_.
 
 Organizers
 ----------
